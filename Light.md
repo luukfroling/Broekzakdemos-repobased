@@ -1,0 +1,221 @@
+# Light
+
+In the bare classroom there is scattered light from outside, sometimes
+direct sunlight. There are lamps in the ceiling and there are the little
+flashlights on the mobile telephones of students as well as light from
+the telephone screens. The teacher may even have a laser pointer in
+his/her pocket. It should be possible to show many optics phenomena with
+those different sources of light.
+
+## Straight line propagation of light
+The nicest start of lessons on optics is in a totally dark room with at most a candlelight. But a bare classroom is unlikely to have the necessary thick black curtains. Well, improvise with a candle, *let there be light!* I strongly suggest you go through some very basics that rarely make it into an optics lesson and try to assess some preconceptions of your students. Why not use some multiple-choice questions like the following (Osborne, 1983; Berg & Sundaru, 1989), to be answered individually. Figure 1 shows a candle burning in day light, The light of the candle: 
+A. stays on the candle, 
+B. comes out halfway towards you, 
+C. moves away from the candle until obstructed. 
+
+Then the same question but now the candle it is nighttime. Then follows a plenary discussion on how far light can go. If somebody with a telescope is 1 km away, can he see the candle? Does that mean that the light of the candle reaches the telescope, or is the light on the candle and the telescope looks at it?
+
+1\. Consider figure 1. A candle is burning during the day. The light
+from the candle:
+
+A.  stays on the candle.
+
+B.  Comes out about halfway towards you
+
+C.  Comes out as far as you but no farther
+
+D.  Comes out until it hits something.
+
+![](media/image55.png){width="2.4in" height="1.479861111111111in"}
+ Figure 1: You are watching a candle during the day
+
+2\. Now (Figure 2) there is a brown out during the evening and you are
+using a candle. The light from the candle:
+
+A.  stays on the candle.
+
+B.  Comes out about halfway towards you
+
+C.  Comes out as far as you but no farther
+
+D.  Comes out until it hits something.
+
+![](media/image56.png){width="2.5in" height="1.4in"}
+
+Figure 2: You are watching a candle during the night
+
+![](media/image57.png){width="2.35in" height="1.0833333333333333in"}
+
+Figure 3: You are watching a lamp during the day
+
+3\. The light bulb of figure 3 is on during the day. The light from the
+light bulb:
+
+A.  stays on the bulb.
+
+B.  Comes out about halfway towards you
+
+C.  Comes out as far as you but no farther
+
+D.  Comes out until it hits something.
+
+4\. Now it is evening. The light from the light bulb:
+
+A.  stays on the bulb.
+
+B.  Comes out about halfway towards you
+
+C.  Comes out as far as you but no farther
+
+D.  Comes out until it hits something.
+
+## White light and colors
+Let students use transparent ballpoint pens or other transparent glass or plastic objects to produce a spectrum. Does anybody have a pocketknife with a lens? Then recombine the colors into white. With an OHP in the room there would be many more possibilities.
+
+## Producing colors
+From the previous experiment we might have learned that anything with a wedge shape, like those cheap ballpoints with a hexagonal profile, can produce colors from white light. We can recognize such shapes everywhere, like the edge of a bathroom mirror and a prism. Look around, does anybody have clothing or shoes with glitter and colors? Any wedge shapes involved?
+
+##  Color subtraction
+Anybody with transparent, colored candy wrappers? Use a flashlight or the light of a telephone and shine it through the colored paper towards the students. The original light is white, the paper wrappers subtract colors from white. A red paper wrapper subtracts blue and green and lets red go through. A blue paper wrapper subtracts green and red and lets blue go through. If you have more candy wrappers and more lamps you can add colors together again (figure 4).
+
+  ------------------------------------------------------------------------------------------------------------------------
+  ![Afbeelding met vloer, Rechthoek, mat, Vloermateriaal Door  ![Afbeelding met Kinderkunst, kunst, vakwerk, overdekt Door
+  AI gegenereerde inhoud is mogelijk                           AI gegenereerde inhoud is mogelijk
+  onjuist.](media/image58.jpeg){width="2.7246773840769904in"   onjuist.](media/image59.jpeg){width="2.747542650918635in"
+  height="2.046797900262467in"}                                height="2.063976377952756in"}
+  ------------------------------------------------------------ -----------------------------------------------------------
+  Figure 4 Color filters for subtracting colors or use candy   Figure 5 Spinning disks for adding colors. See the string,
+  wrappers which students may be able to supply.               with one hole in the center of the disk and another off
+                                                               center, one can make the disk spin.
+
+  ------------------------------------------------------------------------------------------------------------------------
+
+##  {#section-2 .list-paragraph}
+
+## Color addition
+Perhaps you have a Newton color disk on top of a spinning top. By spinning colors you can add them up to a white appearance. Or use a string through one hole in the center and one off center to make the disk spin. Of course PhET has a very nice simulation for color addition which shows how with primary colors all other colors can be produced.
+
+## Reflection
+There must be students in class with a mirror in their bag. Other reflecting objects might be windows, metals, spoons, etc. One can easily imagine many demonstrations. A spectacular demo is to tell your class that your whole body will be visible in any mirror as long as you increase your distance to the mirror (figures 6 and 7). Then you *disprove*, using a mirror taken from outside the classroom, or borrowing a mirror from one of the girls. Beware of convex and concave mirrors for this particular demo, the mirror should be flat.
+
+  -------------------------------------------------------------------------------------------------------------
+  ![](media/image60.png){width="2.7777777777777777in"    ![](media/image61.png){width="2.763888888888889in"
+  height="2.263888888888889in"}                          height="2.263888888888889in"}
+  ------------------------------------------------------ ------------------------------------------------------
+  Figure 6 In front of the mirror. The mirror is         Figure 7 If the person walks backward, the shoes will
+  positioned such that the person cannot see his shoes.  remain invisible as the point where the reflected
+                                                         light ray (to the eye) hits the wall does not change.
+
+  ![](media/image62.png){width="2.895138888888889in"     ![](media/image63.png){width="2.9055555555555554in"
+  height="2.1770833333333335in"}                         height="2.1770833333333335in"}
+
+  Figure 8: Finger in glass towards front.               Figure 9 Finger in glass towards the back, we look at
+                                                         it through a cylindrical water lens.
+
+  ![](media/image64.jpeg){width="3.0416666666666665in"   ![](media/image65.jpeg){width="3.0520833333333335in"
+  height="2.2792957130358706in"}                         height="2.2871008311461067in"}
+
+  Figure 10 Inverted image when the object distance is   Figure 11 Upright image if the object distance is less
+  greater than the focal length.                         than the focal length.
+  -------------------------------------------------------------------------------------------------------------
+
+## FOTOSnell's Reflection Law 1
+We rarely demonstrate what it means that incident, and reflected (or refracted) light rays should be in one plane. Take three meter-sticks, or rulers, or pieces of pipe, or broom sticks, or pencils (too small). One meter-stick becomes the normal, the other two become incident and reflected or refracted rays respectively. Emphasize their orientation in one plane and show examples of orientations, which are not possible (not in one plane). Alternatively, you could ask students in their seats to demonstrate Snell's law to you using ballpoints and pencils. You can easily check 10 students in 1 minute. If you have a laser pointer and a small mirror, then of course you could easily confirm this by putting the mirror flat on the table and shining the laser on it.
+
+## Snell's reflection Law 2
+If there is a laser pointer in the room, then get a mirror from one of the girls, put it on the table, and show that the incoming and reflected rays are in one plane with the normal. Watch out that you get a flat mirror and not a concave or convex one.
+
+## Snell's reflection Law 3
+If you do have pins, then you can use a pencil standing straight up and construct light rays going towards and reflected away from a vertical mirror from several viewpoints and by extension find the virtual image. See a nice series of simple and useful experiments in McDermott et al (1996, p539-561).
+
+##  {#section-3 .list-paragraph}
+
+## Refraction 1
+ Walk around with pencil slanted in a glass of water, or better, in rectangular container.
+
+## Refraction 2 
+Stick your finger or pencil straight up in a (round) glass of water figures 10 and 11). Move through the classroom while moving your finger forward and backward. No need for talking, many students seem surprised at this everyday observation of a "swollen" finger. Explaining can be quick by stating that the water in a glass acts as a lens. A better explanation with refraction of light rays might take 10 minutes or could be given as a task for seat or home work.
+
+## Refraction 3 (Czech contribution to Physics on Stage, Nugent et al, 2010) 
+Draw parallel arrows on a piece of paper (the object), hold that behind a glass of water half-filled such that some arrows are seen through the air and other arrows through the water. If the object distance is farther than the focal length, then the arrows are reversed (figure 10). If nearer, then we see figure 11.
+
+## Bright versus dark background
+Switch off the classroom lights. The teacher or a student stands against the wall opposite of the windows. The face is clearly visible as more light is reflected from the face than from the background. Then the teacher or student stands in front of the windows with the face towards the class. Now the face looks dark and unclear as the reflected light from the face is very little compared to the light coming through the windows. Then turn on the lights in the classroom and the face is better visible again. The same effect is visible in figures 12 and 13.
+
+## Pupil, diaphragm
+Arrange students in pairs. They are to observe each other's pupil contraction. Make the classroom dark or let students cover their eyes. Then put on the lights. Can students see each other's pupils get smaller? Repeat one time for a better view the second time around.
+
+  ------------------------------------------------------------------------------------------------------------------------------
+  ![Afbeelding met muur Automatisch gegenereerde                  ![Afbeelding met buitenshuis, raam, hemel, Vastgoed
+  beschrijving](media/image66.jpg){width="2.6702121609798777in"   Automatisch gegenereerde
+  height="3.5602832458442695in"}                                  beschrijving](media/image67.jpg){width="2.673508311461067in"
+                                                                  height="3.564678477690289in"}
+  --------------------------------------------------------------- --------------------------------------------------------------
+  Figure 12 Tulip picture against dark background.                Figure 13 Tulip picture against light background.
+
+  ------------------------------------------------------------------------------------------------------------------------------
+
+## ![](media/image68.jpeg){width="2.16672353455818in" height="1.6276596675415573in"}Reflection and transmission 1
+Take a piece of paper, wet it a bit in the middle with water, oil, or saliva, then hold it in front of the window (or a lamp). The wet part appears light, it transmits. Then put the paper on the table where it reflects light. Now the wet spot looks dark, because of the transmission, it reflects less than dry paper. Students can do this in their seats using their saliva or whatever wet stuff is available (figure 14).
+
+## Reflection and transmission 2
+(in winter) Do students have bicycle LEDs in their pockets or bags? Darken the room. Take two LEDs. Hold the paper with the oil stain in between and look for a point where the reflection and transmission are the same. You can even make this into a light intensity meter. You can compare lamps with different power. See further: <https://www.exploratorium.edu/snacks/oil-spot-photometer>
+
+## Accommodation of the eye
+Let your students hold a pen or pencil or finger near the eye. Nearer and nearer \.... the background will become unclear/unfocussed. When our eyes focus on the background, then the pen/pencil will appear unfocussed. The lens of the eye adjusts to the distance (up to a point). This is clear evidence that the lens of the eye can focus and it has to change shape and thus focal length to do so. We call this accommodation.
+
+## Depth of field
+The previous experiment also shows the camera concept of depth of field. But students can also try with their own camera's. Let them focus on something farther away and then let them move their index finger back-and-forth in front of the lens. See how the background is sharp and the finger in the foreground is not. Also try with written words in the foreground and background. The camera's nowadays have a surprising depth of field. Perhaps have some example photographs ready on the beamer in your classroom.
+
+## Lenses
+Investigate spectacle lenses of students. Use the window as object (or a bicycle LED) and a piece of paper or the wall opposite the windows as screen. Look at concave and convex lenses in spectacles, see whether the image is reversed or not, etc.
+
+## Narrow slit diffraction or refraction?
+Look at the lights in the ceiling, close your eyes to a narrow slit, the beam widens perpendicular to the direction of the slit. The effect is better when using an incandescent light bulb up front, preferably with transparent glass and a straight filament. Could Huygens have seen this evidence of diffraction in the 17^th^ century? Well, try tonight with a candle. With some lights even color fringes are clearly visible. However, the famous Minnaert (1954) explained the stripes of light through differential *refraction* by little dykes of liquid along the edge of the eyelid (part 1, p122 of the original Dutch edition). So no refraction after all. But now pay attention to light falling through your eyelashes. Do you see colors? Now isn't that diffraction by hairs?
+
+## Mouche volante
+There is more to see in the eye itself. Look into the beautiful blue sky or another even light background like a white classroom ceiling and you may see wiry structures floating in your eye. See <http://en.wikipedia.org/wiki/entoptic_phenomenon> for a better description and some other phenomena in our eyes. While turning your head, these wiry structures tend to stay behind: inertia and proof that these are structures floating in the liquid in the eyes!
+
+## Parallax
+Have students close their right eye and stick up their pen at arm's length such that it is in line with a mark on the black board. Have them then close the right eye and open the left one. The pen is no longer in line with the mark on the board as we look at it from just a different angle. That is parallax. The farther the distance from pen to the ark on the board, the smaller the difference. So parallax can be used for distance measurement. See figure X REFER TO EMBALZADO DRAWING for explanation and see figures 15 and 16 for the apparent shift of the pen against a background.
+
+  -------------------------------------------------------------------------------------------------------------
+  ![](media/image69.jpeg){width="2.8303783902012247in"   ![](media/image70.jpeg){width="2.8506813210848643in"
+  height="2.121065179352581in"}                          height="2.1353390201224847in"}
+  ------------------------------------------------------ ------------------------------------------------------
+  *Figure 15 The pen at arms' length from the camera     *Figure16 The camera has been shifted 5 cm to the left
+  (the eye), is exactly aligned with the edge of the     which is the distance between the eyes. The pen did
+  batik.*                                                not shift. The closer the pen from the batik, the
+                                                         smaller the apparent shift in position.*
+
+  -------------------------------------------------------------------------------------------------------------
+
+## Dominance of one eye
+With two eyes open keep the pen at arm's length and aligned with a mark on the board, focus the eyes on the board. Now close the left eye, then open left and close the right eye. If the pen shifts quite a bit (compared to two eyes open) when the right eye is closed, then the right eye is the dominant one. If that does not happen for the right eye, but for the left eye, then the left eye is dominant.
+
+## Seeing depth 1
+![](media/image71.jpeg){width="2.388888888888889in" height="1.788888888888889in"}Two eyes are better than one, especially in seeing depth and estimating distances. Let students take a pen or pencil in the left hand and another one in the right hand (figure 20). Move both hands around a bit and then let all student close one eye and move the pens toward one another until the tips touch. With one eye closed that is difficult, with two eyes open it is easy. The experiment can also be done with the two index fingers, but with pens it is more dramatic.
+
+## Seeing depth 2
+This demonstration can be done as a teacher demonstration with a student in front of the class but can also be done as a semi-lab activity with student pairs where in each group one student is subject and the other is experimenter. Collect coins or buttons or paper clips or other small objects and a beaker (or draw a circle on paper). The beaker or circle should be about 60 cm from the subject. The subject closes one eye. The teacher or student experimenter holds a coin or button about 50 cm above the table and moves the hand slowly. The subject says "drop" when (s)he thinks the object is exactly above the target and then see whether the object falls inside the beaker or circle. Compare greater and smaller distances and one or two eyes. An alternative with more clear reports is to draw concentric circles with a radius of 1, 2, and 5 cm. The subject is located 1,5 m from the circles with one eye closed. The experimenter holds a marker with the tip downward. The subject instructs the experimenter to move the marker forward/backward or left/right until (s)he thinks the marker is above target. Then drop. The pattern of dots constitutes the report. Use different color markers for different conditions such as one or two eyes closed or different distances, or different observers.
+
+## Blind spot
+Almost any textbook has instructions for how to find the blind spot of the eye. Copy the set-up from a picture in the book onto the blackboard. check
+
+## Center and sides of retina, peripheral vision
+Think of something to illustrate the different nature of eye cells in the center and at the periphery of the retina. The periphery is much more sensitive, protecting eyes against insects, etc. Students will volunteer their stories. UNCLEAR
+
+## Optical illusions
+Photocopy the famous pictures of parallel lines which do not seem parallel, Escher's art work, Gestalt pictures, etc. onto transparencies and that are ten little demo's right there. Or google on optical illusions and put them on your classroom beamer <http://www.optics4kids.org/home/content/illusions/)>.
+
+##  Diffraction
+If you or your classroom is equipped with a laser pointer, then possibilities for experiments are endless: hairs, holes, slits, reflection, refraction, diffraction, scattering from dust.
+
+## OHP
+If there is an OHP in the room, then 10 or 20 short demos could easily be added to this list. Think of the typical blue-purple or red-orange fringes around shadows of objects between lens and screen. One can create similar fringes by looking at windows or door openings through a big prism containing water. When the prism's triangle is pointing up, the red-yellow occurs above shades and the bluish-purple below shades. Turning the prism upside down gives the opposite effect. This is the key to explanation.
+
+## Minnaert
+Marcel Minnaert was a well-known Flemish - Dutch astronomer who wrote a famous series of three books on physics in the environment. His book on light and color in the landscape was translated in English and appeared in 1954 (Minnaert, 1954). He describes many simple experiments that he conducted with almost no tools and often surprising results. Check your knowledge of Physics in the environment against Minnaert's observations!
+
+## Other
+See Wojewoda (2017) for simple optics experiments with a laser or laser pointer.

@@ -1,0 +1,49 @@
+# Ocillations and waves
+
+## Pendulum, period, natural frequencies
+Always take a slinky to class, but if you did not, then you could do one of the following: A pendulum could be made of anything. For example, collect some student bags and show how each of them has its own oscillation period. Show different modes of oscillation of the bags: as a simple pendulum (two perpendicular directions of swing), as a torsion pendulum, etc.
+
+## ![](media/image49.jpeg){width="2.8645833333333335in" height="2.151388888888889in"}What affects periods
+By comparing the different bags as pendulums, and by taking things out or putting them inside (torsion pendulum), or changing lengths of straps, demonstrate factors which affect the period of the pendulums. This could also be a short class activity: finding out what affects the period of the "bag" pendulums.
+
+## Rulers and periods
+Take a ruler, make it stick out a bit (figure 1) from the table, let it vibrate and listen, change how much it sticks out, the pitch of the sound produced will change. Students can do this in their seats using their own rulers. Take two equal rulers but now attach some coins to the end of one of them. See what happens to the pitch of the sound and the frequency of the oscillation.
+
+## Tension and pitch 
+
+![](media/image50.png){width="2.879166666666667in"
+height="1.9194444444444445in"}Take a broad rubber band (figure 2).
+ Stretch it a little, make it vibrate and walk around the classroom to let students hear. Now if I stretch the rubber further, will the pitch increase, decrease, or stay the same? Stretching will increase the tension resulting in a higher pitch, but increasing length will lower the pitch. Decreasing the density per length will also lower the pitch. So the pitch will not change much and be a bit unpredictable (source and photo Wouter Spaan).
+
+## Resonance 1
+Make a pendulum of any string and an object as bob. You could even take a computer mouse suspended from electric wire. Let it swing. Give it a little push every time it reaches one of its two maxima. Resonance between push and pendulum! Or provide the little push after every two swings, or three swings, also that will be resonance which results in increasing the amplitude. Of course, a father or mother can do the same thing with a child on a swing.
+
+## Resonance 2
+Liem (1987, p300) demonstrates the principle of resonance with a pocketbook suspended from two strings like a swing (let a student hold the strings). The teacher then holds out the book at 45^o^ with the question: "Would I be able to blow against the book until it is this far out?" The anticipated answer is "NO". Then hang the book vertically and blow with huffs *in phase* with the swings of the book. Of course, this is just like a swing on a playground.
+
+## In phase and out of phase
+Consider the previous pendulum, one can push in phase and there is resonance and the amplitude will increase. One could also push out of phase and the pendulum motion will be disturbed and could even be stopped.
+
+## Collisions of coins
+Have two coins *A* and *B* touching and a third *C* lengthwise at a few cm distance (figure 3). Then shoot *C* towards *B* while pressing *B* down with your finger. If *A* and *B* touch, then the momentum transfers very well to coin *A* even though *B* is not able to move. The transmission mechanism must be a wave. *A* can also be put such that it is not quite in line with *CB* but still touching *B*. Also then momentum transfer takes place and A is launched under an angle^6^.
+
+## ![](media/image51.jpeg){width="1.63125in" height="2.74375in"}Wave as propagation of a disturbance
+Get 10 students up front each at arm's length from each other. Demonstrate a longitudinal wave by having one student at one end take a step towards his/her neighbor and back, then the next one, etc. A compression propagates. Similarly for a rarefaction. Unfortunately, this sometimes takes a little practice. So it could take 5 minutes rather than the 2 for most demo's in this booklet. The slinky might be better, but if you forgot to bring it or if the heating of the room is insufficient and your students are a bit cold, or if the heating is too much and they are sleepy\.... Of course, this way one could also simulate a transverse wave by having students in the line-up step forward or backward out of line.
+
+## Other
+If there happens to be an OHP in the room and a glass of water or Petri dish, then many demo's on waves are possible: circular waves, reflections, or even interference by using two fingers or pencils as sources. And if there is a beamer, there are many nice video's and simulations of wave phenomena.
+
+## Beats, Moiré patterns
+These happen when two waves or patterns interfere. For example, two combs on top of each other which have slightly different spacing between the teeth. There are spots where the spaces in between coincide (constructive interference) and spots where the tooth of one comb coincides with the space of the other (destructive interference). When you put two combs at an angle with each other (figures 4 and 5), you get nice patterns. Just borrow combs from the students. The same with lace or transparent curtains and other textiles. This also reminds us of beats for sound waves in which sounds are sometimes in phase and sometimes in opposite phase and this gives variations in the sound intensity.
+
+  -----------------------------------------------------------------------------------------------------------------------
+  ![Afbeelding met kam, overdekt, schaar Door AI gegenereerde ![Afbeelding met gereedschap, schaar, overdekt Door AI
+  inhoud is mogelijk                                          gegenereerde inhoud is mogelijk
+  onjuist.](media/image52.jpeg){width="2.611940069991251in"   onjuist.](media/image53.jpeg){width="2.598772965879265in"
+  height="1.962108486439195in"}                               height="1.9522178477690288in"}
+  ----------------------------------------------------------- -----------------------------------------------------------
+  Figure 4 Moiré patterns. The different spacing of the teeth Figure 5 Varying the angle between the combs one can obtain
+  of the combs shows some locations in phase (light) and some all kinds of interesting patterns.
+  locations in counterphase (dark).                           
+
+  -----------------------------------------------------------------------------------------------------------------------
