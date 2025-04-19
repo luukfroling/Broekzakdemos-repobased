@@ -6,8 +6,15 @@ project:
   # description:
   # keywords: []
   authors: [Ed van den Berg]
-  # github:
+  github:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
+  downloads:
+    - id: output-pdf
+  exports:
+    - format: pdf
+      template: plain_latex_book 
+      output: exports/book.pdf
+      id: output-pdf
 site:
   template: book-theme
   # options:
