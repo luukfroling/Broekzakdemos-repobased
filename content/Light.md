@@ -78,15 +78,16 @@ We rarely demonstrate what it means that incident, and reflected (or refracted) 
 If there is a laser pointer in the room, then get a mirror from one of the girls, put it on the table, and show that the incoming and reflected rays are in one plane with the normal. Watch out that you get a flat mirror and not a concave or convex one.
 
 ## Snell's reflection Law 3
-If you do have pins, then you can use a pencil standing straight up and construct light rays going towards and reflected away from a vertical mirror from several viewpoints and by extension find the virtual image. See a nice series of simple and useful experiments in McDermott et al (1996, p539-561).
+If you do have pins, then you can use a pencil standing straight up and construct light rays going towards and reflected away from a vertical mirror from several viewpoints and by extension find the virtual image. See a nice series of simple and useful experiments in {cite:p}`McDermott1996`.
 
 ## Refraction 1
  Walk around with pencil slanted in a glass of water, or better, in rectangular container.
 
 ## Refraction 2 
-Stick your finger or pencil straight up in a (round) glass of water figures 10 and 11). Move through the classroom while moving your finger forward and backward. No need for talking, many students seem surprised at this everyday observation of a "swollen" finger. Explaining can be quick by stating that the water in a glass acts as a lens. A better explanation with refraction of light rays might take 10 minutes or could be given as a task for seat or home work.
+Stick your finger or pencil straight up in a (round) glass of water. Move through the classroom while moving your finger forward and backward. No need for talking, many students seem surprised at this everyday observation of a "swollen" finger. Explaining can be quick by stating that the water in a glass acts as a lens. A better explanation with refraction of light rays might take 10 minutes or could be given as a task for seat or home work.
 
-## Refraction 3 (Czech contribution to Physics on Stage, Nugent et al, 2010) 
+## Refraction 3 
+(Czech contribution to Physics on Stage, {cite:p}`Nugent2010`) 
 Draw parallel arrows on a piece of paper (the object), hold that behind a glass of water half-filled such that some arrows are seen through the air and other arrows through the water. If the object distance is farther than the focal length, then the arrows are reversed (figure 10). If nearer, then we see figure 11.
 
 ## Bright versus dark background
@@ -111,7 +112,7 @@ The previous experiment also shows the camera concept of depth of field. But stu
 Investigate spectacle lenses of students. Use the window as object (or a bicycle LED) and a piece of paper or the wall opposite the windows as screen. Look at concave and convex lenses in spectacles, see whether the image is reversed or not, etc.
 
 ## Narrow slit diffraction or refraction?
-Look at the lights in the ceiling, close your eyes to a narrow slit, the beam widens perpendicular to the direction of the slit. The effect is better when using an incandescent light bulb up front, preferably with transparent glass and a straight filament. Could Huygens have seen this evidence of diffraction in the 17^th^ century? Well, try tonight with a candle. With some lights even color fringes are clearly visible. However, the famous Minnaert (1954) explained the stripes of light through differential *refraction* by little dykes of liquid along the edge of the eyelid (part 1, p122 of the original Dutch edition). So no refraction after all. But now pay attention to light falling through your eyelashes. Do you see colors? Now isn't that diffraction by hairs?
+Look at the lights in the ceiling, close your eyes to a narrow slit, the beam widens perpendicular to the direction of the slit. The effect is better when using an incandescent light bulb up front, preferably with transparent glass and a straight filament. Could Huygens have seen this evidence of diffraction in the 17^th^ century? Well, try tonight with a candle. With some lights even color fringes are clearly visible. However, the famous {cite:p}`Minnaert1954` explained the stripes of light through differential *refraction* by little dykes of liquid along the edge of the eyelid (part 1, p122 of the original Dutch edition). So no refraction after all. But now pay attention to light falling through your eyelashes. Do you see colors? Now isn't that diffraction by hairs?
 
 ## Mouche volante
 There is more to see in the eye itself. Look into the beautiful blue sky or another even light background like a white classroom ceiling and you may see wiry structures floating in your eye. See <http://en.wikipedia.org/wiki/entoptic_phenomenon> for a better description and some other phenomena in our eyes. While turning your head, these wiry structures tend to stay behind: inertia and proof that these are structures floating in the liquid in the eyes!
@@ -144,7 +145,7 @@ If you or your classroom is equipped with a laser pointer, then possibilities fo
 If there is an OHP in the room, then 10 or 20 short demos could easily be added to this list. Think of the typical blue-purple or red-orange fringes around shadows of objects between lens and screen. One can create similar fringes by looking at windows or door openings through a big prism containing water. When the prism's triangle is pointing up, the red-yellow occurs above shades and the bluish-purple below shades. Turning the prism upside down gives the opposite effect. This is the key to explanation.
 
 ## Minnaert
-Marcel Minnaert was a well-known Flemish - Dutch astronomer who wrote a famous series of three books on physics in the environment. His book on light and color in the landscape was translated in English and appeared in 1954 (Minnaert, 1954). He describes many simple experiments that he conducted with almost no tools and often surprising results. Check your knowledge of Physics in the environment against Minnaert's observations!
+Marcel Minnaert was a well-known Flemish - Dutch astronomer who wrote a famous series of three books on physics in the environment. His book on light and color in the landscape was translated in English and appeared in 1954 {cite:p}`Minnaert1954`. He describes many simple experiments that he conducted with almost no tools and often surprising results. Check your knowledge of Physics in the environment against Minnaert's observations!
 
 ## Other
-See Wojewoda (2017) for simple optics experiments with a laser or laser pointer.
+See {cite:p}`Wojewoda2017`  for simple optics experiments with a laser or laser pointer.

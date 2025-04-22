@@ -1,7 +1,7 @@
 # Mechanics
 
 ## Free fall and independence of mass 
-Break a piece of chalk into a small and a big piece and keep them between thumb and index finger such that the lowest ends are at the same level (figure 1). Ask students to predict which one will hit the floor first if released simultaneously. Discuss predictions and reasons. Then let go, repeat until all observers agree. Explain. Alternatively use big and small coins or stones on your hand and pull your hand away from under the stones.
+Break a piece of chalk into a small and a big piece and keep them between thumb and index finger such that the lowest ends are at the same level. Ask students to predict which one will hit the floor first if released simultaneously. Discuss predictions and reasons. Then let go, repeat until all observers agree. Explain. Alternatively use big and small coins or stones on your hand and pull your hand away from under the stones.
 
 ## Can we accelerate our hands more than g? Proof it!
 Ask the question, let students answer, good chance they come up with a matching experiment. Easy actually, hold your hand flat with a stone or anything on it, then move the hand quickly down. The stone or other objects will be slower, there will be space between the objects and your hand. Students can do this in their seats. Make sure the hands are only accelerated down and not first up.
@@ -11,11 +11,11 @@ Now let a sheet of paper drop. It swirls and drops slowly. Then crumple it, it d
 
 
 ## Paper baskets 
-From one half A4, it is easy to fold a rectangular basket and staple it and add unused parts of the half A4 into the basket (figure 5). A sheet of paper swirls down. However, the basket falls with an almost constant velocity. It is possible to convert this demonstration into a laboratory investigation in which students could investigate the influence of area and mass of the paper basket on the time it needs to fall from a certain height. A first approximation could be the formula $t = \frac{h\cdot A}{m}$, so one would predict that doubling height $h$ or doubling area $A$ would result in doubling the fall time $t$. These predictions can be checked by holding an area $2A$ basket at half the height of the area $A$ basket, release them and they should reach the floor at about the same time if the model is correct. For area it appears to fit, or would the air friction scale with $v^2$ rather than $v$? However, for mass $t$ scales with $m^{-½}^$ No stopwatch needed. An early version of this experiment can be found in Eric Roger's {cite:p}`rogers2011physics` famous book *Physics for the Inquiring Mind* (1960, p167).
+From one half A4, it is easy to fold a rectangular basket and staple it and add unused parts of the half A4 into the basket. A sheet of paper swirls down. However, the basket falls with an almost constant velocity. It is possible to convert this demonstration into a laboratory investigation in which students could investigate the influence of area and mass of the paper basket on the time it needs to fall from a certain height. A first approximation could be the formula $t = \frac{h\cdot A}{m}$, so one would predict that doubling height $h$ or doubling area $A$ would result in doubling the fall time $t$. These predictions can be checked by holding an area $2A$ basket at half the height of the area $A$ basket, release them and they should reach the floor at about the same time if the model is correct. For area it appears to fit, or would the air friction scale with $v^2$ rather than $v$? However, for mass $t$ scales with $m^{-½}^$ No stopwatch needed. An early version of this experiment can be found in Eric Roger's {cite:p}`rogers2011physics` famous book *Physics for the Inquiring Mind* (1960, p167).
 
 
 ## Flying is playing with air resistance 
-There is always paper in the room or in the notebooks of students. Fold various shapes and drop them. Fold paper airplanes (figure 6), there are many suggestions for paper airplane activities on internet. Including a vertical tail piece sticking out above the wings can greatly improve the range when thrown.
+There is always paper in the room or in the notebooks of students. Fold various shapes and drop them. Fold paper airplanes , there are many suggestions for paper airplane activities on internet. Including a vertical tail piece sticking out above the wings can greatly improve the range when thrown.
 
 
 ## Kinematics 
@@ -34,17 +34,17 @@ Let students draw distance vs. time and velocity vs. time graphs for each motion
 
 
 ## Linear inertia 1, Newton's First Law
- Take a glass of water (or a coin, or another object, breakable objects are preferred) and put it on top of a dry A4 sheet of paper (figure 7). Pull the paper slowly with a constant velocity to the edge of the table. Then suddenly jerk the paper. The glass stops. What students feared, does not happen, unless the teacher is clumsy or the bottom of the glass was wet. The glass of water resists the sudden acceleration .... inertia!
+ Take a glass of water (or a coin, or another object, breakable objects are preferred) and put it on top of a dry A4 sheet of paper. Pull the paper slowly with a constant velocity to the edge of the table. Then suddenly jerk the paper. The glass stops. What students feared, does not happen, unless the teacher is clumsy or the bottom of the glass was wet. The glass of water resists the sudden acceleration .... inertia!
 
 
 ## Linear inertia 2
  Tear a piece of paper as in figure 8. Can I tear both sides of the middle part in one jerk? No, does not work. What should I change in order to be able to tear the two sides off in one jerk? It turns out that if you make the middle part just a bit heavier by putting on a few paper clips, it will work (source: my former student Ruud Brouwer).
 
 ## Linear inertia 3 
- Stick a knife in an apple, hold it up so the apple is suspended from the knife (figure 10). Then start hammering (figure 11). The apple resists acceleration and the knife goes farther and farther into the apple. If you use a big bread knife, it will come out at the other end. To make it more spectacular, use a bigger knife and use a melon or other big fruit, any relatively heavy fruit will do.
+ Stick a knife in an apple, hold it up so the apple is suspended from the knife. Then start hammering. The apple resists acceleration and the knife goes farther and farther into the apple. If you use a big bread knife, it will come out at the other end. To make it more spectacular, use a bigger knife and use a melon or other big fruit, any relatively heavy fruit will do.
 
 ## Rotational inertia 
- Put a ballpoint straight up on your hand and try to balance it. You may invite the audience to do the same. It is impossible, it will tip over immediately. Now find somewhere in the classroom a meter stick, or a broom, or any stick longer than the ballpoint. Put it straight up on the hand and try to balance it (figure 9). That works quite well. The object resists rotational acceleration ..... rotational inertia! The longer the object, the greater the rotational inertia, the easier it is to balance it. If then on top of the object there is an extra weight, like with a broom upside down, then it becomes easier yet. If you can find a hammer, you can show that it is easy to balance if the weight is up and difficult if the weight is down (metal top part on your finger). The taller the object and the farther the center of mass is from the pivot point on the hand, the greater the rotational inertia. Rotational inertia is often not included in high school physics, but that is no reason not to demonstrate it! Source: my former student Alfredo Guirit, from Tagbilaran, Bohol, Philippines.
+ Put a ballpoint straight up on your hand and try to balance it. You may invite the audience to do the same. It is impossible, it will tip over immediately. Now find somewhere in the classroom a meter stick, or a broom, or any stick longer than the ballpoint. Put it straight up on the hand and try to balance it. That works quite well. The object resists rotational acceleration ..... rotational inertia! The longer the object, the greater the rotational inertia, the easier it is to balance it. If then on top of the object there is an extra weight, like with a broom upside down, then it becomes easier yet. If you can find a hammer, you can show that it is easy to balance if the weight is up and difficult if the weight is down (metal top part on your finger). The taller the object and the farther the center of mass is from the pivot point on the hand, the greater the rotational inertia. Rotational inertia is often not included in high school physics, but that is no reason not to demonstrate it! Source: my former student Alfredo Guirit, from Tagbilaran, Bohol, Philippines.
 
 ## Rotational inertia 2
 See figure 12. With a full roll just prepare the length you need then a jerk will suffice to get your piece of paper. If you do that with an almost empty roll, then the remaining part will unwind and give you much more than you need. The full roll has a higher resistance to acceleration, thus a greater rotational inertia. For a demo in the classroom, just borrow the rolls from the school and put them back later.
@@ -66,7 +66,7 @@ It is possible to make this into a quantitative demonstration supporting the for
 Throw anything away from you, its path looks like a parabola. Now display it all at the same time, ask a plastic water bottle from one of the students, make a hole near the bottom on the side and squeeze it, nice parabola. Better visible if you use ice tea or other colored drinks instead of plain water. Compensate the student for the loss of the bottle.
 
 ## Projectile motion 2
-My wife Daday, also a physics teacher, made a clever device (figure 16) to show that the vertical motion and the parabolic motion of a projectile experience the same vertical acceleration, a free-falling coin and a simultaneously horizontally launched coin from the same height, will reach the floor at the same time. Just listen. To construct the launcher, just fold a piece of thin metal from a can over the end of a ruler.
+My wife Daday, also a physics teacher, made a clever device to show that the vertical motion and the parabolic motion of a projectile experience the same vertical acceleration, a free-falling coin and a simultaneously horizontally launched coin from the same height, will reach the floor at the same time. Just listen. To construct the launcher, just fold a piece of thin metal from a can over the end of a ruler.
 
 ## Projectile motion, relative motion
 Walk with constant velocity while throwing a piece of chalk or a coin or a tennis ball straight up. It lands in your hand, *not* behind you. So it had the same horizontal velocity as you when launched!
@@ -77,14 +77,14 @@ Did any student bring a newspaper to class? Or take one from the faculty room. I
 
 
 ## Static and kinetic friction and center of mass
-Take a ruler, meter stick, or any other long object available. Balance it horizontally on top of your left and right index fingers (figure 18). Then start moving the fingers towards each other. Without any control by the instructor, the fingers will only slide against the ruler one at a time and the two fingers will meet under the center of mass. You can make it more spectacular by blindfolding the instructor, same result. The experiment could easily be repeated by the students in their seats, they can try their rulers or other objects from their bags. Explanation: when one finger moves, an increasing part of the weight will be supported by that finger as it gets closer to the center of mass, so friction increases, and the other finger will start moving until it stops and the process repeats itself. Also see the 34 experiments with rulers in the *American Journal of Physics* (Ehrlig, 1994). An interesting variation is to add an object on one side of the stick, for example a blackboard eraser or hang a bag, then using the above procedure you will find that the center of mass has shifted.
+Take a ruler, meter stick, or any other long object available. Balance it horizontally on top of your left and right index fingers. Then start moving the fingers towards each other. Without any control by the instructor, the fingers will only slide against the ruler one at a time and the two fingers will meet under the center of mass. You can make it more spectacular by blindfolding the instructor, same result. The experiment could easily be repeated by the students in their seats, they can try their rulers or other objects from their bags. Explanation: when one finger moves, an increasing part of the weight will be supported by that finger as it gets closer to the center of mass, so friction increases, and the other finger will start moving until it stops and the process repeats itself. Also see the 34 experiments with rulers in the *American Journal of Physics* (Ehrlig, 1994). An interesting variation is to add an object on one side of the stick, for example a blackboard eraser or hang a bag, then using the above procedure you will find that the center of mass has shifted.
 
 ## Static and kinetic friction
 
-Take a meterstick, or pvc tube, or any other rod such as the end of a broom. Keep it horizontal and hang over it a piece of cloth (towel, hand kerchief, scarf) such that one end is much longer than the other end but it does not move because of static friction (figure 19). Then slowly tip the rod downward a bit until the cloth starts moving. It will then not just move downward, but also sideways. Friction has now become kinetic and kinetic friction is smaller than static friction thus insufficient to prevent sliding sideways (source: Ineke Frederik, Dutch physics teacher educator).
+Take a meterstick, or pvc tube, or any other rod such as the end of a broom. Keep it horizontal and hang over it a piece of cloth (towel, hand kerchief, scarf) such that one end is much longer than the other end but it does not move because of static friction. Then slowly tip the rod downward a bit until the cloth starts moving. It will then not just move downward, but also sideways. Friction has now become kinetic and kinetic friction is smaller than static friction thus insufficient to prevent sliding sideways (source: Ineke Frederik, Dutch physics teacher educator).
 
 ## Friction 1 (Leisink, 2006)
-Take one half A4 and put it between the pages of a closed book, pull it. It is easy to pull it out. Now take 10 of these half A4 pieces of paper and put them each between different pages (figure 21). Try to pull out all 10 at once. That is difficult.
+Take one half A4 and put it between the pages of a closed book, pull it. It is easy to pull it out. Now take 10 of these half A4 pieces of paper and put them each between different pages. Try to pull out all 10 at once. That is difficult.
 
 ## Friction 2
 
@@ -100,7 +100,7 @@ Put a book on the table, try to push it across the table. Have a student try. Th
 
 ## Friction and normal force 2
 
-Take three textbooks and pile them flat on your hand and hold them up (figure 23). Then with a finger of the other hand you are going to push the top book. Ask for a prediction, if you push the top book, will only the top book slide, or will two or three books slide? Why? Then show, only the top book will slide. Friction between the 2^nd^ and 3^rd^ book is 2x friction between 1^{st} (top) and 2^{nd} as friction is proportional to the normal force.
+Take three textbooks and pile them flat on your hand and hold them up. Then with a finger of the other hand you are going to push the top book. Ask for a prediction, if you push the top book, will only the top book slide, or will two or three books slide? Why? Then show, only the top book will slide. Friction between the 2^nd^ and 3^rd^ book is 2x friction between 1^{st} (top) and 2^{nd} as friction is proportional to the normal force.
 
 ## Friction and inclined plane
 
@@ -112,7 +112,7 @@ Pull a student bag across the table with a piece of elastic band or a weak sprin
 
 ## Strength of profiles
 
-Put a banknote on two markers (figure 20). How can you fold the banknote such that it can carry a load of many coins? Two folds already helps a lot. If you pile more banknotes on top of each other, then they can carry many coins! Then try more folds, corrugated banknotes are very strong. Think also about all the roofing materials that have corrugated shapes rather than being flat, for example rooftiles and metal roof sheeting. A nice series of demos and comparison with carton and other materials can be seen at YouTube:
+Put a banknote on two markers. How can you fold the banknote such that it can carry a load of many coins? Two folds already helps a lot. If you pile more banknotes on top of each other, then they can carry many coins! Then try more folds, corrugated banknotes are very strong. Think also about all the roofing materials that have corrugated shapes rather than being flat, for example rooftiles and metal roof sheeting. A nice series of demos and comparison with carton and other materials can be seen at YouTube:
 <https://www.youtube.com/watch?v=qFZGmHbjLSM>
 
 ## Center of mass 1
@@ -121,11 +121,9 @@ Show with a stick or a ruler or a meter stick or even a broom stick what is the 
 
 
 ## Center of mass 2 
-
-Line up some students with their back and particularly their heels against the wall of the classroom (figure 24). Then put some money in front of their toes. If they can pick it up without falling, they may keep it. This is impossible to do without their center of mass going beyond their toes and falling.
+Line up some students with their back and particularly their heels against the wall of the classroom. Then put some money in front of their toes. If they can pick it up without falling, they may keep it. This is impossible to do without their center of mass going beyond their toes and falling.
 
 ## Center of mass 3
-
 Take two students of unequal size next to each other facing the other students in front of the classroom. They hold each other. Then let them lift their outer legs. Total instability! Same problem, their common center of mass should be above their standing legs in the middle, but lifting their outer legs will disturb the equilibrium.
 
 ## Center of mass 4
@@ -164,15 +162,12 @@ All students sit on their chair. Lift one knee a bit up from the chair. No probl
 Collect some rubber bands from your students and arrange them parallel and in series and let students feel. This is like springs parallel and this is like springs in series. This can also be done with the springs from several ballpoints. In which situation, parallel or series, can one add up the spring constants? Just use logic first using Hooke's Law F=c.u with c as the spring constant.
 
 ## Tensile and shear stress 
-
-Take a piece of chalk. Pull on the two sides, that creates tensile stress. The chalk breaks with a very nice flat break surface perpendicular to the length of the chalk (figure 27). Now take another piece of chalk and twist the ends in opposite directions. We now have shear stress. The chalk breaks with a very different break surface. Try it, the effect is crystal clear and can be found Feynman's Lectures of Physics II p39-9.
+Take a piece of chalk. Pull on the two sides, that creates tensile stress. The chalk breaks with a very nice flat break surface perpendicular to the length of the chalk. Now take another piece of chalk and twist the ends in opposite directions. We now have shear stress. The chalk breaks with a very different break surface. Try it, the effect is crystal clear and can be found Feynman's Lectures of Physics II p39-9.
 
 ## Collisions and preventing damage
-
-Anybody has a raw (uncooked) egg? Now this is something you might not have in a bare classroom, but then bring it from home. Have students hold up a towel, a coat, or any piece of textile, or the curtains of the classroom window. Then throw the egg full force into that (figure 28). It will survive, it will not break. There are two principles at work. The force that decelerates the egg is spread over the surface of the egg, rather than applied at one point. Furthermore, the decelerating force is spread in time as the towel or curtain moves along with the egg. The spreading of forces also applies to seatbelts in cars and protective helmets, they spread the force over the body or over the head. Seatbelts also illustrate both the spreading in time and in area of the decelerating force as the belt is wide moves along with the body, thus lowering the force by spreading it in time and across a wide surface.
+Anybody has a raw (uncooked) egg? Now this is something you might not have in a bare classroom, but then bring it from home. Have students hold up a towel, a coat, or any piece of textile, or the curtains of the classroom window. Then throw the egg full force into that. It will survive, it will not break. There are two principles at work. The force that decelerates the egg is spread over the surface of the egg, rather than applied at one point. Furthermore, the decelerating force is spread in time as the towel or curtain moves along with the egg. The spreading of forces also applies to seatbelts in cars and protective helmets, they spread the force over the body or over the head. Seatbelts also illustrate both the spreading in time and in area of the decelerating force as the belt is wide moves along with the body, thus lowering the force by spreading it in time and across a wide surface.
 
 ## Breaking or not? 
-
 Look around for something that can break if dropped on a stone floor. Then look for things that can prevent that using the two principles. For example, pillows, not part of a bare classroom, but perhaps available in the school. Or make a pile of some student coats or other clothing. There may be some foam somewhere. Then drop a glass or an egg. How are breakable objects usually packages in stores? Students will give examples and even may have some in their bags. How do girls make sure their cosmetic flasks do not break in their bags?
 
 ## Bernoulli 1 
@@ -184,14 +179,13 @@ Hold a sheet of paper as shown in figures 29 and 30. The top end will be hanging
 (Before or after the previous demo) Continue the demonstration, tear another page from a student's notebook, hold the two pages on the bottom end while the top ends of the paper are pointing parallel towards the students. Then ask students what will happen when you blow in between the pieces of paper and why. Then blow, the papers are moving towards each other rather than away from each other.....Bernoulli! Now of course you should have brought one of those toy helicopters to class as the climax to your Bernoulli demos. However, do not forget that it is not only the Bernoulli principle which makes airplanes fly, the reaction force on the wings due to downward deflection of air currents is a major force (Weltner 1990a, 1990b).
 
 ## Bernoulli 3 
-Light a candle. *If I blow through a straw on the window side of the candle, will the flame move? Which way? Why?* Answer: the flame will bend to the window side, the burning gases of the flame will point towards the area with lowest density/lowest pressure (figure 31). In faster moving fluids the pressure is lower than in slower moving fluids (Bernoulli). For a younger audience: I blow some air away, the burning gas moves to the place with least air. For figures, see the chapter on Heat and Temperature. 
+Light a candle. *If I blow through a straw on the window side of the candle, will the flame move? Which way? Why?* Answer: the flame will bend to the window side, the burning gases of the flame will point towards the area with lowest density/lowest pressure. In faster moving fluids the pressure is lower than in slower moving fluids (Bernoulli). For a younger audience: I blow some air away, the burning gas moves to the place with least air. For figures, see the chapter on Heat and Temperature. 
 
 ## Energy conversions
 Drop anything and you get conversion from potential into kinetic energy, rub your hands (mechanical into thermal energy), clap your hands (mechanical into sound), point to the lights in the room (electrical energy into light and heat), etc.
 
 ## Work and kinetic energy
-There are rulers with a gutter (figures 32 and 33). Let a marble roll down and investigate the relationship between initial height of the marble and the displacement of the cup or wedge of carton. Using graph paper helps to get better measurements.
+There are rulers with a gutter. Let a marble roll down and investigate the relationship between initial height of the marble and the displacement of the cup or wedge of carton. Using graph paper helps to get better measurements.
 
 ## Asymmetry in properties, friction of hair
-
 Ask a hair from a long-haired girl or propose that each student pair takes a hair from one of the two heads. Hold one end between thump and index finger of one hand, and slide with the other thump and index finger along the hair. Then slide in the other direction. It turns out that the friction of the hair is dependent on the direction of the sliding of thump/indexfinger.!

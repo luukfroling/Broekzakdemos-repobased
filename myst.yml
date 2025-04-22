@@ -33,6 +33,6 @@ project:
     
 site:
   template: book-theme
-  # options:
+  options:
   #   favicon: favicon.ico
-  #   logo: site_logo.png
+    logo: NVON.png

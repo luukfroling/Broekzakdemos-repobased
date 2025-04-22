@@ -1,18 +1,17 @@
 # Earth science
-
-Role-plays work well in simulating the motion of Earth, Moon, Sun, and stars^11^. You can do them as demonstrations with some students performing the play in front of the class and then as a teacher you get this great feeling that everything must be perfectly clear. However, your students will need additional practice by role playing some tasks in small groups. Do you need this in the age of computer simulations? Yes, the back-and-forth thinking between different representations (role play, computer simulation, figures in the textbook) helps concept development and each representation has its strong and weak point and appeals to different students.
+Role-plays work well in simulating the motion of Earth, Moon, Sun, and stars. You can do them as demonstrations with some students performing the play in front of the class and then as a teacher you get this great feeling that everything must be perfectly clear. However, your students will need additional practice by role playing some tasks in small groups. Do you need this in the age of computer simulations? Yes, the back-and-forth thinking between different representations (role play, computer simulation, figures in the textbook) helps concept development and each representation has its strong and weak point and appeals to different students.
 
 ## Visualizing revolution and rotation of the Earth
-The teacher becomes the Sun; a student is the Earth. While rotating the student "revolves" around the lecturer while rotating once per 24 hours). Do not let the student rotate 365 times ....
+The teacher becomes the Sun; a student is the Earth. While rotating the student "revolves" around the lecturer while rotating once per 24 hours. Do not let the student rotate 365 times ....
 
 ## Visualizing Rotation of the Sun
-While the Earth revolves around the Sun (one revolution per year), the Sun (teacher) is rotating a little also \... 12x per year or so). We know this from the "movement" of Sunspots. As a gas sphere, the Sun's rotation at the equator is slower than near the poles.
+While the Earth revolves around the Sun (one revolution per year), the Sun (teacher) is rotating a little also ... 12x per year or so. We know this from the "movement" of Sunspots. As a gas sphere, the Sun's rotation at the equator is slower than near the poles.
 
 ## Visualizing Movement of Moon
 While one student revolves around the teacher another revolves around the first student (the Earth), about 13 times per Earth revolution.
 
 ## Visualizing rotation of the Moon
-The student (Moon) revolving around the Earth makes sure to keep his/her face towards the Earth\...\...so the Moon rotates one time in one revolution and thus always has its same face towards the Earth. Now compare with the sentences in the book about Moon rotation, do we now understand what the book sentences mean?
+The student (Moon) revolving around the Earth makes sure to keep his/her face towards the Earth......so the Moon rotates one time in one revolution and thus always has its same face towards the Earth. Now compare with the sentences in the book about Moon rotation, do we now understand what the book sentences mean?
 
 ## Visualizing parallax for distance measurement
 Same arrangement as in revolution of the Earth. Take a student in the front row as (movie) star and another one in the back. Compare the position of the front row star as seen from the Earth in two positions 6 months apart (figure 1). There is quite a difference in direction of this star. Now look at the student star in the back. The difference in direction from the two Earth vantage points is already a lot smaller. What if the student was very far? This makes parallax as distance measurement visible! Use the meter stick and your arm to show the differences in angles/directions. If you have a string or a rope, so much clearer for your students.
