@@ -19,8 +19,10 @@ site:
 <div style="text-align: center; font-size: 12px">
 
 Two hundred "Two Minute" Physics Demonstrations and Visualizations with Common Objects
-test 1.1 
-% aanpassing SPA uit en output: html in myst
 
+test 0.2 
 
+Authored by Ed van den Berg
+
+Edited and lay-out by Freek Pols
 </div>
