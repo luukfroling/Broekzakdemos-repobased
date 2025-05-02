@@ -1,0 +1,166 @@
+\documentclass[a4paper,11pt,oneside]{book} %You can change the paper size and font size here. The default is A4 and 11pt.
+
+% ======================
+% === PAGE LAYOUT ===
+% ======================
+\usepackage[top=2cm, bottom=2cm, left=2cm, right=2cm]{geometry}  % Adjust margins here for pages
+
+% ================================
+% === FONT FAMILY & TEXT SIZE ===
+% ================================
+% --- CHANGE MAIN FONT HERE ---
+% The default font is lmodern (Latin Modern), but you can change it to something else
+% Example: \usepackage{times} for Times Roman font, or \usepackage{helvet} for Helvetica
+% Options: times, palatino, mathptmx, helvet, etc.
+\usepackage{lmodern}  % Default font is Latin Modern. Change here if you'd like a different font!
+
+% =======================
+% === ENCODING ===
+% =======================
+\usepackage[utf8]{inputenc}  % Input encoding for UTF-8 characters
+\usepackage[T1]{fontenc}  % Font encoding to use special characters (like accents)
+
+% ===============================
+% === LINE SPACING (Optional) ===
+% ===============================
+% Uncomment the following lines if you want to change line spacing for the entire document.
+% Default is single-spaced. Uncomment to change to one-and-a-half spacing or double spacing.
+% \usepackage{setspace}
+% \onehalfspacing  % Or you can use \doublespacing for double spacing.
+
+% ==============================
+% === SECTION/CHAPTER STYLING ===
+% ==============================
+\usepackage{titlesec}
+
+% ======================
+% === CUSTOMIZING CHAPTER TITLE FORMAT ===
+% ======================
+% You can customize the chapter title appearance with the following options.
+% The \titleformat command has this structure: 
+% \titleformat{\chapter}[display]{<Font Style>}{<Chapter Number>}{<Space Between Number & Title>}{<Title Formatting>}
+%
+% 0. [display]: This defines how the chapter title is displayed. Other options include [block], [runin], etc.
+% 1. Font Style: This defines the style of the chapter title text.
+%    Common options: 
+%    - \bfseries (bold)
+%    - \itshape (italic)
+%    - Font sizes: \Huge, \huge, \LARGE, \large, \small, etc.
+%    Example: \bfseries\Huge makes the chapter title bold and large.
+%
+% 2. Chapter Number: This controls how the chapter number looks.
+%    - Chapter inserts the word "Chapter". You can remove or replace this with any text (e.g., "Part").
+%    - \thechapter inserts the chapter number (e.g., "1", "2", etc.).
+%    - You can modify alignment: \filleft (right-align), \centering (center-align), \flushleft (left-align).
+%    - You can adjust the vertical space before the chapter number using \vspace{-1em}.
+%    Example: \vspace{-1em}\flushleft\huge\chaptername~\thechapter makes the chapter number huge and aligned to the left.
+%
+% 3. Space Between Number & Title: This defines the space between the chapter number and title.
+%    The value is given in units like ex, pt, etc. Example: 1ex, 2ex, etc.
+%    Adjust this to increase or decrease the gap between the number and title.
+%
+% 4. Title Formatting: This controls the formatting of the chapter title itself.
+%    You can set the alignment (e.g., \centering, \flushleft, \filleft) and the font size (e.g., \Huge, \LARGE).
+%    Example: \filleft\Huge right-aligns and uses a huge font size for the chapter title.
+
+%You  can also change the chapter formatting by for example inserting this at the top of your chapter:
+% \renewcommand{\rmdefault}{ptm}  % e.g., Times Roman for this chapter
+% \chapter{Introduction}
+% or 
+% {\large
+% \chapter{Introduction}
+% This whole paragraph is in a larger font.
+% }
+
+
+\titleformat{\chapter}[display]
+  {\bfseries\Huge}             % Font style
+  {Chapter \thechapter}  % Chapter number and alignment
+  {20pt}                        % Space between number and title
+  {\filleft\Huge}              % Title font size and alignment
+
+% --- CHANGE SECTION STYLE HERE ---
+% Controls how sections look (just below chapters).
+% \titleformat{\section}
+%   {\large\bfseries}     % Bold and large size for section titles
+%   {\thesection}         % The section number (e.g., 1.1, 1.2)
+%   {1em}                 % Space between section number and title
+%   {}                    % Title formatting
+\titleformat{\section}
+  {\Large\bfseries}          % Font style for sections (Bold and large)
+  {\thesection}              % Section number formatting
+  {1em}                      % Space between number and title
+  {}
+
+% --- CHANGE SUBSECTION STYLE HERE ---
+% Similar to section but for subsections (the next level).
+% \titleformat{\subsection}
+%   {\normalsize\bfseries}    % Smaller font, still bold
+%   {\thesubsection}          % Subsection number (e.g., 1.1.1)
+%   {1em}                     % Space between number and title
+%   {}                        % Title formatting
+\titleformat{\subsection}
+  {\normalsize\bfseries}     % Font style for subsections (Bold and normal size)
+  {\thesubsection}           % Subsection number
+  {1em}                      % Space between number and title
+  {}
+
+% ======================
+% === MATH PACKAGES ===
+% ======================
+\usepackage{amsmath}  % For math symbols and environments
+\usepackage{amssymb}  % For additional math symbols
+
+% ======================
+% === GRAPHICS ===
+% ======================
+\usepackage{graphicx}  % For including images
+\usepackage{caption}   % For figure captions
+
+% ======================
+% === COLORS & LINKS ===
+% ======================
+\usepackage{xcolor} 
+\usepackage{hyperref}  % For hyperlinks in the document
+\hypersetup{
+  colorlinks,           % Enables colored links
+  linkcolor={black},    % Set color of internal links (e.g., table of contents)
+  citecolor={black},    % Set color of citation links
+  urlcolor={black}      % Set color of external links
+}
+
+% ======================
+% === CITATIONS ===
+% ======================
+\usepackage{natbib}  % For handling citations
+\bibliographystyle{unsrtnat}  % Set your preferred citation style (unsrtnat, abbrv, etc.)
+
+% ======================
+% === LIST FORMATTING ===
+% ======================
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep, topsep=0pt}  % More compact bullet points (reduces space)
+
+% ======================
+% === HEADER/FOOTER ===
+% ======================
+% Uncomment and customize if you want custom header/footer styles
+% \usepackage{fancyhdr}
+% \pagestyle{fancy}
+% \fancyhead[L]{}
+% \fancyhead[C]{}
+% \fancyhead[R]{}
+% \fancyfoot[C]{\thepage}  % Page number centered in footer
+
+% ======================
+% === TITLE PAGE ===
+% ======================
+% Title setup: Customize title page appearance (font, size, etc.)
+\title{%
+  \Huge \textbf{Project Title Goes Here} \\  % Title in large, bold font
+  \vspace{0.5em}
+  \huge \textit{Optional Subtitle Goes Here}  % Subtitle in italic, smaller font
+}
+
+% Author setup: Author(s) of the document
+\author{Freek Pols}
