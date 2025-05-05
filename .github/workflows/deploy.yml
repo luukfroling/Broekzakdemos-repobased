@@ -52,6 +52,7 @@ jobs:
             enumitem
             framed
             booktabs
+            titlesec
       - name: Build PDF Assets
         run: myst build --pdf      
       - name: Build HTML Assets
