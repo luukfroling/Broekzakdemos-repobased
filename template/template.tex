@@ -4,19 +4,13 @@
 
 % ====================== START TITLE PAGE =========================
 % Title setup: Customize title page appearance (font, size, etc.)
-\title{%
- \Huge \textbf{[-doc.title-]} \\  % Title in large, bold 
- [# if doc.subtitle #] 
-   \vspace{0.5em}
-   \huge \textit{[-doc.subtitle-]}\title{\Huge \textbf{[-doc.title-]}[# if doc.subtitle #] \\ \huge [-doc.subtitle-]} % Subtitle in italic, smaller font
- [# endif #]
-}
-
+\title{\Huge \textbf{[-doc.title-]}[# if doc.subtitle #] \\ \huge [-doc.subtitle-][# endif #]}
 \author{\textsc{
 [#- for author in doc.authors #]
   [#- if not loop.first #] and [# endif #][-author.name-][# if not loop.last and not loop.first #], [# endif #]
 [#- endfor -#]
 }}
+
 % ======================= END TITLE PAGE =========================
 
 \begin{document}
