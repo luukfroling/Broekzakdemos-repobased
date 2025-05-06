@@ -22,6 +22,7 @@
 
 % If using BibTeX, point to your .bib file(s)
 [# if doc.bibliography #]
-
+\bibliography{[- doc.bibliography | join(", ") -]}
+[# endif #]
 
 \end{document}
