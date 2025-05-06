@@ -1,4 +1,4 @@
-\documentclass[a4paper,16pt,twoside]{book} %You can change the paper size and font size here. The default is A4 and 11pt.
+\documentclass[a4paper,12pt,twoside]{book} %You can change the paper size and font size here. The default is A4 and 11pt.
 
 \input{preamble}  % Loads all the packages and setup from preamble.tex
 
@@ -14,21 +14,14 @@
 
 \mainmatter  % Starts normal page numbering
 
-% Optional pre-sections:
-% \include{preface}
-% \include{acknowledgements}
-
 % ========== CONTENT STARTS HERE ==========
 
-\chapter{Introduction}
-Write your introduction here.
-
-\chapter{Method}
-Write your method here.
+[- CONTENT -]
 
 % ========== BIBLIOGRAPHY ==========
 
 % If using BibTeX, point to your .bib file(s)
-\bibliography{references}
+[# if doc.bibliography #]
+
 
 \end{document}
