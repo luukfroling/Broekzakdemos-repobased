@@ -1,6 +1,6 @@
 ---
 title: Mechanics
-numbering: 
+numbering: true
   title: true
 ---
 
