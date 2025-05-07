@@ -1,3 +1,6 @@
+---
+title: Mechanics
+---
 # Mechanics
 
 ## Free fall and independence of mass 
