@@ -4,6 +4,12 @@ Suppose you are suddenly assigned to a bare classroom far from the location of y
 
 This booklet presents a collection of small and quick demonstrations, which require no equipment beyond what is present in a common classroom (chalk, chairs, students, books, paper, student bags and common contents). The collection can be easily expanded. The nature of the demos is varied, some are to prove something, but most are to illustrate, visualize, or simulate. A few role-plays are included for when students are restless, cold, or sleepy, or for when their instructor needs a kick to get into a better mood after a late night of checking students' papers.
 
+```{figure} images/20250513_085023.jpg
+:width: 50%
+
+You only need a handful of materials to conduct a series of proper physics demos
+```
+
 ## Proper demonstrations
 Rules for demonstrations are of course:
 
