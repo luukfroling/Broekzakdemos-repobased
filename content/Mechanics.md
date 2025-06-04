@@ -2,12 +2,12 @@
 title: Mechanics
 ---
 
-
-
 ## Free fall and independence of mass 
 Break a piece of chalk into a small and a big piece and keep them between thumb and index finger such that the lowest ends are at the same level. Ask students to predict which one will hit the floor first if released simultaneously. Discuss predictions and reasons. Then let go, repeat until all observers agree. Explain. Alternatively use big and small coins or stones on your hand and pull your hand away from under the stones.
 
-```{iframe} https://youtube.com/embed/shorts/NEVyzIscFvA
+```{iframe} https://youtube.com/embed/NjCsFRE8HA0
+:width: 70%
+
 ```
 
 ## Can we accelerate our hands more than g? Proof it!
@@ -16,58 +16,158 @@ Ask the question, let students answer, good chance they come up with a matching 
 ## Fall and Air Drag 
 Now let a sheet of paper drop. It swirls and drops slowly. Then crumple it, it drops almost as fast as a coin. Then take ½ A4 and put it on top of a book and drop the book. Paper and book will reach the floor at the same time! This happens even if you fold the paper in a tent shape so there is some air between the middle of the paper and the book. No need for the awkward vacuum tube to show that feather and lead ball fall equally fast.
 
+```{figure} images/20250513_090908.jpg
+:width: 70%
+:label: fig_908
+
+.
+```
 
 ## Paper baskets 
 From one half A4, it is easy to fold a rectangular basket and staple it and add unused parts of the half A4 into the basket. A sheet of paper swirls down. However, the basket falls with an almost constant velocity. It is possible to convert this demonstration into a laboratory investigation in which students could investigate the influence of area and mass of the paper basket on the time it needs to fall from a certain height. A first approximation could be the formula $t = \frac{h\cdot A}{m}$, so one would predict that doubling height $h$ or doubling area $A$ would result in doubling the fall time $t$. These predictions can be checked by holding an area $2A$ basket at half the height of the area $A$ basket, release them and they should reach the floor at about the same time if the model is correct. For area it appears to fit, or would the air friction scale with $v^2$ rather than $v$? However, for mass $t$ scales with $m^{-½}$ No stopwatch needed. An early version of this experiment can be found in Eric Roger's {cite:p}`rogers2011physics` famous book *Physics for the Inquiring Mind* (1960, p167).
 
+```{figure} images/20250513_091205.jpg
+:width: 70%
+:label: fig_205
+.
+```
+
+```{figure} images/20250513_091700.jpg
+:width: 70%
+:label: fig_700
+
+.
+```
+
+```{iframe} https://youtube.com/embed/ELDJPqVrRZQ
+:width:70%
+
+```
 
 ## Flying is playing with air resistance 
 There is always paper in the room or in the notebooks of students. Fold various shapes and drop them. Fold paper airplanes , there are many suggestions for paper airplane activities on internet. Including a vertical tail piece sticking out above the wings can greatly improve the range when thrown.
 
+```{figure} images/20250513_092443.jpg
+:width: 70%
+:label: fig_443
+
+.
+```
+
 
 ## Kinematics 
 Walk across the front of the room 
-a. at constant speed, 
-b. at a higher speed, 
-c. accelerated and decelerated, 
-d. stopping and going. 
-Let students draw distance vs. time and velocity vs. time graphs for each motion. Of course, you should have brought a motion sensor, but you were late or found the equipment room closed. The walking will do just as well or even better. Make sure to look at the resulting student graphs, discover conceptual errors, and react, typical student mistakes are well known and useful to confront (Berg et al, 2000).
+- at constant speed, 
+- at a higher speed, 
+- accelerated and decelerated, 
+- stopping and going.  
+
+Let students draw distance vs. time and velocity vs. time graphs for each motion. Of course, you should have brought a motion sensor, but you were late or found the equipment room closed. The walking will do just as well or even better. Make sure to look at the resulting student graphs, discover conceptual errors, and react, typical student mistakes are well known and useful to confront {cite:p}`Berg2000a`.
 
 ## Relative motion
- Student A walks with a low constant velocity in front of the class from left to right. Student B starts later, walks faster and overtakes student A. *At the moment that B is next to A, are the velocities the same or different?* Strange question you will think, but some people will answer equal (misconception). In a traffic court case in the USA this opinion was even espoused by a judge. If none of your students go wrong here, then never do this demo again. Have your students draw position time diagrams for A and B in the same graph (see the previous demo).
+Student **A** walks with a low constant velocity in front of the class from left to right. student **B** starts later, walks faster and overtakes student **A**. *At the moment that **B** is next to **A**, are the velocities the same or different?* 
+
+Strange question you will think, but some people will answer equal (misconception). In a traffic court case in the USA this opinion was even espoused by a judge. If none of your students go wrong here, then never do this demo again. Have your students draw position time diagrams for A and B in the same graph (see the previous demo).
 
 ## Action versus reaction visualization exercise
- To point out the relevant forces and show what is meant by action = - reaction, not to proof it: a rubber band or piece of elastic band can always be found even in a bare classroom. A student may have a rubber band around a lunch box. Stretch it with your finger. The force of the finger on the elastic band equals the force of the elastic band on the finger. Point out that action and reaction always work on different objects. That's why we want students to properly label forces as $F_{finger on elastic band}$ and $F_{elastic band on finger}$. The teacher can also put two students in front of the class, each with one hand pushing the hand of the other student but not moving. Then one student will push so hard that the other has to move back. Is now still $action = - reaction$ or $F _{student A on student B} = -F_{student B on student A}$? Yes it is, but to understand why student B is moving backwards, one has to add the forces **on student B only**: > $F_{student A on student B} + F_{friction floor on student B}$
+To point out the relevant forces and show what is meant by action = - reaction, not to proof it: a rubber band or piece of elastic band can always be found even in a bare classroom. A student may have a rubber band around a lunch box. Stretch it with your finger. The force of the finger on the elastic band equals the force of the elastic band on the finger. Point out that action and reaction always work on different objects. That's why we want students to properly label forces as $F_{finger on elastic band}$ and $F_{elastic band on finger}$. The teacher can also put two students in front of the class, each with one hand pushing the hand of the other student but not moving. Then one student will push so hard that the other has to move back. Is now still $action = - reaction$ or $F _{student **A** on student **B**} = -F_{student **B** on student **A**}$? Yes it is, but to understand why student **B** is moving backwards, one has to add the forces **on student B only**: > $F_{student A on student B} + F_{friction floor on student B}$
 
 
 ## Linear inertia 1, Newton's First Law
- Take a glass of water (or a coin, or another object, breakable objects are preferred) and put it on top of a dry A4 sheet of paper. Pull the paper slowly with a constant velocity to the edge of the table. Then suddenly jerk the paper. The glass stops. What students feared, does not happen, unless the teacher is clumsy or the bottom of the glass was wet. The glass of water resists the sudden acceleration .... inertia!
+Take a glass of water (or a coin, or another object, breakable objects are preferred) and put it on top of a dry A4 sheet of paper. Pull the paper slowly with a constant velocity to the edge of the table. Then suddenly jerk the paper. The glass stops. What students feared, does not happen, unless the teacher is clumsy or the bottom of the glass was wet. The glass of water resists the sudden acceleration .... inertia!
+
+```{figure} images/20250513_092927.jpg
+:width: 70%
+:label: fig_927
+
+.
+```
+
+```{iframe} https://youtube.com/embed/fjGiXL4z-MY
+:width: 70%
+
+```
 
 
 ## Linear inertia 2
- Tear a piece of paper as in figure 8. Can I tear both sides of the middle part in one jerk? No, does not work. What should I change in order to be able to tear the two sides off in one jerk? It turns out that if you make the middle part just a bit heavier by putting on a few paper clips, it will work (source: my former student Ruud Brouwer).
+Tear a piece of paper as in {numref}`fig_tearpiece`. Can I tear both sides of the middle part in one jerk? No, does not work. What should I change in order to be able to tear the two sides off in one jerk? It turns out that if you make the middle part just a bit heavier by putting on a few paper clips, it will work (source: my former student Ruud Brouwer).
+
+```{figure} images/20250513_093759.jpg
+:width: 70%
+:label: fig_tearpiece
+
+.
+```
+
+```{iframe} https://youtube.com/embed/enduuPXLM9g
+:width: 70%
+
+```
+
 
 ## Linear inertia 3 
- Stick a knife in an apple, hold it up so the apple is suspended from the knife. Then start hammering. The apple resists acceleration and the knife goes farther and farther into the apple. If you use a big bread knife, it will come out at the other end. To make it more spectacular, use a bigger knife and use a melon or other big fruit, any relatively heavy fruit will do.
+Stick a knife in an apple, hold it up so the apple is suspended from the knife. Then start hammering. The apple resists acceleration and the knife goes farther and farther into the apple. If you use a big bread knife, it will come out at the other end. To make it more spectacular, use a bigger knife and use a melon or other big fruit, any relatively heavy fruit will do.
+
+```{iframe} https://youtube.com/embed/OGiPpFA3JIw
+
+```
 
 ## Rotational inertia 
- Put a ballpoint straight up on your hand and try to balance it. You may invite the audience to do the same. It is impossible, it will tip over immediately. Now find somewhere in the classroom a meter stick, or a broom, or any stick longer than the ballpoint. Put it straight up on the hand and try to balance it. That works quite well. The object resists rotational acceleration ..... rotational inertia! The longer the object, the greater the rotational inertia, the easier it is to balance it. If then on top of the object there is an extra weight, like with a broom upside down, then it becomes easier yet. If you can find a hammer, you can show that it is easy to balance if the weight is up and difficult if the weight is down (metal top part on your finger). The taller the object and the farther the center of mass is from the pivot point on the hand, the greater the rotational inertia. Rotational inertia is often not included in high school physics, but that is no reason not to demonstrate it! Source: my former student Alfredo Guirit, from Tagbilaran, Bohol, Philippines.
+Put a ballpoint straight up on your hand and try to balance it. You may invite the audience to do the same. It is impossible, it will tip over immediately. Now find somewhere in the classroom a meter stick, or a broom, or any stick longer than the ballpoint. Put it straight up on the hand and try to balance it. That works quite well. The object resists rotational acceleration ..... rotational inertia! The longer the object, the greater the rotational inertia, the easier it is to balance it. If then on top of the object there is an extra weight, like with a broom upside down, then it becomes easier yet. If you can find a hammer, you can show that it is easy to balance if the weight is up and difficult if the weight is down (metal top part on your finger). The taller the object and the farther the center of mass is from the pivot point on the hand, the greater the rotational inertia. Rotational inertia is often not included in high school physics, but that is no reason not to demonstrate it! Source: my former student Alfredo Guirit, from Tagbilaran, Bohol, Philippines.
+
+```{iframe} https://youtube.com/embed/Ft9UD-xbqxQ
+:width: 70%
+
+```
 
 ## Rotational inertia 2
-See figure 12. With a full roll just prepare the length you need then a jerk will suffice to get your piece of paper. If you do that with an almost empty roll, then the remaining part will unwind and give you much more than you need. The full roll has a higher resistance to acceleration, thus a greater rotational inertia. For a demo in the classroom, just borrow the rolls from the school and put them back later.
+With a full roll just prepare the length you need then a jerk will suffice to get your piece of paper, see {numref}`fig_RI2`. If you do that with an almost empty roll, then the remaining part will unwind and give you much more than you need. The full roll has a higher resistance to acceleration, thus a greater rotational inertia. For a demo in the classroom, just borrow the rolls from the school and put them back later.
+
+```{figure} figures/02-13RotationalInertia2LR.jpeg
+:width: 70%
+:label: fig_RI2
+
+.
+```
 
 ## Rotational inertia 3
-Now make the set-up of figure 14, preferably with a breakable object on one side of the string such as a porcelain cup instead of the keys, but any object will do. At the other end of the string an object such as a bolt or a screw or a key, whatever. There is a pen or pencil in the left hand as a kind of pulley. Then let students predict, *If I let go of the string, what will happen?* The teacher shows some uncertainty or even fear, would this go alright? Let go! The weight will be greatly accelerated and wind itself very quickly around the pencil. That will increase the friction so much that the cup (or keys) will stop falling. For an explanation try to link with the results of demonstration 13. A nice discussion of this experiment is on the following site and this includes references to the American Journal of Physics (Marlow, 1991) for a complete mathematical treatment: <https://sciencedemonstrations.fas.harvard.edu/presentations/coffee-mug-string>
+Now make the set-up of {numref}`fig_RI3`, preferably with a breakable object on one side of the string such as a porcelain cup instead of the keys, but any object will do. At the other end of the string an object such as a bolt or a screw or a key, whatever. There is a pen or pencil in the left hand as a kind of pulley. Then let students predict, *If I let go of the string, what will happen?* The teacher shows some uncertainty or even fear, would this go alright? Let go! The weight will be greatly accelerated and wind itself very quickly around the pencil. That will increase the friction so much that the cup (or keys) will stop falling. For an explanation try to link with the results of demonstration 13. A nice discussion of this experiment is on [this Harvard site](https://sciencedemonstrations.fas.harvard.edu/presentations/coffee-mug-string) and this includes references to the American Journal of Physics {cite:p}`Marlow1991`.
+
+```{figure} figures/02-14-3RotationalInertia.jpg
+:width: 70%
+:label: fig_RI3
+
+.
+```
+
+```{iframe} https://youtube.com/embed/h2ulQeDoHmY
+:width: 70%
+```
 
 
 ## Circular motion 1
-Now that we have the nice set-up of figure 15, we better also use it to demonstrate properties of circular motion. While the stopper is moving, you will cut the string with scissors just above the weight. Draw a circle on the board and let students predict whether the stopper will fly off radially or tangentially (draw the two possibilities). Let students write a prediction with a reason. Then cut the string when the stopper is moving away from the students.
+Now that we have the nice set-up of {numref}`fig_CMEN`, we better also use it to demonstrate properties of circular motion. While the stopper is moving, you will cut the string with scissors just above the weight. Draw a circle on the board and let students predict whether the stopper will fly off radially or tangentially (draw the two possibilities). Let students write a prediction with a reason. Then cut the string when the stopper is moving away from the students.
+
+```{figure} figures/02-15CircularMotionEN.jpg
+:width: 70%
+:label: fig_CMEN
+
+.
+```
 
 ## Circular motion 2
-Just like in the earlier rotational inertia experiment, show what happens to the velocity when reducing or increasing the radius by pulling or releasing the string in the set-up of figure 15. Show also what happens to the velocity when you add weights while trying to keep the radius constant.
+Just like in the earlier rotational inertia experiment, show what happens to the velocity when reducing or increasing the radius by pulling or releasing the string in the set-up of {numref}`fig_CMEN`. Show also what happens to the velocity when you add weights while trying to keep the radius constant.
 
 ## Circular motion 3 
-It is possible to make this into a quantitative demonstration supporting the formula *F = mv^2^/r* by computing the velocity from measurement of the period *T* with a stopwatch or video from a mobile phone. Make sure to independently vary *F* and *r* while controlling for respectively *r* and *F*.
+It is possible to make this into a quantitative demonstration supporting the formula $F = \frac{mv^2}{r}$ by computing the velocity from measurement of the period *T* with a stopwatch or video from a mobile phone. Make sure to independently vary *F* and *r* while controlling for respectively *r* and *F*.
+
+
+```{figure} images/20250602_114146.gif
+:width: 70%
+:label: fig_146
+
+.
+```
 
 ## Projectile motion 1
 Throw anything away from you, its path looks like a parabola. Now display it all at the same time, ask a plastic water bottle from one of the students, make a hole near the bottom on the side and squeeze it, nice parabola. Better visible if you use ice tea or other colored drinks instead of plain water. Compensate the student for the loss of the bottle.
@@ -78,44 +178,59 @@ My wife Daday, also a physics teacher, made a clever device to show that the ver
 ## Projectile motion, relative motion
 Walk with constant velocity while throwing a piece of chalk or a coin or a tennis ball straight up. It lands in your hand, *not* behind you. So it had the same horizontal velocity as you when launched!
 
-
 ## Air pressure 
 Did any student bring a newspaper to class? Or take one from the faculty room. Is there a ruler or thin piece of wood that could be broken? Have the piece of wood sticking partly over the table edge, put a few newspaper pages over it like a blanket and push out the air underneath. Then hit the part of the wood sticking out quite hard (let a karate student do this). The paper will not tear but the wood will break. Consider the piece of wood like a see-saw pivoting at the edge of the table. The force of air pressure on the newspaper competes with the force of the hand hitting the wood.
+
+
 
 
 ## Static and kinetic friction and center of mass
 Take a ruler, meter stick, or any other long object available. Balance it horizontally on top of your left and right index fingers. Then start moving the fingers towards each other. Without any control by the instructor, the fingers will only slide against the ruler one at a time and the two fingers will meet under the center of mass. You can make it more spectacular by blindfolding the instructor, same result. The experiment could easily be repeated by the students in their seats, they can try their rulers or other objects from their bags. Explanation: when one finger moves, an increasing part of the weight will be supported by that finger as it gets closer to the center of mass, so friction increases, and the other finger will start moving until it stops and the process repeats itself. Also see the 34 experiments with rulers in the *American Journal of Physics* (Ehrlig, 1994). An interesting variation is to add an object on one side of the stick, for example a blackboard eraser or hang a bag, then using the above procedure you will find that the center of mass has shifted.
 
-## Static and kinetic friction
+```{iframe} https://youtube.com/embed/RYFsPy8mUbI
+:width: 70%
+```
 
+```{figure} images/20250513_100639.jpg
+:width: 70%
+:label: fig_639
+
+.
+```
+
+## Static and kinetic friction
 Take a meterstick, or pvc tube, or any other rod such as the end of a broom. Keep it horizontal and hang over it a piece of cloth (towel, hand kerchief, scarf) such that one end is much longer than the other end but it does not move because of static friction. Then slowly tip the rod downward a bit until the cloth starts moving. It will then not just move downward, but also sideways. Friction has now become kinetic and kinetic friction is smaller than static friction thus insufficient to prevent sliding sideways (source: Ineke Frederik, Dutch physics teacher educator).
 
-## Friction 1 (Leisink, 2006)
+```{iframe} https://www.youtube.com/embed/JDwHYHY7RqI?si=b-VYk_exLajihKs4
+:width: 70%
+```
+
+
+## Friction 1 
 Take one half A4 and put it between the pages of a closed book, pull it. It is easy to pull it out. Now take 10 of these half A4 pieces of paper and put them each between different pages. Try to pull out all 10 at once. That is difficult.
 
-## Friction 2
+```{iframe} https://www.youtube.com/embed/WgknDyxIL00?si=dhsveBNTVAN3S7Ur
+:width: 70%
+```
 
+## Friction 2
 When students really need a time-out, let them then interleave the pages of two books. The books cannot be pulled apart. Well-known is of course the ideal version of this experiment where two traditional telephone directories are interleaved and handles are attached to the books. Two strong people cannot pull them apart, but that is not a pocket demo anymore, but it would fit in 2 minutes if the teacher shows a YouTube version.
 
 ## Friction and heat 
-
 Students rub their hands and feel the heat. Work converted into heat, or in a perhaps better formulation: work increases the thermal energy (or internal energy) of the skin.
 
 ## Friction and normal force 1
-
 Put a book on the table, try to push it across the table. Have a student try. Then make a pile of books (borrowed from students) and try to push. It is much more difficult; the pushing force has to be greater. So friction has something to do with the total mass of the books, or, if the normal force has been discussed, friction is proportional to the normal force exerted by the table on the books. One can have students participate and feel it themselves by having them make their own pile of notebooks or textbooks on their tables or on the writing boards of their seats.
 
 ## Friction and normal force 2
-
-Take three textbooks and pile them flat on your hand and hold them up. Then with a finger of the other hand you are going to push the top book. Ask for a prediction, if you push the top book, will only the top book slide, or will two or three books slide? Why? Then show, only the top book will slide. Friction between the 2^nd^ and 3^rd^ book is 2x friction between 1^{st} (top) and 2^{nd} as friction is proportional to the normal force.
+Take three textbooks and pile them flat on your hand and hold them up. Then with a finger of the other hand you are going to push the top book. Ask for a prediction, if you push the top book, will only the top book slide, or will two or three books slide? Why? Then show, only the top book will slide. Friction between the 2$^{nd}$ and 3$^{rd}$ book is 2x friction between 1$^{st}$ (top) and 2$^{nd}$ as friction is proportional to the normal force.
 
 ## Friction and inclined plane
-
 Tilt the instructor's table using an object under one of the legs or using a student to hold one side of the table up. Put anything round on the table (borrow some candy from students, instructor can eat it after use). The round object will accelerate down the table surface. Put a book on the table. What keeps it there? Friction. Increase the tilt, the book does not move yet. Is the magnitude of the friction still the same? Tilt more yet, the book starts moving. Why? Make sure to distinguish between *actual* friction (*mg sinα*) and *maximum* friction (*μN = μ~s~mg cosα)*. The instructor can even illustrate how friction coefficients are determined by taking the static friction coefficient equal to: *μ~static~ = tanα~s~* where *α~s~* is the tilt angle when the book is just about to slide. Dynamic friction occurs at an angle where the books once moving, keep sliding at constant speed *μ~dynamic~ = tanα~d~*
 
 ## Difference between static and kinetic friction
 
-Pull a student bag across the table with a piece of elastic band or a weak spring. Movement will be kind of jerky: stick-slip movement. The elastic band or spring will be longer when the bag is not moving and shorter when it moves, showing that static friction is greater than kinetic friction.
+Pull a student **B**ag across the table with a piece of elastic band or a weak spring. Movement will be kind of jerky: stick-slip movement. The elastic band or spring will be longer when the bag is not moving and shorter when it moves, showing that static friction is greater than kinetic friction.
 
 ## Strength of profiles
 
