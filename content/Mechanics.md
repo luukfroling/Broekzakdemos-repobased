@@ -222,25 +222,28 @@ Students rub their hands and feel the heat. Work converted into heat, or in a pe
 ## Friction and normal force 1
 Put a book on the table, try to push it across the table. Have a student try. Then make a pile of books (borrowed from students) and try to push. It is much more difficult; the pushing force has to be greater. So friction has something to do with the total mass of the books, or, if the normal force has been discussed, friction is proportional to the normal force exerted by the table on the books. One can have students participate and feel it themselves by having them make their own pile of notebooks or textbooks on their tables or on the writing boards of their seats.
 
+```{figure} images/booksstacked.jpg
+:width: 50%
+:label: fig_booksstacked
+
+.
+```
+
+
 ## Friction and normal force 2
 Take three textbooks and pile them flat on your hand and hold them up. Then with a finger of the other hand you are going to push the top book. Ask for a prediction, if you push the top book, will only the top book slide, or will two or three books slide? Why? Then show, only the top book will slide. Friction between the 2$^{nd}$ and 3$^{rd}$ book is 2x friction between 1$^{st}$ (top) and 2$^{nd}$ as friction is proportional to the normal force.
 
 ## Friction and inclined plane
-Tilt the instructor's table using an object under one of the legs or using a student to hold one side of the table up. Put anything round on the table (borrow some candy from students, instructor can eat it after use). The round object will accelerate down the table surface. Put a book on the table. What keeps it there? Friction. Increase the tilt, the book does not move yet. Is the magnitude of the friction still the same? Tilt more yet, the book starts moving. Why? Make sure to distinguish between *actual* friction (*mg sinα*) and *maximum* friction (*μN = μ~s~mg cosα)*. The instructor can even illustrate how friction coefficients are determined by taking the static friction coefficient equal to: *μ~static~ = tanα~s~* where *α~s~* is the tilt angle when the book is just about to slide. Dynamic friction occurs at an angle where the books once moving, keep sliding at constant speed *μ~dynamic~ = tanα~d~*
+Tilt the instructor's table using an object under one of the legs or using a student to hold one side of the table up. Put anything round on the table (borrow some candy from students, instructor can eat it after use). The round object will accelerate down the table surface. Put a book on the table. What keeps it there? Friction. Increase the tilt, the book does not move yet. Is the magnitude of the friction still the same? Tilt more yet, the book starts moving. Why? Make sure to distinguish between *actual* friction ($mg \sin(\alpha)$) and *maximum* friction ($μ_N = μ_s~mg \cos(\alpha)$). The instructor can even illustrate how friction coefficients are determined by taking the static friction coefficient equal to: $μ_{static} = \tan(\alpha_s)$ where $\alpha_s$ is the tilt angle when the book is just about to slide. Dynamic friction occurs at an angle where the books once moving, keep sliding at constant speed $μ_{dynamic} = \tan(\alpha_d)$.
 
 ## Difference between static and kinetic friction
-
-Pull a student **B**ag across the table with a piece of elastic band or a weak spring. Movement will be kind of jerky: stick-slip movement. The elastic band or spring will be longer when the bag is not moving and shorter when it moves, showing that static friction is greater than kinetic friction.
+Pull a student bag across the table with a piece of elastic band or a weak spring. Movement will be kind of jerky: stick-slip movement. The elastic band or spring will be longer when the bag is not moving and shorter when it moves, showing that static friction is greater than kinetic friction.
 
 ## Strength of profiles
-
-Put a banknote on two markers. How can you fold the banknote such that it can carry a load of many coins? Two folds already helps a lot. If you pile more banknotes on top of each other, then they can carry many coins! Then try more folds, corrugated banknotes are very strong. Think also about all the roofing materials that have corrugated shapes rather than being flat, for example rooftiles and metal roof sheeting. A nice series of demos and comparison with carton and other materials can be seen at YouTube:
-<https://www.youtube.com/watch?v=qFZGmHbjLSM>
+Put a banknote on two markers. How can you fold the banknote such that it can carry a load of many coins? Two folds already helps a lot. If you pile more banknotes on top of each other, then they can carry many coins! Then try more folds, corrugated banknotes are very strong. Think also about all the roofing materials that have corrugated shapes rather than being flat, for example rooftiles and metal roof sheeting. A nice series of demos and comparison with carton and other materials can be seen [here](https://www.youtube.com/watch?v=qFZGmHbjLSM)
 
 ## Center of mass 1
-
 Show with a stick or a ruler or a meter stick or even a broom stick what is the center of mass. Put the stick on the table, pull it slowly outwards over the edge. At a certain point it will start to tip over. If you support the stick at that point with your finger, the two sides will balance. That is the center of mass, it is as if all the mass is concentrated there. Human bodies also have a center of mass. *Stand up all of you. Lean forward. What do you feel? Cramp in your toes? Lean more forward yet, eventually you will have to take a step forward in order not to fall. The center of mass of our body is somewhere in the belly. If that center of mass goes over the toes, then we have to take this step forward to prevent tipping over. Could you lean forward more if you were standing on skies? Stand up again, lift your leg up (forward), your shoulders will go backward to balance, so that the center of mass is still above your feet. Lift your right leg sideways, now your shoulders will move in opposite direction. Sink through your knees, your brain already knows how to compensate, some parts of the body go forward, some parts go backward*. Every time your brain knows automatically how to compensate, that is built-in physics! A longer series of demo's on center of mass along with some spectacular powerpoint pictures is available from the author.
-
 
 ## Center of mass 2 
 Line up some students with their back and particularly their heels against the wall of the classroom. Then put some money in front of their toes. If they can pick it up without falling, they may keep it. This is impossible to do without their center of mass going beyond their toes and falling.
@@ -252,35 +255,27 @@ Take two students of unequal size next to each other facing the other students i
 Borrow a hammer and a stick and some rope or rubber bands and make the set-up of figure 25. Teacher education student David constructed and explained it perfectly.
 
 ## Rotation, center of mass, stability
-
 Tilt a chair, tilt it more, there is a point where the chair will tip over. Take a simpler object, a book or a piece of wood. Try to link the position of the center of mass to the point where the book or block of wood will tip over. Take any other object in the room. When picking up a chair, boys tip over more easily than girls as their center of mass tends to be higher in the body. Instructions can be found in Liem (1987, p326).
 
 ## Pressure and surface area
-
 Take a pencil or ballpoint, press the tip (small surface area) on the inside of your hand, now press the opposite end on your hand (large surface area). The force could be the same, but the pressure is definitely different.
 
 ## Simple machines
-
 Usually there is a meter stick or something similar in the room. Use it as a crowbar and stick the end under a table leg or under a pile of books and pull the other end up. At a much reduced force, but increased distance, the weight can be lifted. Students can feel it themselves using their own rulers or even ballpoints and their usually heavy physics book which they *should* take to all class sessions anyway. Let them feel the difference by pulling on the middle part of the ballpoint and pulling at the end (much lighter). ADD FOTO figure 26
 
 ## Torque
-
 Illustrate torque opening the door, turning a doorknob, or tilting the chair. With torque we make things turn around an axis.
 
 ## Torque and distance from axis
-
 Again, use the door. Push with your finger at the end, the door moves easily but the finger has to move a great distance to turn the door through 90$^o$. Now push close to the hinges. The force needed to move the door is much greater, but the finger only has to move a short distance to move the door 90$^o$.
 
 ## Moment of force 1
-
 Take a student's bag with books, hold it at arm's length and then hold it next to your body. Which one is easier? The moment of force, the product of force times arm, is greatest at arm's length and we can feel that very well. Let the students do this themselves with their bags.
 
 ## Moment of force 2
-
 All students sit on their chair. Lift one knee a bit up from the chair. No problem. Now stretch the leg and again try to lift the knee from the chair. It is a lot more difficult this time. The moment of force (force times distance from hip to center of mass of the leg) is much greater now.
 
 ## Springs parallel and in series
-
 Collect some rubber bands from your students and arrange them parallel and in series and let students feel. This is like springs parallel and this is like springs in series. This can also be done with the springs from several ballpoints. In which situation, parallel or series, can one add up the spring constants? Just use logic first using Hooke's Law F=c.u with c as the spring constant.
 
 ## Tensile and shear stress 
@@ -293,12 +288,11 @@ Anybody has a raw (uncooked) egg? Now this is something you might not have in a 
 Look around for something that can break if dropped on a stone floor. Then look for things that can prevent that using the two principles. For example, pillows, not part of a bare classroom, but perhaps available in the school. Or make a pile of some student coats or other clothing. There may be some foam somewhere. Then drop a glass or an egg. How are breakable objects usually packages in stores? Students will give examples and even may have some in their bags. How do girls make sure their cosmetic flasks do not break in their bags?
 
 ## Bernoulli 1 
-
 Hold a sheet of paper as shown in figures 29 and 30. The top end will be hanging down a bit. Blow across the paper. The top end will then move upward. A simple way of explaining is that you blow some of the air above the paper away, creating a pressure difference with lower pressure above the paper while having the normal atmospheric pressure below. A more correct explanation is that moving air has a lower pressure than air standing still. This pressure difference pushes the paper up. Instruments based on this principle are used to measure an airplane's speed relative to the surrounding air.
 
 
 ## Bernoulli 2 
-(Before or after the previous demo) Continue the demonstration, tear another page from a student's notebook, hold the two pages on the bottom end while the top ends of the paper are pointing parallel towards the students. Then ask students what will happen when you blow in between the pieces of paper and why. Then blow, the papers are moving towards each other rather than away from each other.....Bernoulli! Now of course you should have brought one of those toy helicopters to class as the climax to your Bernoulli demos. However, do not forget that it is not only the Bernoulli principle which makes airplanes fly, the reaction force on the wings due to downward deflection of air currents is a major force (Weltner 1990a, 1990b).
+(Before or after the previous demo) Continue the demonstration, tear another page from a student's notebook, hold the two pages on the bottom end while the top ends of the paper are pointing parallel towards the students. Then ask students what will happen when you blow in between the pieces of paper and why. Then blow, the papers are moving towards each other rather than away from each other.....Bernoulli! Now of course you should have brought one of those toy helicopters to class as the climax to your Bernoulli demos. However, do not forget that it is not only the Bernoulli principle which makes airplanes fly, the reaction force on the wings due to downward deflection of air currents is a major force {cite:t}`Weltner1990a` & {cite:t}`Weltner1990b`.
 
 ## Bernoulli 3 
 Light a candle. *If I blow through a straw on the window side of the candle, will the flame move? Which way? Why?* Answer: the flame will bend to the window side, the burning gases of the flame will point towards the area with lowest density/lowest pressure. In faster moving fluids the pressure is lower than in slower moving fluids (Bernoulli). For a younger audience: I blow some air away, the burning gas moves to the place with least air. For figures, see the chapter on Heat and Temperature. 
