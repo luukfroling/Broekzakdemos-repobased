@@ -4,56 +4,43 @@ In the bare classroom there is scattered light from outside, sometimes direct su
 
 ## Straight line propagation of light
 The nicest start of lessons on optics is in a totally dark room with at most a candlelight. But a bare classroom is unlikely to have the necessary thick black curtains. Well, improvise with a candle, *let there be light!* I strongly suggest you go through some very basics that rarely make it into an optics lesson and try to assess some preconceptions of your students. Why not use some multiple-choice questions like the following (Osborne, 1983; Berg & Sundaru, 1989), to be answered individually. Figure 1 shows a candle burning in day light, The light of the candle: 
-A. stays on the candle, 
-B. comes out halfway towards you, 
-C. moves away from the candle until obstructed. 
+- stays on the candle, 
+- comes out halfway towards you, 
+- moves away from the candle until obstructed. 
 
 Then the same question but now the candle it is nighttime. Then follows a plenary discussion on how far light can go. If somebody with a telescope is 1 km away, can he see the candle? Does that mean that the light of the candle reaches the telescope, or is the light on the candle and the telescope looks at it?
 
-1\. Consider figure 1. A candle is burning during the day. The light
+1. Consider figure 1. A candle is burning during the day. The light
 from the candle:
 
-A.  stays on the candle.
-
-B.  Comes out about halfway towards you
-
-C.  Comes out as far as you but no farther
-
-D.  Comes out until it hits something.
+-   stays on the candle.
+-   comes out about halfway towards you
+-   comes out as far as you but no farther
+-   comes out until it hits something.
 
 
-2\. Now (Figure 2) there is a brown out during the evening and you are
+2. Now (Figure 2) there is a brown out during the evening and you are
 using a candle. The light from the candle:
 
-A.  stays on the candle.
+-   stays on the candle.
+-   comes out about halfway towards you
+-   comes out as far as you but no farther
+-   comes out until it hits something.
 
-B.  Comes out about halfway towards you
-
-C.  Comes out as far as you but no farther
-
-D.  Comes out until it hits something.
-
-
-3\. The light bulb of figure 3 is on during the day. The light from the
+3. The light bulb of figure 3 is on during the day. The light from the
 light bulb:
 
-A.  stays on the bulb.
+-   stays on the bulb.
+-   comes out about halfway towards you
+-   comes out as far as you but no farther
+-   comes out until it hits something.
 
-B.  Comes out about halfway towards you
+4. Now it is evening. The light from the light bulb:
 
-C.  Comes out as far as you but no farther
-
-D.  Comes out until it hits something.
-
-4\. Now it is evening. The light from the light bulb:
-
-A.  stays on the bulb.
-
-B.  Comes out about halfway towards you
-
-C.  Comes out as far as you but no farther
-
-D.  Comes out until it hits something.
+-   stays on the bulb.
+-   comes out about halfway towards you
+-   comes out as far as you but no farther
+-   comes out until it hits something.
 
 ## White light and colors
 Let students use transparent ballpoint pens or other transparent glass or plastic objects to produce a spectrum. Does anybody have a pocketknife with a lens? Then recombine the colors into white. With an OHP in the room there would be many more possibilities.
@@ -100,7 +87,7 @@ Arrange students in pairs. They are to observe each other's pupil contraction. M
 Take a piece of paper, wet it a bit in the middle with water, oil, or saliva, then hold it in front of the window (or a lamp). The wet part appears light, it transmits. Then put the paper on the table where it reflects light. Now the wet spot looks dark, because of the transmission, it reflects less than dry paper. Students can do this in their seats using their saliva or whatever wet stuff is available (figure 14).
 
 ## Reflection and transmission 2
-(in winter) Do students have bicycle LEDs in their pockets or bags? Darken the room. Take two LEDs. Hold the paper with the oil stain in between and look for a point where the reflection and transmission are the same. You can even make this into a light intensity meter. You can compare lamps with different power. See further: https://www.exploratorium.edu/snacks/oil-spot-photometer
+(in winter) Do students have bicycle LEDs in their pockets or bags? Darken the room. Take two LEDs. Hold the paper with the oil stain in between and look for a point where the reflection and transmission are the same. You can even make this into a light intensity meter. You can compare lamps with different power. See also [exploartorium](https://www.exploratorium.edu/snacks/oil-spot-photometer)
 
 ## Accommodation of the eye
 Let your students hold a pen or pencil or finger near the eye. Nearer and nearer \.... the background will become unclear/unfocussed. When our eyes focus on the background, then the pen/pencil will appear unfocussed. The lens of the eye adjusts to the distance (up to a point). This is clear evidence that the lens of the eye can focus and it has to change shape and thus focal length to do so. We call this accommodation.
@@ -112,7 +99,7 @@ The previous experiment also shows the camera concept of depth of field. But stu
 Investigate spectacle lenses of students. Use the window as object (or a bicycle LED) and a piece of paper or the wall opposite the windows as screen. Look at concave and convex lenses in spectacles, see whether the image is reversed or not, etc.
 
 ## Narrow slit diffraction or refraction?
-Look at the lights in the ceiling, close your eyes to a narrow slit, the beam widens perpendicular to the direction of the slit. The effect is better when using an incandescent light bulb up front, preferably with transparent glass and a straight filament. Could Huygens have seen this evidence of diffraction in the 17^th^ century? Well, try tonight with a candle. With some lights even color fringes are clearly visible. However, the famous {cite:p}`Minnaert1954` explained the stripes of light through differential *refraction* by little dykes of liquid along the edge of the eyelid (part 1, p122 of the original Dutch edition). So no refraction after all. But now pay attention to light falling through your eyelashes. Do you see colors? Now isn't that diffraction by hairs?
+Look at the lights in the ceiling, close your eyes to a narrow slit, the beam widens perpendicular to the direction of the slit. The effect is better when using an incandescent light bulb up front, preferably with transparent glass and a straight filament. Could Huygens have seen this evidence of diffraction in the 17$^{th}$ century? Well, try tonight with a candle. With some lights even color fringes are clearly visible. However, the famous {cite:p}`Minnaert1954` explained the stripes of light through differential *refraction* by little dykes of liquid along the edge of the eyelid (part 1, p122 of the original Dutch edition). So no refraction after all. But now pay attention to light falling through your eyelashes. Do you see colors? Now isn't that diffraction by hairs?
 
 ## Mouche volante
 There is more to see in the eye itself. Look into the beautiful blue sky or another even light background like a white classroom ceiling and you may see wiry structures floating in your eye. See <http://en.wikipedia.org/wiki/entoptic_phenomenon> for a better description and some other phenomena in our eyes. While turning your head, these wiry structures tend to stay behind: inertia and proof that these are structures floating in the liquid in the eyes!
@@ -136,7 +123,7 @@ Almost any textbook has instructions for how to find the blind spot of the eye. 
 Think of something to illustrate the different nature of eye cells in the center and at the periphery of the retina. The periphery is much more sensitive, protecting eyes against insects, etc. Students will volunteer their stories. UNCLEAR
 
 ## Optical illusions
-Photocopy the famous pictures of parallel lines which do not seem parallel, Escher's art work, Gestalt pictures, etc. onto transparencies and that are ten little demo's right there. Or google on optical illusions and put them on your classroom beamer <http://www.optics4kids.org/home/content/illusions/)>.
+Photocopy the famous pictures of parallel lines which do not seem parallel, Escher's art work, Gestalt pictures, etc. onto transparencies and that are ten little demo's right there. Or google on optical illusions and put them on your classroom beamer. See for instance [optics4kids](https://www.optics4kids.org/optical-illusions). 
 
 ##  Diffraction
 If you or your classroom is equipped with a laser pointer, then possibilities for experiments are endless: hairs, holes, slits, reflection, refraction, diffraction, scattering from dust.

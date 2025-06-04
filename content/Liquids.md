@@ -7,8 +7,18 @@ Whatever is there, use it to see that the liquid surface is always horizontal; l
 ## Floating and sinking
 Take all kinds of materials and objects and see whether they float or sink in a glass of water. Students would have lots of objects in their pockets. Some materials like clay or aluminum foil would sink, but if folded might float. From aluminum foil one could fold boats that can carry a load and still float. A Kindergarten class tried to fold pieces of foil of fixed area such that they would hold the maximum number of tiny St. Nicholas presents (tiny blocks or Lego pieces).
 
+
+
 ## Floating and sinking
 Anybody brought a tangerine? Will it sink or float in water? Why? Try it out. Then peel it and try again (figures 1 and 2). Try other kinds of fruits and explain the results.
+
+```{figure} figures/float.*
+:width: 90%
+:label: fig_float
+
+.
+```
+
 
 
 ## Adhesion in a glass of water

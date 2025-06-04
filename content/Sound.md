@@ -7,27 +7,50 @@ Tap against all kinds of objects to illustrate that each object has its own soun
 Borrow a ruler from a student, clamp it between one hand and the table and have part of it stick out. Now activate the oscillation with the other hand. By making the end that sticks out longer or shorter, you can vary the pitch. You can even make it quantitative by singing do-re-mi and realizing that the frequency of the second "do" is twice the frequency of the first "do". That way you can find the relationship between length of the ruler and frequency. In order to get twice the frequency, would you have to half the length, or take length over?
 
 ## Pitch and length 2
-Take a drinking straw. Flatten the end of the straw and cut out a triangle. Place the end of the straw in your mouth, holding your lips just where the cut ends and blow until an oboe sound is produced, shifting the straw a bit in or out of the mouth might help to get the right sound. Then while blowing, cut of small pieces of the straw. Source: Liem, 1987, p295. What did we learn? One can take another straw, cut the triangle at the end, and cut hole at 1 -- 1.5 cm distance from each other. While blowing open and close the holes with your fingers. What did we learn? Which musical instruments work like that?
+Take a drinking straw. Flatten the end of the straw and cut out a triangle. Place the end of the straw in your mouth, holding your lips just where the cut ends and blow until an oboe sound is produced, shifting the straw a bit in or out of the mouth might help to get the right sound. Then while blowing, cut of small pieces of the straw {cite:t}`Liem1987`.
+
+What did we learn? One can take another straw, cut the triangle at the end, and cut hole at 1 -- 1.5 cm distance from each other. While blowing open and close the holes with your fingers. What did we learn? Which musical instruments work like that?
+
 
 ## Standing waves in a PVC tube open and closed
-Take two pieces of PVC pipe, for example 10 cm and 20 cm long. Blow across the opening of one pipe. It produces a clear tone. Then close the bottom opening with your hand, and blow again. The tone is now much lower, very noticeable. With both ends open, the pipe fits ½ of a wavelength ($λ=2l$). With one side closed, it fits ¼ of a wavelength ($λ=4l$). It does help to have a microphone and sound box in the room to make the effect better audible for a group. I have done it with a sound system for groups of 150+ students. FOTO
+Take two pieces of PVC pipe, for example 10 cm and 20 cm long. Blow across the opening of one pipe. It produces a clear tone. Then close the bottom opening with your hand, and blow again. The tone is now much lower, very noticeable. With both ends open, the pipe fits ½ of a wavelength ($λ=2l$). With one side closed, it fits ¼ of a wavelength ($λ=4l$). It does help to have a microphone and sound box in the room to make the effect better audible for a group. I have done it with a sound system for groups of 150+ students. 
+
+```{figure} images/panflute.jpg
+:width: 70%
+:label: fig_panflute
+
+Picture from [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) {cite:p}`pols2024show`
+```
 
 ## PVC pipe length and pitch
 Then take the longer pipe and show again the link between pitch and length. One could make something similar to a pan flute using pieces of PVC pipe. You could assign students the task of figuring out the proper lengths given the desired frequencies.
+
+See also [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) for a more extensive version of this demo.
 
 ## Measuring pitch with a telephone
 Now if you came to class to teach about sound, you would bring a little toy flute? Can students measure the pitch with their telephones?
 
 ## Mobile phone and graphing sound waves
-Use Phyphox or a similar program. Try to produce a near perfect sine wave. Ask a student who sings in a choir to sing an "o". Try a higher pitch, try a lower pitch. Try louder and less loud. Make sure not just to quickly show this on your small telephone, but sketch the graphs on the white or blackboard with clear labels. Obviously much more can be done with mobile phones and graphs. For example XXXXXX
+Use Phyphox or a similar program. Try to produce a near perfect sine wave. Ask a student who sings in a choir to sing an "o". Try a higher pitch, try a lower pitch. Try louder and less loud. Make sure not just to quickly show this on your small telephone, but sketch the graphs on the white or blackboard with clear labels. Obviously much more can be done with mobile phones and graphs. 
+
+```{figure} images/phyphox_sound.*
+:width: 50%
+:label: fig_ph
+
+Sound recorded using the [phyphox app](https://phyphox.org/).
+```
 
 ## Resonance 1 
 Does somebody in class have a bottle? Some water in it yet? Or some soft drink? The instructor will drink a little bit at a time, then blow over the bottleneck to produce a sound and tick against the side of the bottle (hopefully glass). By the time the instructor gets through drinking the soft drink, one pitch has gone down consistently, the other has gone up. Now explain.
 
 ## Resonance 3
-(this works with some cups and not with others) The teacher entered the classroom with a (ceramic) cup of coffee and a (metal) spoon. Hit the outside of the cup with the spoon at different places. The pitch will be different, for example near the ear of the cup, or 90 or 180 degrees away from it, under and above the level of coffee. Drink some of the coffee and repeat. How do you explain the differences in pitch and type of sound? Different resonance modes are activated as well as different lengths of the liquid column.
+The teacher entered the classroom with a (ceramic) cup of coffee and a (metal) spoon. Hit the outside of the cup with the spoon at different places. The pitch will be different, for example near the ear of the cup, or 90 or 180 degrees away from it, under and above the level of coffee. Drink some of the coffee and repeat. How do you explain the differences in pitch and type of sound? Different resonance modes are activated as well as different lengths of the liquid column.
 
-## v_{sound} = f λ but velocity is independent of frequency and wave length! 
+```{note}
+this works with some cups and not with others
+```
+
+## $v_{sound} = f λ$ but velocity is independent of frequency and wave length! 
 Find some objects in the room, which can help you to simultaneously make a high pitch and low pitch sound and try to have students in the back judge for simultaneity of arrival of the sounds. Not so convincing? Imagine a big church or concert hall, how come choir music (try students in class) or any music at all is possible and is enjoyed by people regardless of their distance from the source? So speed of sound must be the same for all audible frequencies so that lucky we can enjoy music.
 
 ## Doppler simulation

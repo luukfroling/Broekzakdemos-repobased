@@ -1,6 +1,4 @@
----
-title: Mechanics
----
+# Mechanics
 
 ## Free fall and independence of mass 
 Break a piece of chalk into a small and a big piece and keep them between thumb and index finger such that the lowest ends are at the same level. Ask students to predict which one will hit the floor first if released simultaneously. Discuss predictions and reasons. Then let go, repeat until all observers agree. Explain. Alternatively use big and small coins or stones on your hand and pull your hand away from under the stones.
