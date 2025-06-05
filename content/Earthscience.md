@@ -2,7 +2,7 @@
 Role-plays work well in simulating the motion of Earth, Moon, Sun, and stars. You can do them as demonstrations with some students performing the play in front of the class and then as a teacher you get this great feeling that everything must be perfectly clear. However, your students will need additional practice by role playing some tasks in small groups. Do you need this in the age of computer simulations? Yes, the back-and-forth thinking between different representations (role play, computer simulation, figures in the textbook) helps concept development and each representation has its strong and weak point and appeals to different students.
 
 ## Visualizing revolution and rotation of the Earth
-The teacher becomes the Sun; a student is the Earth. While rotating the student "revolves" around the lecturer while rotating once per 24 hours. Do not let the student rotate 365 times ....
+The teacher becomes the Sun; a student is the Earth. The student "revolves" around the lecturer while rotating once per 24 hours. Do not let the student rotate 365 times ....
 
 ## Visualizing Rotation of the Sun
 While the Earth revolves around the Sun (one revolution per year), the Sun (teacher) is rotating a little also ... 12x per year or so. We know this from the "movement" of Sunspots. As a gas sphere, the Sun's rotation at the equator is slower than near the poles.
@@ -20,10 +20,10 @@ Same arrangement as in revolution of the Earth. Take a student in the front row 
 The same arrangement can be used to show the apparent motion of the stars throughout the year. While the Earth revolves, the view of the class (the stars) changes a bit.
 
 ## Comet
-The Sun is a lamp on the table or take a student to play the sun. A comet (played by a student) comes from some random direction towards the Sun. What will happen with the velocity and the direction as the comet approaches the Sun? Let the other students give directions to the student who plays the comet about accelerating/decelerating and changing direction. Let them also explain why.
+The Sun is a lamp on the table or take a student to play the sun. A comet (played by another student) comes from some random direction towards the Sun. What will happen with the velocity and the direction as the comet approaches the Sun? Let the other students give directions to the student who plays the comet about accelerating/decelerating and changing direction. Let them also explain why.
 
 ## Visualizing plate tectonics, collisions between thin ocean plates
-The plates are thin, one easily gets below the other. Use two thin books and make them collide slowly back-to- back, one easily slips below the other. The friction of real plates generates heat resulting in a volcanic island arc.
+The plates are thin, one easily gets below the other. Use two thin books and make them collide slowly back-to- back, one easily slips below the other. The friction of real tectonic plates generates heat resulting in a volcanic island arc.
 
 ## Visualizing plate tectonics, collision between a thin ocean plate and a thick continental plate
 Take a thin and a thick book and let their backs collide slowly. Ocean plates have a higher density, so imagine the thin book having a higher density. The thin book slips below the thick one. The friction of real plates generate lots of heat. This way we get the volcanism of the Andes in South America and the Cascades in North America and the volcanoes along the spines of Sumatra and Java in Indonesia.
