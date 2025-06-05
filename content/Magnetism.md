@@ -37,8 +37,6 @@ Same situation as above, let a student use the right hand to illustrate the dire
 
 You always have your slinky with you. Hold the top end so the slinky is suspended from your hand. Propose that the direction of the current in this 'coil' is from right to left in the part of the slinky facing the students. Now let pairs of students figure out the direction of the Lorentz force on two successive windings. If there were a current, would the slinky become shorter or longer? If you do have the equipment, then show!
 
-The following demo's use a neodymium magnet, not found in a bare classroom, but easily brought to class.
-
 ## Magnetic brake
 
 Take a string, attach a nail or paperclip, and attach the neodymium magnet to the nail or paperclip. We can now have a hand-held pendulum which will swing like any other pendulum. Take a piece of aluminum foil or better yet a sheet of copper or aluminum of say 5 x 5 cm or 8 x 4 cm whatever. Hold the magnet against the metal sheet and show that there is no attraction. Then let the pendulum swing free at first and then over the copper or aluminum sheet. It stops! Why? The moving magnet induces Eddy currents in the metal sheet. There is energy transfer from pendulum to the metal sheet.
