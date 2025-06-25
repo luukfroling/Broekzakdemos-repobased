@@ -6,6 +6,7 @@ Break a piece of chalk into a small and a big piece and keep them between thumb 
 ```{iframe} https://youtube.com/embed/NjCsFRE8HA0
 :width: 70%
 :label: vid_1
+:aspectratio: auto 16 / 9
 
 Can we accelerate our hands more than g?
 ```
