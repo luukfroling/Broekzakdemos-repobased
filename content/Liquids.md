@@ -16,7 +16,7 @@ Anybody brought a tangerine? Will it sink or float in water? Why? Try it out. Th
 :width: 90%
 :label: fig_float
 
-.
+A tangerine floats and sinks...
 ```
 
 
@@ -25,51 +25,76 @@ Anybody brought a tangerine? Will it sink or float in water? Why? Try it out. Th
 See how the meniscus of water in a glass stands up to the wall, adhesion, that is attraction between two different substances, in this case glass and water.
 
 ## Adhesion on a penny
-Rinse a penny or other coin in tap water and dry completely and put it then on a paper towel or paper handkerchief. How many drops will fit on the penny? Record some predictions on the board. Then add drops one by one with a dropper until any amount of water runs over the edge of the penny. If you have more droppers, students can do this in their seats (Hammack & DeCoste, 2016).
+Rinse a penny or other coin in tap water and dry completely and put it then on a paper towel or paper handkerchief. How many drops will fit on the penny? Record some predictions on the board. Then add drops one by one with a dropper until any amount of water runs over the edge of the penny. If you have more droppers, students can do this in their seats [@Hammack2016].
 
 ## Adhesion and crumbs
 Another example is picking up crumbs of cookies or bread from a plate, we lick our finger first and then the crumbs stick to it. That is an example of adhesion between water and crumbs. In class demonstrate this with a wet finger and very small pieces of paper like those coming from a perforator or -tastier- try cookie crumbs.
 
 ## Capillarity 1
-If you do have a very thin glass tube, then stick it into a glass of water and see the water move up \... capillarity. Otherwise, take a piece of paper and dip in one end, the water will move upward in the paper. Try different kinds of paper. With the hair of a paintbrush or human hair, the same phenomenon occurs, "capilla" is the Latin word for hair. Capillarity can be seen as a tug-of-war between adhesion and gravity (Rogers, 1960, p95). Water creeps up the glass wall due to adhesion and is pulled down by gravity. In very thin tubes the gravitational pull on the water creeping up the wall is smaller compared to adhesion than in wider tubes. Adhesion scales with surface area and gravity with volume. Capillary tubes have a large surface area compared to their volume.
+If you do have a very thin glass tube, then stick it into a glass of water and see the water move up \... capillarity. Otherwise, take a piece of paper and dip in one end, the water will move upward in the paper. Try different kinds of paper. With the hair of a paintbrush or human hair, the same phenomenon occurs, "capilla" is the Latin word for hair. Capillarity can be seen as a tug-of-war between adhesion and gravity [@rogers2011physics, p95]. Water creeps up the glass wall due to adhesion and is pulled down by gravity. In very thin tubes the gravitational pull on the water creeping up the wall is smaller compared to adhesion than in wider tubes. Adhesion scales with surface area and gravity with volume. Capillary tubes have a large surface area compared to their volume.
 
 ## Capillarity 2
 Bring a sugar cube and a cup of coffee from the teacher room. Dip the edge of the cube in the coffee. Coffee will quickly *climb* into the cube, capillarity!
 
 ## Cohesion
-Fill a glass all the way to the top with water but such that the surface of the water is still concave. Then collect coins from your students. How many coins can I add without letting the water overflow? Then carefully insert the coins. Lots of them can be inserted in the water. In the end the water will bulge higher than the rim of the glass but it will still not flow down along the sides of the glass: cohesion!FOTO
+Fill a glass all the way to the top with water but such that the surface of the water is still concave. Then collect coins from your students. How many coins can I add without letting the water overflow? Then carefully insert the coins. Lots of them can be inserted in the water. In the end the water will bulge higher than the rim of the glass but it will still not flow down along the sides of the glass: cohesion!
 
 ## Adhesion and cohesion
 Use a straw or other means to make a drop of water on the table. Use different materials as surface (glass, wood, metal, plastic, paper). Rub some fat or wax on the table. Does that make a difference in the shape of the drop? Add some soap or detergent to the water. Does it make a difference in the shape of the drop? On which kind of surface is cohesion at a maximum? At what kind of surface is cohesion at a minimum?
 
-Why is a drop of water round and the surface of a lake flat? This is the contest between surface forces and gravity. Think of a cube with side $a$, surface area 6$a^2$, and volume $a^3$. Let $a$ increase, then the surface area thus also surface forces scale as $a^2$. The volume thus also volume forces like weight scale as $a^3$! With large amounts of water the volume forces dominate and so the surface of a lake is flat. With small amounts (a drop and smaller) the surface forces dominate such as with surface tension and capillary phenomena. A beautiful discussion can be found in Rogers (1960, p92). 
+Why is a drop of water round and the surface of a lake flat? This is the contest between surface forces and gravity. Think of a cube with side $a$, surface area 6$a^2$, and volume $a^3$. Let $a$ increase, then the surface area thus also surface forces scale as $a^2$. The volume thus also volume forces like weight scale as $a^3$! With large amounts of water the volume forces dominate and so the surface of a lake is flat. With small amounts (a drop and smaller) the surface forces dominate such as with surface tension and capillary phenomena. A beautiful discussion can be found in [@rogers2011physics, p92]. 
 
 ## Floating on convex and concave surfaces
-Fill a glass of water until just below the edge (concave surface) and then fill another glass carefully until the water level is over the edge of the glass but the water does not drip down the outside of the glass. Draw the two situations on the blackboard or whiteboard. We are going to put a ping-pong ball (or anything that floats) on top of the water surface. Which way will it position itself, in the center or against the edge of the glass? Let students draw their prediction in their notebooks. Walk around to take a look and ask a few students for a reason. Then drop some floating material on the surface such as a ping-pong ball or pieces of cork or anything that floats. And then let students explain, perhaps first in small groups of two or three. In the end draw some explanations on the board and discuss. The ping-pong balls or other floating objects will go to the highest position and displace water downward. Objects that sink will displace water upward. See cork on convex and concave water surfaces in figures 3 and 4.
+Fill a glass of water until just below the edge (concave surface) and then fill another glass carefully until the water level is over the edge of the glass but the water does not drip down the outside of the glass. Draw the two situations on the blackboard or whiteboard. We are going to put a ping-pong ball (or anything that floats) on top of the water surface. Which way will it position itself, in the center or against the edge of the glass? Let students draw their prediction in their notebooks. Walk around to take a look and ask a few students for a reason. Then drop some floating material on the surface such as a ping-pong ball or pieces of cork or anything that floats. And then let students explain, perhaps first in small groups of two or three. In the end draw some explanations on the board and discuss. The ping-pong balls or other floating objects will go to the highest position and displace water downward. Objects that sink will displace water upward.
+
+
+```{figure} images/20250513_105125.*
+:width: 50%
+:label: fig_float1
+
+Meniscus below the rim (concave, hollow).
+```
+
+```{figure} images/20250513_105244.*
+:width: 50%
+:label: fig_float
+
+Meniscus above the rim (convex).
+```
 
 ## Chromatography
-
-Take a strip of paper, make a big dot with a black marker. Then hang the edge of the paper in water. The water will move up (capillary motion), pass the black dot, and beyond that one will see a separation of colors. The different pigments in black ink move at different speeds in the water. That is how pigments can be separated. The same principle is used with chromatography which can be executed with different liquids and even different gases. Google on chromatography in the classroom and you will see many experimental possibilities.
-<https://edu.rsc.org/primary-science/kitchen-roll-chromatography/4012057.article>
+Take a strip of paper, make a big dot with a black marker. Then hang the edge of the paper in water. The water will move up (capillary motion), pass the black dot, and beyond that one will see a separation of colors. The different pigments in black ink move at different speeds in the water. That is how pigments can be separated. The same principle is used with chromatography which can be executed with different liquids and even different gases. Google on chromatography in the classroom and you will see many [experimental possibilities](https://edu.rsc.org/primary-science/kitchen-roll-chromatography/4012057.article).
 
 ## Air pressure and liquids
-
 Take a straw and a glass of water or better tea for visibility. Dip the straw in the water, close the top with a wet finger, then lift the straw out of the water while keeping the top closed. Why does water remain in the straw? This is a way to transfer small amounts of water. In a traditional pipette, one can suck up a liquid and measure exact amounts using the markings.
 
-## Air bubbles
+```{figure} images/20250513_110152.*
+:width: 50%
+:label: fig_float
 
+Water stays in the straw when your finger closes the lid.
+```
+
+
+## Air bubbles
 Now close the top of the straw with your finger before inserting it. Now the water level in the straw will be below the water level in the glass. The latter will be clearer when we have a basin with water and push a glass upside down into it. There is something which prevents the water from coming in, air. The air in the glass can be compressed, but not all the way. Students can be reminded of their experiences when washing dishes. Try to pass air bubbles from one glass to another in the basin. Bubbles will move to the highest point available. Or stick a straw up to the bottom and blow air through it. The bubbles will move straight up in the water.
 
-## Transferring air bubbles under water
 
+
+## Transferring air bubbles under water
 Take two glasses under water in a basin. One is filled with water, the other is pushed upside down into the water thus is filled with air (see previous demo). Try to transfer the air to the other glass. How would you do that? Play around a bit with the air bubbles, it is fun.
 
 ## Air occupies space
-
 Take a basin with water, a glass with a piece of paper handkerchief at the bottom, turn the glass upside down and push it into the basin (figure 7). Does the handkerchief get wet? What prevents it from getting wet?
 
-## Carbonated drinks
+```{iframe} https://youtube.com/embed/jJiqY82KmPo
+:width: 70$
+:label: vid_13
 
+.
+```
+
+## Carbonated drinks
 There always is a student with a carbonated drink in the bag. At the factory the CO$_2$ is mixed with the drink. As CO$_2$ has a lower density than water or whatever drink, it will tend to escape from the liquid and from the bottle. When opened, the pressure releases. When put in a glass we see bubbles rising. Why don't bubbles rise when the bottle is still closed? There seems to be an equilibrium between the CO$_2$ above the liquid and the dissolved CO$_2$. Once opened the pressure in the top of the bottle is reduced and more of the dissolved CO$_2$ rises to the surface.
 
 ## Pressure, bubbles, straws
@@ -101,7 +126,7 @@ Take two containers of water, one with an airtight lid and one without, put them
 
 
 ## Bernoulli and a candle flame
-Light a candle, why does the flame point upwards? The heated air above the flame expands and becomes less dense (figure 14). The burning gases along the wick move towards the location with the lowest density (lowest pressure). When I blow softly at the flame without extinguishing it, which way does the flame go? In the direction of the blow. And when I blow through a straw on one side of the candle? Then the flame bends towards that side, as there is the lowest pressure (figure 15), a nice illustration of the Bernoulli effect. Explanation for a younger audience: I blow some air away, the burning gas is pushed to the place with least air.
+Light a candle, why does the flame point upwards? The heated air above the flame expands and becomes less dense. The burning gases along the wick move towards the location with the lowest density (lowest pressure). When I blow softly at the flame without extinguishing it, which way does the flame go? In the direction of the blow. And when I blow through a straw on one side of the candle? Then the flame bends towards that side, as there is the lowest pressure, a nice illustration of the Bernoulli effect. Explanation for a younger audience: I blow some air away, the burning gas is pushed to the place with least air.
 
 
 ## Lift water by blowing
