@@ -44,6 +44,7 @@ Would the air friction scale with $v^2$ rather than $v$?
 ```{iframe} https://youtube.com/embed/ELDJPqVrRZQ
 :width:70%
 :label: vid_2
+:aspectratio: auto 16 / 9
 
 Would the air friction scale with $v^2$ rather than $v$?
 ```
@@ -90,6 +91,7 @@ A piece of paper and a coffee mug, is always at hand
 ```{iframe} https://youtube.com/embed/fjGiXL4z-MY
 :width: 70%
 :label: vid_3
+:aspectratio: auto 16 / 9
 
 Make the demo spectacular by pulling hard only when the cup is near the end of the table.
 ```
@@ -108,6 +110,7 @@ Some additional mass in the middle makes sure the paper rips at both ends.
 ```{iframe} https://youtube.com/embed/enduuPXLM9g
 :width: 70%
 :label: vid_4
+:aspectratio: auto 16 / 9
 
 Some additional mass in the middle makes sure the paper rips at both ends.
 ```
@@ -119,6 +122,7 @@ Stick a knife in an apple, hold it up so the apple is suspended from the knife. 
 ```{iframe} https://youtube.com/embed/OGiPpFA3JIw
 :width: 70%
 :label: vid_5
+:aspectratio: auto 16 / 9
 
 A well known demo
 ```
@@ -129,6 +133,7 @@ Put a ballpoint straight up on your hand and try to balance it. You may invite t
 ```{iframe} https://youtube.com/embed/Ft9UD-xbqxQ
 :width: 70%
 :label: vid_6
+:aspectratio: auto 16 / 9
 
 Can you balance a hammer using your finger?
 ```
@@ -146,7 +151,7 @@ What happens if you pull either of the toilet rolls?
 ## Rotational inertia 3 with string and breakables
 Now make the set-up of {numref}`fig_RI3`, preferably with a breakable object on one side of the string such as a porcelain cup instead of the keys, but any object will do. At the other end of the string an object such as a bolt or a screw or a key, whatever. There is a pen or pencil in the left hand as a kind of pulley. Then let students predict, *If I let go of the string, what will happen?* The teacher shows some uncertainty or even fear, would this go alright? Let go! The weight will be greatly accelerated and wind itself very quickly around the pencil. That will increase the friction so much that the cup (or keys) will stop falling. For an explanation try to link with the results of demonstration 13. A nice discussion of this experiment is on [this Harvard site](https://sciencedemonstrations.fas.harvard.edu/presentations/coffee-mug-string) and this includes references to the American Journal of Physics {cite:p}`Marlow1991`.
 
-```{figure} figures/02-14-3RotationalInertia.jpg
+```{figure} figures/02-14-3RotationalInertia.JPG
 :width: 70%
 :label: fig_RI3
 
@@ -156,6 +161,7 @@ Daday ready to drop her coffee mug, safely.
 ```{iframe} https://youtube.com/embed/h2ulQeDoHmY
 :width: 70%
 :label: vid_7
+:aspectratio: auto 16 / 9
 
 For safety measures, cover the floor.
 ```
@@ -210,6 +216,7 @@ Take a ruler, meter stick, or any other long object available. Balance it horizo
 ```{iframe} https://youtube.com/embed/RYFsPy8mUbI
 :width: 70%
 :label: vid_8
+:aspectratio: auto 16 / 9
 
 .
 ```
@@ -227,6 +234,7 @@ Take a meterstick, or pvc tube, or any other rod such as the end of a broom. Kee
 ```{iframe} https://www.youtube.com/embed/JDwHYHY7RqI?si=b-VYk_exLajihKs4
 :width: 70%
 :label: vid_9
+:aspectratio: auto 16 / 9
 
 Static vs kinetic friction
 ```
@@ -238,6 +246,7 @@ Take one half A4 and put it between the pages of a closed book, pull it. It is e
 ```{iframe} https://www.youtube.com/embed/WgknDyxIL00?si=dhsveBNTVAN3S7Ur
 :width: 70%
 :label: vid_10
+:aspectratio: auto 16 / 9
 
 Friction...
 ```
