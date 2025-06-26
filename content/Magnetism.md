@@ -22,7 +22,7 @@ Of course, I do hope you have proper demonstration equipment to demonstrate a ge
 One of my teacher education students made a functioning electric motor using one battery, some Neodymium magnets and a copper wire bent in a clever way (Figure 1). A more reliable design is shown in [a simple video](https://www.google.com/search?client=safari&rls=en&q=simplest+electromotor&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:0bd621c8,vid:OKpmp7R6vBU). Yet more clear instructions can be found [here](https://www.google.com/search?client=safari&rls=en&q=simplest+electromotor&ie=UTF-8&oe=UTF-8#fpstate=ive&vld=cid:d9ecaaf6,vid:WI0pGk0MMhg).
 
 ```{figure} figures/08-7-1Electromotor.*
-:width: 70%
+:width: 60%
 :name: fig_elekm
 
 Making a simple electric motor with a battery, wire and magnet.

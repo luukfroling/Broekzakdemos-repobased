@@ -50,7 +50,7 @@ From the previous experiment we might have learned that anything with a wedge sh
 Anybody with transparent, colored candy wrappers? Use a flashlight or the light of a telephone and shine it through the colored paper towards the students. The original light is white, the paper wrappers subtract colors from white. A red paper wrapper subtracts blue and green and lets red go through. A blue paper wrapper subtracts green and red and lets blue go through. If you have more candy wrappers and more lamps you can add colors together again.
 
 ```{figure} images/20250513_121309.*
-:width: 70%
+:width: 60%
 :name: fig_subt
 
 Put various colored transparent papers on top of each other.
@@ -63,7 +63,7 @@ Perhaps you have a Newton color disk on top of a spinning top. By spinning color
 There must be students in class with a mirror in their bag. Other reflecting objects might be windows, metals, spoons, etc. One can easily imagine many demonstrations. A spectacular demo is to tell your class that your whole body will be visible in any mirror as long as you increase your distance to the mirror. Then you *disprove*, using a mirror taken from outside the classroom, or borrowing a mirror from one of the girls. Beware of convex and concave mirrors for this particular demo, the mirror should be flat.
 
 ```{figure} images/mirror.*
-:width: 70%
+:width: 60%
 :name: fig_mirror
 
 Does more body become visible when moving away from the mirror?
@@ -83,7 +83,7 @@ If you do have pins, then you can use a pencil standing straight up and construc
 Walk around with pencil slanted in a glass of water, or better, in rectangular container. 
 
 ```{figure} images/20250513_110031.*
-:width: 70%
+:width: 60%
 :name: fig_pencil2
 
 A broken straw?
@@ -95,7 +95,7 @@ Stick your finger or a pencil straight up in a (round) glass of water. Move thro
 
 
 ```{figure} images/pencil.*
-:width: 70%
+:width: 60%
 :name: fig_pencil
 
 Move the pencil back and forth and describe what you see
@@ -108,7 +108,7 @@ Draw parallel arrows on a piece of paper (the object), hold that behind a glass 
 
 
 ```{figure} images/20250513_103731.*
-:width: 70%
+:width: 60%
 :name: fig_arrow
 
 Do the arrows point in the same direction?
@@ -119,7 +119,7 @@ Do the arrows point in the same direction?
 Ask students to draw the light ray diagram requested in {numref}`fig_pool`. Walk around to identify frequent errors. Discuss, and then ask students how they could create an analog situation with a Lego mini-doll or a pencil and follow their instructions to demonstrate.
 
 ```{figure} images/20250513_100315.*
-:width: 70%
+:width: 60%
 :name: fig_pool
 
 Fun physics in the pool
@@ -130,7 +130,7 @@ Fun physics in the pool
 Switch off the classroom lights. The teacher or a student stands against the wall opposite of the windows. The face is clearly visible as more light is reflected from the face than from the background. Then the teacher or student stands in front of the windows with the face towards the class. Now the face looks dark and unclear as the reflected light from the face is very little compared to the light coming through the windows. Then turn on the lights in the classroom and the face is better visible again. The same effect is visible in {numref}`fig_tulip`.
 
 ```{figure} figures/tulip.*
-:width: 70%
+:width: 60%
 :name: fig_tulip
 
 Has the tulip changed color?
@@ -144,7 +144,7 @@ Arrange students in pairs. They are to observe each other's pupil contraction. M
 Take a piece of paper, wet it a bit in the middle with water, oil, or saliva, then hold it in front of the window (or a lamp). The wet part appears light, it transmits. Then put the paper on the table where it reflects light. Now the wet spot looks dark, because of the transmission, it reflects less than dry paper. Students can do this in their seats using their saliva or whatever wet stuff is available {numref}`fig_trans`.
 
 ```{figure} figures/04-15ReflectionTransmission.*
-:width: 70%
+:width: 60%
 :name: fig_trans
 
 The wet part appears light, it transmits. 

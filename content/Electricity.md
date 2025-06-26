@@ -19,7 +19,7 @@ Ask how much charge there could be on a ballpoint or a straw. Because of the lar
 Use a fork to position an aluminum coin or paperclip very carefully on top of the water surface in a glass of water. Then rub a plastic pen or straw or better PVC pipe on your jumper or other textile and let the tip of the pen or straw or pipe approach the end of the paperclip or the coin ({numref}`vid_10`). The paperclip will move away from the tip of the straw. How come? Start a discussion. Let students propose explanations. If it was electrostatic induction between coin and straw, then there should be attraction rather than repulsion. In the end, somebody might suggest that the water has a role. Water molecules are dipoles. The straw or pipe attracts the water creating a little slope and the coin or paperclip slides down that slope. Actually the slope could be shown by reflecting an almost horizontal beam of a laser pointer from the surface of the water. When the charged straw or pipe comes close to the surface, the reflected beam moves. Could an electrostatic generator be used as an outboard engine for a boat?
 
 ```{iframe} https://www.youtube.com/embed/YI4bNdYzQYQ?si=HudH10AcVgUMhkYT
-:width: 70%
+:width: 60%
 :name: vid_11
 :aspectratio: auto 16 / 9
 

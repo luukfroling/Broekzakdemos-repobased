@@ -11,14 +11,14 @@ Take a ruler, make it stick out a bit {numref}`fig_ruler` from the table, let it
 
 
 ```{figure} images/20250513_115534.*
-:width: 70%
+:width: 60%
 :name: fig_ruler
 
 Change the mass at the end of the ruler and listen
 ```
 
 ```{iframe} https://www.youtube.com/embed/i__wDdiyqwo?si=oRDfJKD38Jj77kDS
-:width: 70%
+:width: 60%
 :name: vid_12
 :aspectratio: auto 16 / 9
 
@@ -41,7 +41,7 @@ Consider the previous pendulum, one can push in phase and there is resonance and
 Have two coins *A* and *B* touching and a third *C* lengthwise at a few cm distance (figure 3). Then shoot *C* towards *B* while pressing *B* down with your finger. If *A* and *B* touch, then the momentum transfers very well to coin *A* even though *B* is not able to move. The transmission mechanism inside coin B must be a wave. *A* can also be put such that it is not quite in line with *CB* but still touching *B*. Also then momentum transfer takes place and A is launched under an angle.
 
 ```{iframe} https://www.youtube.com/embed/8VUG2Z-j_NQ?si=hR_JjaREoq77-gWs
-:width: 70%
+:width: 60%
 :name: vid_13
 :aspectratio: auto 16 / 9
 

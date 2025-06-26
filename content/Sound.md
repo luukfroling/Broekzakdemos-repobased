@@ -16,7 +16,7 @@ What did we learn? One can take another straw, cut the triangle at the end, and 
 Take two pieces of PVC pipe, for example 10 cm and 20 cm long. Blow across the opening of one pipe. It produces a clear tone. Then close the bottom opening with your hand, and blow again. The tone is now much lower, very noticeable. With both ends open, the pipe fits ½ of a wavelength ($λ=2l$). With one side closed, it fits ¼ of a wavelength ($λ=4l$). It does help to have a microphone and sound box in the room to make the effect better audible for a group. I have done it with a sound system for groups of 150+ students. 
 
 ```{figure} images/panflute.jpg
-:width: 70%
+:width: 60%
 :name: fig_panflute
 
 Picture from [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) {cite:p}`pols2024show`

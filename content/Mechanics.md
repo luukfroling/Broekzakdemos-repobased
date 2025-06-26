@@ -4,7 +4,7 @@
 Break a piece of chalk into a small and a big piece and keep them between thumb and index finger such that the lowest ends are at the same level. Ask students to predict which one will hit the floor first if released simultaneously. Discuss predictions and reasons. Then let go, repeat until all observers agree. Explain. Alternatively use big and small coins or stones on your hand and pull your hand away from under the stones.
 
 ```{iframe} https://youtube.com/embed/NjCsFRE8HA0
-:width: 70%
+:width: 60%
 :name: vid_1
 :aspectratio: auto 16 / 9
 
@@ -18,7 +18,7 @@ Ask the question, let students answer, good chance they come up with a matching 
 Now let a sheet of paper drop. It swirls and drops slowly. Then crumple it, it drops almost as fast as a coin. Then take ½ A4 and put it on top of a book and drop the book. Paper and book will reach the floor at the same time! This happens even if you fold the paper in a tent shape so there is some air between the middle of the paper and the book. No need for the awkward vacuum tube to show that feather and lead ball fall equally fast.
 
 ```{figure} images/20250513_090908.jpg
-:width: 70%
+:width: 60%
 :name: fig_908
 
 What will happen if you drop a paper on top of a book?
@@ -28,21 +28,21 @@ What will happen if you drop a paper on top of a book?
 From one half A4, it is easy to fold a rectangular basket and staple it and add unused parts of the half A4 into the basket. A sheet of paper swirls down. However, the basket falls with an almost constant velocity. It is possible to convert this demonstration into a laboratory investigation in which students could investigate the influence of area and mass of the paper basket on the time it needs to fall from a certain height. A first approximation could be the formula $t = \frac{h\cdot A}{m}$, so one would predict that doubling height $h$ or doubling area $A$ would result in doubling the fall time $t$. These predictions can be checked by holding an area $2A$ basket at half the height of the area $A$ basket, release them and they should reach the floor at about the same time if the model is correct. For area it appears to fit, or would the air friction scale with $v^2$ rather than $v$? However, for mass $t$ scales with $m^{-½}$ No stopwatch needed. An early version of this experiment can be found in @rogers2011physics [pg.167] famous book *Physics for the Inquiring Mind*.
 
 ```{figure} images/20250513_091205.jpg
-:width: 70%
+:width: 60%
 :name: fig_205
 
 Which basket is faster?
 ```
 
 ```{figure} images/20250513_091700.jpg
-:width: 70%
+:width: 60%
 :name: fig_700
 
 Would the air friction scale with $v^2$ rather than $v$?
 ```
 
 ```{iframe} https://youtube.com/embed/ELDJPqVrRZQ
-:width:70%
+:width:60%
 :name: vid_2
 :aspectratio: auto 16 / 9
 
@@ -53,7 +53,7 @@ Would the air friction scale with $v^2$ rather than $v$?
 There is always paper in the room or in the notebooks of students. Fold various shapes and drop them. Fold paper airplanes, there are many suggestions for paper airplane activities on internet. Including a vertical tail piece sticking out above the wings can greatly improve the range when thrown.
 
 ```{figure} images/20250513_092443.jpg
-:width: 70%
+:width: 60%
 :name: fig_443
 
 Flying is playing with air resistance 
@@ -82,14 +82,14 @@ To point out the relevant forces and show what is meant by action = - reaction, 
 Take a glass of water (or a coin, or another object, breakable objects are preferred) and put it on top of a dry A4 sheet of paper. Pull the paper slowly with a constant velocity to the edge of the table. Then suddenly jerk the paper. The glass stops. What students feared, does not happen, unless the teacher is clumsy or the bottom of the glass was wet. The glass of water resists the sudden acceleration .... inertia!
 
 ```{figure} images/20250513_092927.jpg
-:width: 70%
+:width: 60%
 :name: fig_927
 
 A piece of paper and a coffee mug, is always at hand 
 ```
 
 ```{iframe} https://youtube.com/embed/fjGiXL4z-MY
-:width: 70%
+:width: 60%
 :name: vid_3
 :aspectratio: auto 16 / 9
 
@@ -101,14 +101,14 @@ Make the demo spectacular by pulling hard only when the cup is near the end of t
 Tear a piece of paper as in {numref}`fig_tearpiece`. Can I tear both sides of the middle part in one jerk? No, does not work. What should I change in order to be able to tear the two sides off in one jerk? It turns out that if you make the middle part just a bit heavier by putting on a few paper clips, it will work (source: my former student Ruud Brouwer).
 
 ```{figure} images/20250513_093759.jpg
-:width: 70%
+:width: 60%
 :name: fig_tearpiece
 
 Some additional mass in the middle makes sure the paper rips at both ends.
 ```
 
 ```{iframe} https://youtube.com/embed/enduuPXLM9g
-:width: 70%
+:width: 60%
 :name: vid_4
 :aspectratio: auto 16 / 9
 
@@ -120,7 +120,7 @@ Some additional mass in the middle makes sure the paper rips at both ends.
 Stick a knife in an apple, hold it up so the apple is suspended from the knife. Then start hammering. The apple resists acceleration and the knife goes farther and farther into the apple. If you use a big bread knife, it will come out at the other end. To make it more spectacular, use a bigger knife and use a melon or other big fruit, any relatively heavy fruit will do.
 
 ```{iframe} https://youtube.com/embed/OGiPpFA3JIw
-:width: 70%
+:width: 60%
 :name: vid_5
 :aspectratio: auto 16 / 9
 
@@ -131,7 +131,7 @@ A well known demo
 Put a ballpoint straight up on your hand and try to balance it. You may invite the audience to do the same. It is impossible, it will tip over immediately. Now find somewhere in the classroom a meter stick, or a broom, or any stick longer than the ballpoint. Put it straight up on the hand and try to balance it. That works quite well. The object resists rotational acceleration ..... rotational inertia! The longer the object, the greater the rotational inertia, the easier it is to balance it. If then on top of the object there is an extra weight, like with a broom upside down, then it becomes easier yet. If you can find a hammer, you can show that it is easy to balance if the weight is up and difficult if the weight is down (metal top part on your finger). The taller the object and the farther the center of mass is from the pivot point on the hand, the greater the rotational inertia. Rotational inertia is often not included in high school physics, but that is no reason not to demonstrate it! Source: my former student Alfredo Guirit, from Tagbilaran, Bohol, Philippines.
 
 ```{iframe} https://youtube.com/embed/Ft9UD-xbqxQ
-:width: 70%
+:width: 60%
 :name: vid_6
 :aspectratio: auto 16 / 9
 
@@ -142,7 +142,7 @@ Can you balance a hammer using your finger?
 With a full roll just prepare the length you need then a jerk will suffice to get your piece of paper, see {numref}`fig_RI2`. If you do that with an almost empty roll, then the remaining part will unwind and give you much more than you need. The full roll has a higher resistance to acceleration, thus a greater rotational inertia. For a demo in the classroom, just borrow the rolls from the school and put them back later.
 
 ```{figure} figures/02-13RotationalInertia2LR.jpeg
-:width: 70%
+:width: 60%
 :name: fig_RI2
 
 What happens if you pull either of the toilet rolls?
@@ -152,14 +152,14 @@ What happens if you pull either of the toilet rolls?
 Now make the set-up of {numref}`fig_RI3`, preferably with a breakable object on one side of the string such as a porcelain cup instead of the keys, but any object will do. At the other end of the string an object such as a bolt or a screw or a key, whatever. There is a pen or pencil in the left hand as a kind of pulley. Then let students predict, *If I let go of the string, what will happen?* The teacher shows some uncertainty or even fear, would this go alright? Let go! The weight will be greatly accelerated and wind itself very quickly around the pencil. That will increase the friction so much that the cup (or keys) will stop falling. For an explanation try to link with the results of demonstration 13. A nice discussion of this experiment is on [this Harvard site](https://sciencedemonstrations.fas.harvard.edu/presentations/coffee-mug-string) and this includes references to the American Journal of Physics {cite:p}`Marlow1991`.
 
 ```{figure} figures/02-14-3RotationalInertia.JPG
-:width: 70%
+:width: 60%
 :name: fig_RI3
 
 Daday ready to drop her coffee mug, safely.
 ```
 
 ```{iframe} https://youtube.com/embed/h2ulQeDoHmY
-:width: 70%
+:width: 60%
 :name: vid_7
 :aspectratio: auto 16 / 9
 
@@ -171,7 +171,7 @@ For safety measures, cover the floor.
 Now that we have the nice set-up of {numref}`fig_CMEN`, we better also use it to demonstrate properties of circular motion. While the stopper is moving, you will cut the string with scissors just above the weight. Draw a circle on the board and let students predict whether the stopper will fly off radially or tangentially (draw the two possibilities). Let students write a prediction with a reason. Then cut the string when the stopper is moving away from the students.
 
 ```{figure} figures/02-15CircularMotionEN.jpg
-:width: 70%
+:width: 60%
 :name: fig_CMEN
 
 Demonstrating circular motion using a rope, pvc tube and some small weights.
@@ -185,7 +185,7 @@ It is possible to make this into a quantitative demonstration supporting the for
 
 
 ```{figure} images/20250602_114146.gif
-:width: 70%
+:width: 60%
 :name: fig_146
 
 Freek Pols performing the demonstration
@@ -214,7 +214,7 @@ Did any student bring a newspaper to class? Or take one from the faculty room. I
 Take a ruler, meter stick, or any other long object available. Balance it horizontally on top of your left and right index fingers. Then start moving the fingers towards each other. Without any control by the instructor, the fingers will only slide against the ruler one at a time and the two fingers will meet under the center of mass. You can make it more spectacular by blindfolding the instructor, same result. The experiment could easily be repeated by the students in their seats, they can try their rulers or other objects from their bags. Explanation: when one finger moves, an increasing part of the weight will be supported by that finger as it gets closer to the center of mass, so friction increases, and the other finger will start moving until it stops and the process repeats itself. Also see the 34 experiments with rulers in the *American Journal of Physics* [@Ehrlig1994]. An interesting variation is to add an object on one side of the stick, for example a blackboard eraser or hang a bag, then using the above procedure you will find that the center of mass has shifted.
 
 ```{iframe} https://youtube.com/embed/RYFsPy8mUbI
-:width: 70%
+:width: 60%
 :name: vid_8
 :aspectratio: auto 16 / 9
 
@@ -222,7 +222,7 @@ Take a ruler, meter stick, or any other long object available. Balance it horizo
 ```
 
 ```{figure} images/20250513_100639.jpg
-:width: 70%
+:width: 60%
 :name: fig_639
 
 Finding the center of mass can be done (and predicted) using various materials.
@@ -232,7 +232,7 @@ Finding the center of mass can be done (and predicted) using various materials.
 Take a meterstick, or pvc tube, or any other rod such as the end of a broom. Keep it horizontal and hang over it a piece of cloth (towel, hand kerchief, scarf) such that one end is much longer than the other end but it does not move because of static friction. Then slowly tip the rod downward a bit until the cloth starts moving. It will then not just move downward, but also sideways. Friction has now become kinetic and kinetic friction is smaller than static friction thus insufficient to prevent sliding sideways (source: Ineke Frederik, Dutch physics teacher educator).
 
 ```{iframe} https://www.youtube.com/embed/JDwHYHY7RqI?si=b-VYk_exLajihKs4
-:width: 70%
+:width: 60%
 :name: vid_9
 :aspectratio: auto 16 / 9
 
@@ -244,7 +244,7 @@ Static vs kinetic friction
 Take one half A4 and put it between the pages of a closed book, pull it. It is easy to pull it out. Now take 10 of these half A4 pieces of paper and put them each between different pages. Try to pull out all 10 at once. That is difficult. Source: Leisink, 2006
 
 ```{iframe} https://www.youtube.com/embed/WgknDyxIL00?si=dhsveBNTVAN3S7Ur
-:width: 70%
+:width: 60%
 :name: vid_10
 :aspectratio: auto 16 / 9
 
@@ -281,7 +281,7 @@ Pull a student bag across the table with a piece of elastic band or a weak sprin
 Put a banknote on two markers. How can you fold the banknote such that it can carry a load of many coins? Two folds already helps a lot. If you pile more banknotes on top of each other, then they can carry many coins! Then try more folds, corrugated banknotes are very strong. Think also about all the roofing materials that have corrugated shapes rather than being flat, for example rooftiles and metal roof sheeting. A nice series of demos and comparison with carton and other materials can be seen [here](https://www.youtube.com/watch?v=qFZGmHbjLSM).
 
 ```{figure} figures/02-31StrengthOfProfiles.jpg
-:width: 70%
+:width: 60%
 :name: fig_fold
 
 How can you fold the banknote such that it can carry a load of many coins?
@@ -298,7 +298,7 @@ Every time your brain knows automatically how to compensate, that is built-in ph
 Line up some students with their back and particularly their heels against the wall of the classroom. Then put some money in front of their toes. If they can pick it up without falling, they may keep it. This is impossible to do without their center of mass going beyond their toes and falling.
 
 ```{figure} figures/02-33CenterOfMass2LR.jpg
-:width: 70%
+:width: 60%
 :name: fig_CM
 
 Impossible to pick up the money when heels at the wall.
@@ -311,7 +311,7 @@ Take two students of unequal size next to each other facing the other students i
 Borrow a hammer and a stick and some rope or rubber bands and make the set-up of {numref}`fig_David`. Teacher education student David constructed and explained it perfectly.
 
 ```{figure} figures/02-35CenterOfMass4LR.jpg
-:width: 70%
+:width: 60%
 :name: fig_David
 
 Balancing hammer
@@ -349,7 +349,7 @@ Collect some rubber bands from your students and arrange them parallel and in se
 Take a piece of chalk. Pull on the two sides, that creates tensile stress. The chalk breaks with a very nice flat break surface perpendicular to the length of the chalk. Now take another piece of chalk and twist the ends in opposite directions. We now have shear stress. The chalk breaks with a very different break surface. Try it, the effect is crystal clear and can be found Feynman's Lectures of Physics II p39-9.
 
 ```{figure} figures/02-44TensileShearStress.*
-:width: 70%
+:width: 60%
 :name: fig_stress
 
 The difference between tensile and shear stress
@@ -359,7 +359,7 @@ The difference between tensile and shear stress
 Anybody has a raw (unboiled) egg? Now this is something you might not have in a bare classroom, but then bring it from home. Have students hold up a towel, a coat, or any piece of textile, or the curtains of the classroom window. Then throw the egg full force into that. It will survive, it will not break. There are two principles at work. The force that decelerates the egg is spread over the surface of the egg, rather than applied at one point. Furthermore, the decelerating force is spread in time as the towel or curtain moves along with the egg. The spreading of forces also applies to seatbelts in cars and protective helmets, they spread the force over the body or over the head. Seatbelts also illustrate both the spreading in time and in area of the decelerating force as the belt is wide moves along with the body, thus lowering the force by spreading it in time and across a wide surface.
 
 ```{figure} figures/02-45EggThrow.*
-:width: 70%
+:width: 60%
 :name: fig_throw
 
 Throw an unboiled egg without breaking it.
@@ -372,7 +372,7 @@ Look around for something that can break if dropped on a stone floor. Then look 
 Hold a sheet of paper as shown in {numref}`fig_throw`. The top end will be hanging down a bit. Blow across the paper. The top end will then move upward. A simple way of explaining is that you blow some of the air above the paper away, creating a pressure difference with lower pressure above the paper while having the normal atmospheric pressure below. A more correct explanation is that moving air has a lower pressure than air standing still. This pressure difference pushes the paper up. Instruments based on this principle are used to measure an airplane's speed relative to the surrounding air.
 
 ```{figure} figures/02-47-1Bernouilli1.*
-:width: 70%
+:width: 60%
 :name: fig_Bern1
 
 Bernoulli shown
@@ -387,7 +387,7 @@ Bernoulli shown
 Light a candle. *If I blow through a straw on the window side of the candle, will the flame move? Which way? Why?* Answer: the flame will bend to the window side, the burning gases of the flame will point towards the area with lowest density/lowest pressure. In faster moving fluids the pressure is lower than in slower moving fluids (Bernoulli). For a younger audience: I blow some air away, the burning gas moves to the place with least air. For figures, see the chapter on Heat and Temperature. 
 
 ```{figure} images/20250513_114856.*
-:width: 70%
+:width: 60%
 :name: fig_Bern3
 
 Bernoulli shown
