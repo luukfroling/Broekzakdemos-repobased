@@ -5,7 +5,7 @@ Break a piece of chalk into a small and a big piece and keep them between thumb 
 
 ```{iframe} https://youtube.com/embed/NjCsFRE8HA0
 :width: 70%
-:label: vid_1
+:name: vid_1
 :aspectratio: auto 16 / 9
 
 Can we accelerate our hands more than g?
@@ -19,7 +19,7 @@ Now let a sheet of paper drop. It swirls and drops slowly. Then crumple it, it d
 
 ```{figure} images/20250513_090908.jpg
 :width: 70%
-:label: fig_908
+:name: fig_908
 
 What will happen if you drop a paper on top of a book?
 ```
@@ -29,21 +29,21 @@ From one half A4, it is easy to fold a rectangular basket and staple it and add 
 
 ```{figure} images/20250513_091205.jpg
 :width: 70%
-:label: fig_205
+:name: fig_205
 
 Which basket is faster?
 ```
 
 ```{figure} images/20250513_091700.jpg
 :width: 70%
-:label: fig_700
+:name: fig_700
 
 Would the air friction scale with $v^2$ rather than $v$?
 ```
 
 ```{iframe} https://youtube.com/embed/ELDJPqVrRZQ
 :width:70%
-:label: vid_2
+:name: vid_2
 :aspectratio: auto 16 / 9
 
 Would the air friction scale with $v^2$ rather than $v$?
@@ -54,7 +54,7 @@ There is always paper in the room or in the notebooks of students. Fold various 
 
 ```{figure} images/20250513_092443.jpg
 :width: 70%
-:label: fig_443
+:name: fig_443
 
 Flying is playing with air resistance 
 ```
@@ -75,7 +75,7 @@ Student **A** walks with a low constant velocity in front of the class from left
 Strange question you will think, but some people will answer equal (misconception). In a traffic court case in the USA this opinion was even espoused by a judge. If none of your students go wrong here, then never do this demo again. Have your students draw position time diagrams for A and B in the same graph (see the previous demo).
 
 ## Action versus reaction visualization exercise
-To point out the relevant forces and show what is meant by action = - reaction, not to proof it: a rubber band or piece of elastic band can always be found even in a bare classroom. A student may have a rubber band around a lunch box. Stretch it with your finger. The force of the finger on the elastic band equals the force of the elastic band on the finger. Point out that action and reaction always work on different objects. That's why we want students to properly label forces as $F_{finger on elastic band}$ and $F_{elastic band on finger}$. The teacher can also put two students in front of the class, each with one hand pushing the hand of the other student but not moving. Then one student will push so hard that the other has to move back. Is now still $action = - reaction$ or $F _{student_A on student_B} = -F_{student_B on student_A}$? Yes it is, but to understand why student **B** is moving backwards, one has to add the forces **on student B only**: > $F_{student_A on student_B} + F_{friction floor on student_B}$
+To point out the relevant forces and show what is meant by action = - reaction, not to proof it: a rubber band or piece of elastic band can always be found even in a bare classroom. A student may have a rubber band around a lunch box. Stretch it with your finger. The force of the finger on the elastic band equals the force of the elastic band on the finger. Point out that action and reaction always work on different objects. That's why we want students to properly name forces as $F_{finger on elastic band}$ and $F_{elastic band on finger}$. The teacher can also put two students in front of the class, each with one hand pushing the hand of the other student but not moving. Then one student will push so hard that the other has to move back. Is now still $action = - reaction$ or $F _{student_A on student_B} = -F_{student_B on student_A}$? Yes it is, but to understand why student **B** is moving backwards, one has to add the forces **on student B only**: > $F_{student_A on student_B} + F_{friction floor on student_B}$
 
 
 ## Linear inertia 1, Newton's First Law with a glass of water
@@ -83,14 +83,14 @@ Take a glass of water (or a coin, or another object, breakable objects are prefe
 
 ```{figure} images/20250513_092927.jpg
 :width: 70%
-:label: fig_927
+:name: fig_927
 
 A piece of paper and a coffee mug, is always at hand 
 ```
 
 ```{iframe} https://youtube.com/embed/fjGiXL4z-MY
 :width: 70%
-:label: vid_3
+:name: vid_3
 :aspectratio: auto 16 / 9
 
 Make the demo spectacular by pulling hard only when the cup is near the end of the table.
@@ -102,14 +102,14 @@ Tear a piece of paper as in {numref}`fig_tearpiece`. Can I tear both sides of th
 
 ```{figure} images/20250513_093759.jpg
 :width: 70%
-:label: fig_tearpiece
+:name: fig_tearpiece
 
 Some additional mass in the middle makes sure the paper rips at both ends.
 ```
 
 ```{iframe} https://youtube.com/embed/enduuPXLM9g
 :width: 70%
-:label: vid_4
+:name: vid_4
 :aspectratio: auto 16 / 9
 
 Some additional mass in the middle makes sure the paper rips at both ends.
@@ -121,7 +121,7 @@ Stick a knife in an apple, hold it up so the apple is suspended from the knife. 
 
 ```{iframe} https://youtube.com/embed/OGiPpFA3JIw
 :width: 70%
-:label: vid_5
+:name: vid_5
 :aspectratio: auto 16 / 9
 
 A well known demo
@@ -132,7 +132,7 @@ Put a ballpoint straight up on your hand and try to balance it. You may invite t
 
 ```{iframe} https://youtube.com/embed/Ft9UD-xbqxQ
 :width: 70%
-:label: vid_6
+:name: vid_6
 :aspectratio: auto 16 / 9
 
 Can you balance a hammer using your finger?
@@ -143,7 +143,7 @@ With a full roll just prepare the length you need then a jerk will suffice to ge
 
 ```{figure} figures/02-13RotationalInertia2LR.jpeg
 :width: 70%
-:label: fig_RI2
+:name: fig_RI2
 
 What happens if you pull either of the toilet rolls?
 ```
@@ -153,14 +153,14 @@ Now make the set-up of {numref}`fig_RI3`, preferably with a breakable object on 
 
 ```{figure} figures/02-14-3RotationalInertia.JPG
 :width: 70%
-:label: fig_RI3
+:name: fig_RI3
 
 Daday ready to drop her coffee mug, safely.
 ```
 
 ```{iframe} https://youtube.com/embed/h2ulQeDoHmY
 :width: 70%
-:label: vid_7
+:name: vid_7
 :aspectratio: auto 16 / 9
 
 For safety measures, cover the floor.
@@ -172,7 +172,7 @@ Now that we have the nice set-up of {numref}`fig_CMEN`, we better also use it to
 
 ```{figure} figures/02-15CircularMotionEN.jpg
 :width: 70%
-:label: fig_CMEN
+:name: fig_CMEN
 
 Demonstrating circular motion using a rope, pvc tube and some small weights.
 ```
@@ -186,7 +186,7 @@ It is possible to make this into a quantitative demonstration supporting the for
 
 ```{figure} images/20250602_114146.gif
 :width: 70%
-:label: fig_146
+:name: fig_146
 
 Freek Pols performing the demonstration
 ```
@@ -215,7 +215,7 @@ Take a ruler, meter stick, or any other long object available. Balance it horizo
 
 ```{iframe} https://youtube.com/embed/RYFsPy8mUbI
 :width: 70%
-:label: vid_8
+:name: vid_8
 :aspectratio: auto 16 / 9
 
 .
@@ -223,7 +223,7 @@ Take a ruler, meter stick, or any other long object available. Balance it horizo
 
 ```{figure} images/20250513_100639.jpg
 :width: 70%
-:label: fig_639
+:name: fig_639
 
 Finding the center of mass can be done (and predicted) using various materials.
 ```
@@ -233,7 +233,7 @@ Take a meterstick, or pvc tube, or any other rod such as the end of a broom. Kee
 
 ```{iframe} https://www.youtube.com/embed/JDwHYHY7RqI?si=b-VYk_exLajihKs4
 :width: 70%
-:label: vid_9
+:name: vid_9
 :aspectratio: auto 16 / 9
 
 Static vs kinetic friction
@@ -245,7 +245,7 @@ Take one half A4 and put it between the pages of a closed book, pull it. It is e
 
 ```{iframe} https://www.youtube.com/embed/WgknDyxIL00?si=dhsveBNTVAN3S7Ur
 :width: 70%
-:label: vid_10
+:name: vid_10
 :aspectratio: auto 16 / 9
 
 Friction...
@@ -262,7 +262,7 @@ Put a book on the table, try to push it across the table. Have a student try. Th
 
 ```{figure} images/booksstacked.jpg
 :width: 50%
-:label: fig_booksstacked
+:name: fig_booksstacked
 
 What happens if you push one of the books? Does it matter where it is in the pile?
 ```
@@ -282,7 +282,7 @@ Put a banknote on two markers. How can you fold the banknote such that it can ca
 
 ```{figure} figures/02-31StrengthOfProfiles.jpg
 :width: 70%
-:label: fig_fold
+:name: fig_fold
 
 How can you fold the banknote such that it can carry a load of many coins?
 ```
@@ -299,7 +299,7 @@ Line up some students with their back and particularly their heels against the w
 
 ```{figure} figures/02-33CenterOfMass2LR.jpg
 :width: 70%
-:label: fig_CM
+:name: fig_CM
 
 Impossible to pick up the money when heels at the wall.
 ```
@@ -312,7 +312,7 @@ Borrow a hammer and a stick and some rope or rubber bands and make the set-up of
 
 ```{figure} figures/02-35CenterOfMass4LR.jpg
 :width: 70%
-:label: fig_David
+:name: fig_David
 
 Balancing hammer
 ```
@@ -350,7 +350,7 @@ Take a piece of chalk. Pull on the two sides, that creates tensile stress. The c
 
 ```{figure} figures/02-44TensileShearStress.*
 :width: 70%
-:label: fig_stress
+:name: fig_stress
 
 The difference between tensile and shear stress
 ```
@@ -360,7 +360,7 @@ Anybody has a raw (unboiled) egg? Now this is something you might not have in a 
 
 ```{figure} figures/02-45EggThrow.*
 :width: 70%
-:label: fig_throw
+:name: fig_throw
 
 Throw an unboiled egg without breaking it.
 ```
@@ -373,7 +373,7 @@ Hold a sheet of paper as shown in {numref}`fig_throw`. The top end will be hangi
 
 ```{figure} figures/02-47-1Bernouilli1.*
 :width: 70%
-:label: fig_Bern1
+:name: fig_Bern1
 
 Bernoulli shown
 ```
@@ -388,7 +388,7 @@ Light a candle. *If I blow through a straw on the window side of the candle, wil
 
 ```{figure} images/20250513_114856.*
 :width: 70%
-:label: fig_Bern3
+:name: fig_Bern3
 
 Bernoulli shown
 ```

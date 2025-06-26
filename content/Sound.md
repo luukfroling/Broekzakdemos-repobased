@@ -17,7 +17,7 @@ Take two pieces of PVC pipe, for example 10 cm and 20 cm long. Blow across the o
 
 ```{figure} images/panflute.jpg
 :width: 70%
-:label: fig_panflute
+:name: fig_panflute
 
 Picture from [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) {cite:p}`pols2024show`
 ```
@@ -31,11 +31,11 @@ See also [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics
 Now if you came to class to teach about sound, you would bring a little toy flute? Can students measure the pitch with their telephones?
 
 ## Mobile phone and graphing sound waves
-Use Phyphox or a similar program. Try to produce a near perfect sine wave. Ask a student who sings in a choir to sing an "o". Try a higher pitch, try a lower pitch. Try louder and less loud. Make sure not just to quickly show this on your small telephone, but sketch the graphs on the white or blackboard with clear labels. Obviously much more can be done with mobile phones and graphs. For example with Phyphox.
+Use Phyphox or a similar program. Try to produce a near perfect sine wave. Ask a student who sings in a choir to sing an "o". Try a higher pitch, try a lower pitch. Try louder and less loud. Make sure not just to quickly show this on your small telephone, but sketch the graphs on the white or blackboard with clear names. Obviously much more can be done with mobile phones and graphs. For example with Phyphox.
 
 ```{figure} images/phyphox_sound.*
 :width: 50%
-:label: fig_ph
+:name: fig_ph
 
 Sound recorded using the [phyphox app](https://phyphox.org/).
 ```

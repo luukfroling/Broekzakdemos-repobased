@@ -23,7 +23,7 @@ One of my teacher education students made a functioning electric motor using one
 
 ```{figure} figures/08-7-1Electromotor.*
 :width: 70%
-:label: fig_elekm
+:name: fig_elekm
 
 Making a simple electric motor with a battery, wire and magnet.
 ```
