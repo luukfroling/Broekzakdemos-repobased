@@ -1,3 +1,10 @@
+---
+numbering:
+  title:
+    enabled: true
+    offset: 0
+---
+
 # Introduction
 
 Suppose you are suddenly assigned to a bare classroom far from the location of your nice laboratory classroom, or you have to substitute in another class without preparation... Or you are teaching at a school without facilities... *How can you still have a clear and exciting lesson?* 
