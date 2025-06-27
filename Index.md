@@ -1,5 +1,5 @@
 ---
-title: Two Minute Physics Demonstrations and Visualizations with Common Objects
+title: Pocket demonstrations
 site:
   hide_outline: true
   hide_toc: true
@@ -10,9 +10,11 @@ numbering:
     enabled: false
 ---
 
+<div style="text-align: center; font-size: 24px; font-weight: bold;">
 
-## Two Minute Physics Demonstrations and Visualizations with Common Objects
+Pocket demonstrations
 
+</div>
 
 ```{figure} cover.jpg
 :width: 80%
