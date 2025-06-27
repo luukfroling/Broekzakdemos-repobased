@@ -21,6 +21,7 @@ Change the mass at the end of the ruler and listen
 :width: 60%
 :name: vid_12
 :aspectratio: auto 16 / 9
+:align: center
 
 In slow-motion the difference in frequency can clearly be seen.
 ```
@@ -44,6 +45,7 @@ Have two coins *A* and *B* touching and a third *C* lengthwise at a few cm dista
 :width: 60%
 :name: vid_13
 :aspectratio: auto 16 / 9
+:align: center
 
 Collision of coins with a small angle
 ```

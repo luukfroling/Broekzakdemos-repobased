@@ -7,6 +7,7 @@ Break a piece of chalk into a small and a big piece and keep them between thumb 
 :width: 60%
 :name: vid_1
 :aspectratio: auto 16 / 9
+:align: center
 
 Can we accelerate our hands more than g?
 ```
@@ -45,6 +46,7 @@ Would the air friction scale with $v^2$ rather than $v$?
 :width:60%
 :name: vid_2
 :aspectratio: auto 16 / 9
+:align: center
 
 Would the air friction scale with $v^2$ rather than $v$?
 ```
@@ -92,6 +94,7 @@ A piece of paper and a coffee mug, is always at hand
 :width: 60%
 :name: vid_3
 :aspectratio: auto 16 / 9
+:align: center
 
 Make the demo spectacular by pulling hard only when the cup is near the end of the table.
 ```
@@ -111,6 +114,7 @@ Some additional mass in the middle makes sure the paper rips at both ends.
 :width: 60%
 :name: vid_4
 :aspectratio: auto 16 / 9
+:align: center
 
 Some additional mass in the middle makes sure the paper rips at both ends.
 ```
@@ -123,6 +127,7 @@ Stick a knife in an apple, hold it up so the apple is suspended from the knife. 
 :width: 60%
 :name: vid_5
 :aspectratio: auto 16 / 9
+:align: center
 
 A well known demo
 ```
@@ -134,6 +139,7 @@ Put a ballpoint straight up on your hand and try to balance it. You may invite t
 :width: 60%
 :name: vid_6
 :aspectratio: auto 16 / 9
+:align: center
 
 Can you balance a hammer using your finger?
 ```
@@ -162,6 +168,7 @@ Daday ready to drop her coffee mug, safely.
 :width: 60%
 :name: vid_7
 :aspectratio: auto 16 / 9
+:align: center
 
 For safety measures, cover the floor.
 ```
@@ -217,6 +224,7 @@ Take a ruler, meter stick, or any other long object available. Balance it horizo
 :width: 60%
 :name: vid_8
 :aspectratio: auto 16 / 9
+:align: center
 
 .
 ```
@@ -235,6 +243,7 @@ Take a meterstick, or pvc tube, or any other rod such as the end of a broom. Kee
 :width: 60%
 :name: vid_9
 :aspectratio: auto 16 / 9
+:align: center
 
 Static vs kinetic friction
 ```
@@ -247,6 +256,7 @@ Take one half A4 and put it between the pages of a closed book, pull it. It is e
 :width: 60%
 :name: vid_10
 :aspectratio: auto 16 / 9
+:align: center
 
 Friction...
 ```

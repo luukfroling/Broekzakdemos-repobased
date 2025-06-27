@@ -91,6 +91,7 @@ Take a basin with water, a glass with a piece of paper handkerchief at the botto
 :width: 70$
 :name: vid_13
 :aspectratio: auto 16 / 9
+:align: center
 
 .
 ```
