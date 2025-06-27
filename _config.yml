@@ -1,0 +1,64 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: ShowingPhysics
+author: Freek Pols & Peter Dekkers (ed.)
+date: today
+logo: figures/logo.png
+copyright: Delft University of Technology & NVON, CC BY NC 4.0
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: off #force when python code needs to be run
+
+# only build those files that are in TOC
+only_build_toc_files: true
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+
+# launch_buttons:
+#   notebook_interface: classic 
+#   binderhub_url: "https://mybinder.org"
+#   thebe: true
+
+
+sphinx:
+  config:
+    bibtex_reference_style: author_year # output style
+    html_js_files:
+    - https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js
+    thebe_config:
+      use_thebe_lite: true
+      exclude_patterns: ["**/**"]
+    html_theme_options:
+      repository_url:         https://github.com/TeachBooks/Showing-Physics #"https://gitlab.tudelft.nl/fpols/showing-physics"  # Online location of your book
+      # path_to_book:  # Optional path to your book, relative to the repository root
+      # branch:   # Which branch of the repository should be used when creating links (optional)
+      use_repository_button: true
+      use_issues_button: true
+      # use_multitoc_numbering: true
+      launch_buttons:
+        thebe: true
+
+  extra_extensions:
+    - sphinx_exercise
+    - sphinx_iframes
+    
+
+html:
+  use_multitoc_numbering: true
+  favicon: figures/favi.ico
+    #nb_render_text: ["remove-input", "hide-input"]  # to hide or remove input cells with tags
+ 
