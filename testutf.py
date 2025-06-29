@@ -7,7 +7,7 @@ def is_utf8(file_path):
         return False
 
 # Gebruik
-bestand = "reference.bib"
+bestand = "references.bib"
 if is_utf8(bestand):
     print("✅ Bestand is geldig UTF-8")
 else:
