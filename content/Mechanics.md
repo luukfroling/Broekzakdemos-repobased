@@ -22,7 +22,7 @@ Now let a sheet of paper drop. It swirls and drops slowly. Then crumple it, it d
 :width: 60%
 :name: fig_908
 
-What will happen if you drop a paper on top of a book?
+What will happen if you drop a book with a sheet of paper on top of it?
 ```
 
 ## Paper baskets 
@@ -39,7 +39,7 @@ Which basket is faster?
 :width: 60%
 :name: fig_700
 
-Would the air friction scale with $v^2$ rather than $v$?
+Would the air friction scale with $v^2$ rather than $v$? If so, the two baskets in the figure would not arrive at the same time..
 ```
 
 ```{iframe} https://youtube.com/embed/ELDJPqVrRZQ
@@ -69,15 +69,15 @@ Walk across the front of the room
 - accelerated and decelerated, 
 - stopping and going.  
 
-Let students draw distance vs. time and velocity vs. time graphs for each motion. Of course, you should have brought a motion sensor, but you were late or found the equipment room closed. The walking will do just as well or even better. Make sure to look at the resulting student graphs, discover conceptual errors, and react, typical student mistakes are well known and useful to confront {cite:p}`Berg2000a`.
+Let students sketch distance vs. time and velocity vs. time graphs for each motion. Of course, you should have brought a motion sensor, but you were late or found the equipment room closed. The walking will do just as well or even better. Make sure to look at the resulting student graphs, discover conceptual errors, and react, typical student mistakes are well known and useful to confront {cite:p}`Berg2000a`.
 
 ## Relative motion
 Student **A** walks with a low constant velocity in front of the class from left to right. student **B** starts later, walks faster and overtakes student **A**. *At the moment that **B** is next to **A**, are the velocities the same or different?* 
 
-Strange question you will think, but some people will answer equal (misconception). In a traffic court case in the USA this opinion was even espoused by a judge. If none of your students go wrong here, then never do this demo again. Have your students draw position time diagrams for A and B in the same graph (see the previous demo).
+Strange question you will think, but some people will answer equal (misconception). In a traffic court case in the USA this opinion was even espoused by a judge. If none of your students go wrong here, then never do this demo again. Have your students sketch position time diagrams for A and B in the same graph (see the previous demo).
 
 ## Action versus reaction visualization exercise
-To point out the relevant forces and show what is meant by action = - reaction, not to proof it: a rubber band or piece of elastic band can always be found even in a bare classroom. A student may have a rubber band around a lunch box. Stretch it with your finger. The force of the finger on the elastic band equals the force of the elastic band on the finger. Point out that action and reaction always work on different objects. That's why we want students to properly name forces as $F_{finger on elastic band}$ and $F_{elastic band on finger}$. The teacher can also put two students in front of the class, each with one hand pushing the hand of the other student but not moving. Then one student will push so hard that the other has to move back. Is now still $action = - reaction$ or $F _{student_A on student_B} = -F_{student_B on student_A}$? Yes it is, but to understand why student **B** is moving backwards, one has to add the forces **on student B only**: > $F_{student_A on student_B} + F_{friction floor on student_B}$
+To point out the relevant forces and show what is meant by action = - reaction, not to proof it: a rubber band or piece of elastic band can always be found even in a bare classroom. A student may have a rubber band around a lunch box. Stretch it with your finger. The force of the finger on the elastic band equals the force of the elastic band on the finger. Point out that action and reaction always work on different objects. That's why we want students to properly name forces as $F_{finger on elastic band}$ and $F_{elastic band on finger}$. The teacher can also put two students in front of the class, each with one hand pushing the hand of the other student but not moving. Then one student will push so hard that the other has to move back. Is now still $action = - reaction$ or $F _{student_A on student_B} = -F_{student_B on student_A}$? Yes it is, but to understand why student **B** is moving backwards, one has to add the forces **on student B only**: $F_{student_A on student_B} + F_{friction floor on student_B}$
 
 
 ## Linear inertia 1, Newton's First Law with a glass of water
@@ -262,7 +262,7 @@ Friction...
 ```
 
 ## Friction 2
-When students really need a time-out, let them then interleave the pages of two books. The books cannot be pulled apart. Well-known is of course the ideal version of this experiment where two traditional telephone directories are interleaved and handles are attached to the books. Two strong people cannot pull them apart, but that is not a pocket demo anymore, but it would fit in 2 minutes if the teacher shows a YouTube version.
+When students really need a time-out, let them then interleave the pages of two books. The books cannot be pulled apart. Well-known is of course the ideal version of this experiment where two traditional telephone directories are [interleaved and handles are attached to the books](https://www.youtube.com/watch?v=AX_lCOjLCTo). Two strong people cannot pull them apart, but that is not a pocket demo anymore, but it would fit in 2 minutes if the teacher shows a YouTube version.
 
 ## Friction and heat 
 Students rub their hands and feel the heat. Work converted into heat, or in a perhaps better formulation: work increases the thermal energy (or internal energy) of the skin.
@@ -282,7 +282,7 @@ What happens if you push one of the books? Does it matter where it is in the pil
 Take three textbooks and pile them flat on your hand and hold them up. Then with a finger of the other hand you are going to push the top book. Ask for a prediction, if you push the top book, will only the top book slide, or will two or three books slide? Why? Then show, only the top book will slide. Friction between the 2$^{\text{nd}}$ and 3$^{\text{rd}}$ book is 2x friction between 1$^{\text{st}}$ (top) and 2$^{\text{nd}}$ as friction is proportional to the normal force.
 
 ## Friction and inclined plane
-Tilt the instructor's table using an object under one of the legs or using a student to hold one side of the table up. Put anything round on the table (borrow some candy from students, instructor can eat it after use). The round object will accelerate down the table surface. Put a book on the table. What keeps it there? Friction. Increase the tilt, the book does not move yet. Is the magnitude of the friction still the same? Tilt more yet, the book starts moving. Why? Make sure to distinguish between *actual* friction ($mg \sin(\alpha)$) and *maximum* friction ($μ_N = μ_s~mg \cos(\alpha)$). The instructor can even illustrate how friction coefficients are determined by taking the static friction coefficient equal to: $μ_{static} = \tan(\alpha_s)$ where $\alpha_s$ is the tilt angle when the book is just about to slide. Dynamic friction occurs at an angle where the books once moving, keep sliding at constant speed $μ_{dynamic} = \tan(\alpha_d)$.
+Tilt the instructor's table using an object under one of the legs or using a student to hold one side of the table up. The angle between horizontal and slope (to be varied) is $\alpha$. Put anything round on the table (borrow some candy from students, instructor can eat it after use). The round object will accelerate down the table surface. Put a book on the table. What keeps it there? Friction. Increase the tilt, the book does not move yet. Is the magnitude of the friction still the same? Tilt more yet, the book starts moving. Why? Make sure to distinguish between *actual* friction ($mg \sin(\alpha)$) and *maximum* friction ($μ_N = μ_s~mg \cos(\alpha)$). The instructor can even illustrate how friction coefficients are determined by taking the static friction coefficient equal to: $μ_{static} = \tan(\alpha_s)$ where $\alpha_s$ is the tilt angle when the book is just about to slide. Dynamic friction occurs at an angle where the books once moving, keep sliding at constant speed $μ_{dynamic} = \tan(\alpha_d)$.
 
 ## Difference between static and kinetic friction
 Pull a student bag across the table with a piece of elastic band or a weak spring. Movement will be kind of jerky: stick-slip movement. The elastic band or spring will be longer when the bag is not moving and shorter when it moves, showing that static friction is greater than kinetic friction.
@@ -311,7 +311,7 @@ Line up some students with their back and particularly their heels against the w
 :width: 60%
 :name: fig_CM
 
-Impossible to pick up the money when heels at the wall.
+Impossible to pick up the money when heels touch the wall, in the photo the heels do not.
 ```
 
 ## Center of mass 3: unequal student pair
@@ -324,7 +324,7 @@ Borrow a hammer and a stick and some rope or rubber bands and make the set-up of
 :width: 60%
 :name: fig_David
 
-Balancing hammer
+David balances a hammer, the center of mass should be under the table, not next to it.
 ```
 
 ## Rotation, center of mass, stability
@@ -353,7 +353,7 @@ Take a student's bag with books, hold it at arm's length and then hold it next t
 All students sit on their chair. Lift one knee a bit up from the chair. No problem. Now stretch the leg and again try to lift the knee from the chair. It is a lot more difficult this time. The moment of force (force times distance from hip to center of mass of the leg) is much greater now.
 
 ## Springs parallel and in series
-Collect some rubber bands from your students and arrange them parallel and in series and let students feel. This is like springs parallel and this is like springs in series. This can also be done with the springs from several ballpoints. In which situation, parallel or series, can one add up the spring constants? Just use logic first using Hooke's Law $F=Cu$ with $C$ as the spring constant.
+Collect some rubber bands from your students and arrange them parallel and in series and let students feel. This is like springs parallel or in series. This can also be done with the springs from several ballpoints. In which situation, parallel or series, can one add up the spring constants? Just use logic first using Hooke's Law $F=Cu$ with $C$ as the spring constant.
 
 ## Tensile and shear stress with a piece of chalk
 Take a piece of chalk. Pull on the two sides, that creates tensile stress. The chalk breaks with a very nice flat break surface perpendicular to the length of the chalk. Now take another piece of chalk and twist the ends in opposite directions. We now have shear stress. The chalk breaks with a very different break surface. Try it, the effect is crystal clear and can be found Feynman's Lectures of Physics II p39-9.
@@ -372,16 +372,16 @@ Anybody has a raw (unboiled) egg? Now this is something you might not have in a 
 :width: 60%
 :name: fig_throw
 
-Throw an unboiled egg without breaking it.
+Throw an unboiled egg into a towel or coat, it does not break. 
 ```
 
 ## Breaking or not? Protecting delicate objects
-Look around for something that can break if dropped on a stone floor. Then look for things that can prevent that using the two principles. For example, pillows, not part of a bare classroom, but perhaps available in the school. Or make a pile of some student coats or other clothing. There may be some foam somewhere. Then drop a glass or an egg. How are breakable objects usually packages in stores? Students will give examples and even may have some in their bags. How do girls make sure their cosmetic flasks do not break in their bags?
+Look around for something that can break if dropped on a stone floor. Then look for things that can prevent that using the two principles. For example, pillows, not part of a bare classroom, but perhaps available in the school. Or make a pile of some student coats or other clothing. There may be some foam somewhere. Then drop a glass or an egg. How are breakable objects usually packaged in stores? Students will give examples and even may have some in their bags. How do girls make sure their cosmetic flasks do not break in their bags?
 
 ## Bernoulli 1 with a piece of paper
 Hold a sheet of paper as shown in {numref}`fig_throw`. The top end will be hanging down a bit. Blow across the paper. The top end will then move upward. A simple way of explaining is that you blow some of the air above the paper away, creating a pressure difference with lower pressure above the paper while having the normal atmospheric pressure below. A more correct explanation is that moving air has a lower pressure than air standing still. This pressure difference pushes the paper up. Instruments based on this principle are used to measure an airplane's speed relative to the surrounding air.
 
-```{figure} figures/02-47-1Bernouilli1.*
+```{figure} figures/02-47-1Bernouilli1.JPG
 :width: 60%
 :name: fig_Bern1
 

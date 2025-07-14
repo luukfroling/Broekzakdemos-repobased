@@ -39,7 +39,7 @@ Take any other object such as a chair or a table and you get many more demonstra
 :width: 60%
 :name: fig_sdf
 
-Looking for more and more advanced physics demonstrations? Take a look at [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics), an online open access book with 99 physics demonstrations.
+Looking for more and more advanced physics demonstrations with extensive hints for set-up and interaction with the students? Take a look at [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics), an online open access book with 99 physics demonstrations.
 ```
 
 
