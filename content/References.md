@@ -9,9 +9,7 @@ light. *The Australian Science Teachers Journal*, *36*(2), 72-75, (May
 1990). A diagnostic test in English on the propagation of light is
 available from the first author.  
 
-Berg, E. van den, Grosheide, W. (1997). Learning and teaching about
-energy, power, current, and voltage. *School Science Review*, March
-1997, 78(284), 89-94.  
+Berg, E. van den, Lunetta, V.N., van den Berg, R.A. (1987). Heat transfer: an exemplary module in physics teaching. School Science Review, June 1987, 759-765.  
 
 Berg, E and R van den, N. Capistrano, A. Sicam (2000). Kinematics graphs
 and instant feedback. *School Science Review*, 82(299), 104-106.  
