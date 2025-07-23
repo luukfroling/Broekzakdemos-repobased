@@ -6,39 +6,39 @@ In the bare classroom there is scattered light from outside, sometimes direct su
 The nicest start of lessons on optics is in a totally dark room with at most a candlelight. But a bare classroom is unlikely to have the necessary thick black curtains. Well, improvise with a candle, *let there be light!* I strongly suggest you go through some very basics that rarely make it into an optics lesson and try to assess some preconceptions of your students. Why not use some multiple-choice questions like the following [@van1990student], to be answered individually. 
 
 A candle is burning in day light. The light of the candle: 
-- stays on the candle, 
-- comes out halfway towards you, 
-- moves away from the candle until obstructed. 
+- A. stays on the candle, 
+- B. comes out halfway towards you, 
+- C. moves away from the candle until obstructed. 
 
 Then the same question but now at nighttime. Then follows a plenary discussion on how far light can go. If somebody with a telescope is 1 km away, can he see the candle? Does that mean that the light of the candle reaches the telescope, or is the light on the candle and the telescope looks at it?
 
 1. A candle is burning during the day. The light from the candle:
 
--   stays on the candle.
--   comes out about halfway towards you
--   comes out as far as you but no farther
--   comes out until it hits something.
+-   A. stays on the candle.
+-   B. comes out about halfway towards you
+-   C. comes out as far as you but no farther
+-   D. comes out until it hits something.
 
 2. Now there is a brown out during the evening and you are using a candle. The light from the candle:
 
--   stays on the candle.
--   comes out about halfway towards you
--   comes out as far as you but no farther
--   comes out until it hits something.
+-   A. stays on the candle.
+-   B. comes out about halfway towards you
+-   C. comes out as far as you but no farther
+-   D. comes out until it hits something.
 
 3. Now there the candle is near a light bulb. The light from the light bulb:
 
--   stays on the bulb.
--   comes out about halfway towards you
--   comes out as far as you but no farther
--   comes out until it hits something.
+-   A. stays on the bulb.
+-   B. comes out about halfway towards you
+-   C. comes out as far as you but no farther
+-   D. comes out until it hits something.
 
 4. Now it is evening. The light from the light bulb:
 
--   stays on the bulb.
--   comes out about halfway towards you
--   comes out as far as you but no farther
--   comes out until it hits something.
+-   A. stays on the bulb.
+-   B. comes out about halfway towards you
+-   C. comes out as far as you but no farther
+-   D. comes out until it hits something.
 
 ## White light and spectra with everyday objects
 Let students use transparent ballpoint pens or other transparent glass or plastic objects to produce a spectrum. Does anybody have a pocketknife with a lens? Then recombine the colors into white. With an OHP in the room there would be many more possibilities.
