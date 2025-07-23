@@ -45,7 +45,7 @@ Let a little bottle of alcohol or acetone go around with an eye dropper. Student
 In winter in cold countries look at the windows, why is there water on the inside of the window? The increasingly common double glass has decreased the effect. Better yet, do take a glass with cold water or a can of cold drink to class! If you forgot, take a glass of water from the faucet and breathe on it. It will get foggy on the outside as long as the water temperature of the glass is lower than your breath which should be near 37 $^o$C when exhaling with the mouth wide open.
 
 ## Evaporation and diffusion
-There must be a student with a bottle of perfume in her bag. Open it, and after a while we can smell it from a distance. Or promise the girl a new bottle and put a drop on the hand of a few students and let them go around and let all students smell.
+There must be a student with a bottle of perfume in her bag. Open it, and after a while we can smell it from a distance. Do students nearby smell it earlier than students farther away? Or promise the girl a new bottle and put a drop on the hand of a few students and let them go around and let all students smell.
 
 ## Sublimation
 The above experiment will also work with a piece of solid soap, there should be a piece in the school somewhere. If not, see whether students have any solids in their bags that smells (food?). Sublimation! Or is it a solid material that contains some gas that we smell and is it not sublimation?
