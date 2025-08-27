@@ -27,7 +27,7 @@ Rules for demonstrations are of course:
 -   Involvement, get students involved in predicting, observing, and explaining. There can be teacher questions or tasks which students answer individually in their notebooks or in pairs or groups in order to really force *minds-on*;
 -   Emphasize the main points and leave out unnecessary details or discuss the details after the main points have been made.
 
-This booklet provides mostly just bare ideas for demo's and visualizations. For more extensive instructional tips and good questions to ask I refer to {cite:t}`Liem1987`'s Invitations to Science Inquiry (1987), a pdf can be found quickly with Google.
+This booklet provides mostly just bare ideas for demo's and visualizations. For more extensive instructional tips and good questions to ask I refer to {cite:t}`Liem1987`'s Invitations to Science Inquiry, a pdf can be found quickly with Google.
 
 One could wonder whether these demonstrations and visualizations are still needed now that we have YouTube. I think that real demonstrations are still different from watching TV. It is important that students learn to recognize the physics phenomena in their own environment and realize that they themselves could actually perform the experiments.
 

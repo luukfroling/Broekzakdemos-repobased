@@ -57,7 +57,7 @@ Meniscus below the rim (concave, hollow).
 
 ```{figure} images/20250513_105244.*
 :width: 50%
-:name: fig_float
+:name: fig_float2
 
 Meniscus above the rim (convex).
 ```
@@ -70,7 +70,7 @@ Take a straw and a glass of water or better tea for visibility. Dip the straw in
 
 ```{figure} images/20250513_110152.*
 :width: 50%
-:name: fig_float
+:name: fig_float3
 
 Water stays in the straw when your finger closes the lid.
 ```

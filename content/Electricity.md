@@ -9,11 +9,17 @@ I always have a balloon in my bag. There are many uses in teaching physics. Just
 ## Separating salt from pepper with a balloon
 In school cafeterias or in the faculty room one can find salt and pepper for the soup. Mix some salt and pepper. Then rub a balloon with a piece of cloth, your sweater or other materials students wear, might work, and hold it above the mixture. The pepper will be attracted, the salt will not be. Instead of the balloon, one could also use a plastic ruler. The pepper will be attracted by induced separation of charges. Now why didn't the salt get attracted? Are the grains too heavy or is salt is too conductive?
 
-## Plastic Straws of PVC pipe
+```{figure} figures/03-2StaticBalloonLR.*
+:width: 60%
+
+Separating salt from pepper using static electricity.
+```
+
+## Plastic Straws or PVC pipe
 I always have some plastic straws in my bag, but usually they can be obtained from the faculty room of the school. Rub with a paper hand kerchief, then there is a possibility the straw will stick to the wall, or to a metal object such as the leg of a chair. If it does not work so well (humidity in a room full of students), then usually the straw will still attract the hair on the skin. But that can be done also with a ballpoint after rubbing with your sweater. A piece of PVC pipe gives better results.
 
 ## Coulomb's Law
-Ask how much charge there could be on a ballpoint or a straw. Because of the large constant in Coulomb's Law ($9\text{x}10^9$), charges must be quite small, certainly smaller than $10^{-8} \text{C}$. If $q_1~ = q_2~ = 10^{-8}$ C, then $F_{Coulomb}~= 9 \cdot 10^9 \cdot 10^{-8} \cdot 10^{-8}/10^{-4}$ N, assume a distance of 1 cm, and the result is 1/100 Newton.
+Ask how much charge there could be on a ballpoint or a straw. Because of the large constant in Coulomb's Law ($9\text{x}10^9$), charges must be quite small, certainly smaller than $10^{-8} \mathrm{C}$. If $q_1~ = q_2~ = 10^{-8} \mathrm{C}$, then $F_{coulomb}~= 9 \cdot 10^9 \cdot 10^{-8} \cdot 10^{-8}/10^{-4} \mathrm{N}$, assume a distance of $1 \mathrm{ cm}$, and the result is $1/100 \mathrm{ newton}$.
 
 ## Water molecules are dipoles
 Use a fork to position an aluminum coin or paperclip very carefully on top of the water surface in a glass of water. Then rub a plastic pen or straw or better PVC pipe on your jumper or other textile and let the tip of the pen or straw or pipe approach the end of the paperclip or the coin ({numref}`vid_10`). The paperclip will move away from the tip of the straw. How come? Start a discussion. Let students propose explanations. If it was electrostatic induction between coin and straw, then there should be attraction rather than repulsion. In the end, somebody might suggest that the water has a role. Water molecules are dipoles. The straw or pipe attracts the water creating a little slope and the coin or paperclip slides down that slope. Actually the slope could be shown by reflecting an almost horizontal beam of a laser pointer from the surface of the water. When the charged straw or pipe comes close to the surface, the reflected beam moves. Could an electrostatic generator be used as an outboard engine for a boat?

@@ -198,15 +198,19 @@ It is possible to make this into a quantitative demonstration supporting the for
 Freek Pols performing the demonstration
 ```
 
-## Projectile motion 1 with water
+## Projectile motion with water
 Throw anything away from you, its path looks like a parabola. Now display it all at the same time, ask a plastic water bottle from one of the students, make a hole near the bottom on the side and squeeze it, nice parabola. Better visible if you use ice tea or other colored drinks instead of plain water. Compensate the student for the loss of the bottle and clean up if you forgot to bring a basin.
 
-## Projectile motion 2 independence of horizontal and vertical motion
-My wife Daday, also a physics teacher, made a clever device to show that the vertical motion and the parabolic motion of a projectile experience the same vertical acceleration, a free-falling coin and a simultaneously horizontally launched coin from the same height, will reach the floor at the same time. Just listen. To construct the launcher, just fold a piece of thin metal from a can over the end of a ruler.
+## Projectile motion: independence of horizontal and vertical motion
+My wife Daday, also a physics teacher, came up with a clever way to show that the vertical motion and the parabolic motion of a projectile experience the same vertical acceleration, a free-falling coin and a simultaneously horizontally launched coin from the same height, will reach the floor at the same time. Just listen. 
 
-```{warning}
-better picture!
+```{figure} images/shooter.*
+:width: 80%
+:name: fig_1462
+
+Hitting the ruler at the end (rotating it) launches one object horizontally while the other drops vertically
 ```
+
 
 ## Projectile motion and relative motion
 Walk with constant velocity while throwing a piece of chalk or a coin or a tennis ball straight up. It lands in your hand, *not* behind you. So it had the same horizontal velocity as you when launched!
@@ -396,19 +400,36 @@ Bernoulli shown
 ## Bernoulli 3 with straw and candle
 Light a candle. *If I blow through a straw on the window side of the candle, will the flame move? Which way? Why?* Answer: the flame will bend to the window side, the burning gases of the flame will point towards the area with lowest density/lowest pressure. In faster moving fluids the pressure is lower than in slower moving fluids (Bernoulli). For a younger audience: I blow some air away, the burning gas moves to the place with least air. For figures, see the chapter on Heat and Temperature. 
 
+````{figure} 
+:name: Bern_candle
 ```{figure} images/20250513_114856.*
 :width: 60%
 :name: fig_Bern3
 
-Bernoulli shown
+A candle and a straw
 ```
+```{figure} figures/07-27-2FlamePressure.*
+:width: 60%
+:name: fig_Bern3a
 
+When blowing the flame will lean towards the airstream due to the lower pressure.
+```
+Bernoulli shown
+```` 
 
 ## Energy conversions
 Drop anything and you get conversion from potential into kinetic energy, rub your hands (mechanical into thermal energy), clap your hands (mechanical into sound), point to the lights in the room (electrical energy into light and heat), etc.
 
 ## Work and kinetic energy
 There are rulers with a gutter. Let a marble roll down and investigate the relationship between initial height of the marble and the displacement of the cup or wedge of carton. Using graph paper helps to get better measurements.
+
+```{figure} figures/02-51WorkKineticEnergy
+:width: 80%
+:name: fig_ruler_marb
+
+Let a marble roll from a ruler into a cup and see how far the cups will travel.
+```
+
 
 ## Asymmetry in properties, friction of human hair
 Ask a hair from a long-haired girl or propose that each student pair takes a hair from one of the two heads. Hold one end between thump and index finger of one hand, and slide with the other thump and index finger along the hair. Then slide in the other direction. It turns out that the friction of the hair is dependent on the direction of the sliding of thump/indexfinger!

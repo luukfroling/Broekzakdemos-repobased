@@ -12,6 +12,14 @@ A candle is burning in day light. The light of the candle:
 
 Then the same question but now at nighttime. Then follows a plenary discussion on how far light can go. If somebody with a telescope is 1 km away, can he see the candle? Does that mean that the light of the candle reaches the telescope, or is the light on the candle and the telescope looks at it?
 
+```{figure} figures/04-1-1StraightLinePropagation.*
+:width: 40%
+:name: fig_draw1
+
+.
+```
+
+
 1. A candle is burning during the day. The light from the candle:
 
 -   A. stays on the candle.
@@ -19,12 +27,26 @@ Then the same question but now at nighttime. Then follows a plenary discussion o
 -   C. comes out as far as you but no farther
 -   D. comes out until it hits something.
 
+```{figure} figures/04-1-2StraightLine.*
+:width: 40%
+:name: fig_draw2
+
+.
+```
+
 2. Now there is a brown out during the evening and you are using a candle. The light from the candle:
 
 -   A. stays on the candle.
 -   B. comes out about halfway towards you
 -   C. comes out as far as you but no farther
 -   D. comes out until it hits something.
+
+```{figure} figures/04-1-3StraightLine.*
+:width: 40%
+:name: fig_draw3
+
+.
+```
 
 3. Now there the candle is near a light bulb. The light from the light bulb:
 
@@ -107,7 +129,7 @@ Move the pencil back and forth and describe what you see
 Draw parallel arrows on a piece of paper (the object), hold that behind a glass of water half-filled such that some arrows are seen through the air and other arrows through the water. If the object distance is farther than the focal length, then the arrows are reversed {numref}`fig_arrow`. 
 
 
-```{figure} images/20250513_103731.*
+```{figure} images/20250513_103744.*
 :width: 60%
 :name: fig_arrow
 
