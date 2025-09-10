@@ -21,7 +21,7 @@ Stel de vraag, laat leerlingen antwoorden, goede kans dat ze interessante voorst
 ## Val en luchtweerstand
 Laat een blad papier vallen, dat valt langzaam en fladdert. Maak dan een prop, deze valt sneller, maar net ietsje langzamer dan een steen. Neem vervolgens een dubbelgevouwen A4, leg het op een boek en laat het geheel vallen (figuur). Papier en boek komen tegelijk aan, zelfs als je van het papier een dakje vouwt en er lucht onder zit. We hebben die vacuümbuis met een veertje en een stukje lood helemaal niet nodig! Je moet wel de opbouw van je onderwijs-leergesprek met leerlingen goed doordenken, hoe betrek je ze optimaal in voorspellen en verklaren? 
 
-```{figure} images/20250513_090908.jpg
+```{figure} ../images/20250513_090908.jpg
 :width: 60%
 :name: fig_908
 
@@ -34,14 +34,14 @@ Kun je een vel papier net zo snel laten vallen als een boek?
 Van een half A4, is het gemakkelijk een rechthoekig bakje te vouwen en vast te nieten. Voeg de ongebruikte stukje papier toe in het bakje om precies de massa van 1/2 A4 te hebben. Een vel papier dwarrelt naar beneden. Een bakje valt vrijwel vanaf de start netjes met constante snelheid. Het is mogelijk hier een onderzoek van te maken, wat is de invloed van massa en doorsnede van het bakje op de valtijd ? Een eerste benadering kan zijn de formule $t = \frac{h\cdot A}{m}$. Deze voorspelt dat verdubbeling van hoogte $h$ of doorsnede $A$ zou resulteren in een verdubbeling van de valtijd $t$. De massa kun je gemakkelijk verdubbelen door twee bakjes in elkaar te vouwen. Ook de doorsnede van het bakje (het oppervlak dwars op de valrichting) is gemakkelijk te varieren.  Als je denkt dat de dwarsdoorsnede evenredig is met de tijd, laat dan het bakje met $A$ van twee keer zo hoog vallen, tegelijk met het bakje met $2A$ (maar zorg voor gelijke massa). Dan zouden ze tegelijk aan moeten komen. Is dat ook zo? Voor massa blijkt te gelden dat $t$ evenredig is met $m^{-½}$ in plaats van met $m^{-1}$. Zie Frederik et al ShowdeFysica (2015, p32-33) voor een volledige beschrijving. Een vroege versie van dit experiment is te vinden in Eric Roger's beroemde boek *Physics for the Inquiring Mind* @rogers2011physics [pg.167].
   
 
-```{figure} images/20250513_091205.jpg
+```{figure} ../images/20250513_091205.jpg
 :width: 60%
 :name: fig_205
 
 Welk bakje is sneller?
 ```
 
-```{figure} images/20250513_091700.jpg
+```{figure} ../images/20250513_091700.jpg
 :width: 60%
 :name: fig_700
 
@@ -61,7 +61,7 @@ Zou luchtweerstand evenredig zijn met $v^2$ in plaats van $v$?
 ## Vliegen is spelen met luchtweerstand
 Er is altijd papier in je eigen tas of in tassen van leerlingen. Vliegtuigjes vouwen en uitproberen. Er zijn veel suggesties op internet. Lang-kort, wijd-smal, gebruik van staartvleugel of niet, uiteinden van de vleugels omvouwen, etc. Er zijn zelfs wereldwijde competities.
 
-```{figure} images/20250513_092443.jpg
+```{figure} ../images/20250513_092443.jpg
 :width: 60%
 :name: fig_443
 
@@ -88,7 +88,7 @@ Rek een stuk elastiek uit, kracht van vinger op elastiek is kracht van elastiek 
 ## Traagheid 1, Newton's Eerste Wet met een glas water
 Glas water (of ander object, breekbare objecten hebben de voorkeur) boven op een vel droog papier. Trek het papier langzaam naar de rand van de tafel. Merk op dat het glas gewoon mee gaat en zich niet verzet tegen een constante snelheid. Geef dan, vlakbij de rand, plotseling een ruk. Het glas blijft staan. Wat leerlingen vreesden, gebeurde niet tenzij de docent echt erg onhandig is of de onderkant van het glas nat is. Het glas verzet zich tegen de plotselinge versnelling .... traagheid (inertia)! Traagheid is weerstand tegen versnelling, niet tegen snelheid. Eventueel vervolgen met een YouTube met gedekte tafel en tafelkleed. Nog mooier als je dat echt in de klas doet. Ruud Brouwer liet zijn leerlingen dit thuis doen met prachtige filmpjes voor klasgenoten.
 
-```{figure} images/20250513_092927.jpg
+```{figure} ../images/20250513_092927.jpg
 :width: 60%
 :name: fig_927
 
@@ -108,7 +108,7 @@ Maak de demo spectaculair door pas vlakbij de rand hard te trekken.
 ## Lineaire traagheid 2 met wasknijpers
 Scheur een stukje papier zoals in {numref}`fig_tearpiece`. Kan ik door aan beide uiteinden tegelijk een rukje te geven het middenstuk helemaal los maken? Wat moet ik veranderen om dat wel te kunnen? Het blijkt dat als het middenstuk verzwaard wordt met een paar flinke paperclips, dan lukt het wel, dan heeft het middenstuk genoeg inertia (bron: Ruud Brouwer).
 
-```{figure} images/20250513_093759.jpg
+```{figure} ../images/20250513_093759.jpg
 :width: 60%
 :name: fig_tearpiece
 
@@ -152,7 +152,7 @@ Kun je een hamer balanceren op je vinger?
 ## Rotatietraagheid 2 met rollen toiletpapier 
 Met een volle rol toiletpapier, rol af de lengte die je nodig hebt, geef een ruk en het is los. Met een bijna lege rol, rol af de lengte die je nodig hebt, geef een ruk, en je krijgt een veel te lang stuk want de rol rolt door. De volle rol heeft een grotere weerstand tegen versnelling, een grotere rotatietraagheid. Waarschijnlijk kun je het toiletpapier voor demonstratie even lenen van de school, rol op een stokje, en klaar voor de demo. Nu heb je met rollen los op een stokje niet de wrijving tegen de muur die bij de volle rol wat extra meehelpt. Dus wel even oefenen in het heel snel een ruk geven.
 
-```{figure} figures/02-13RotationalInertia2LR.jpeg
+```{figure} ../figures/02-13RotationalInertia2LR.jpeg
 :width: 60%
 :name: fig_RI2
 
@@ -163,7 +163,7 @@ Wat gebeurt er als je een ruk geeft an elk van de toiletrollen ?
 Maak nu de opstelling van  {numref}`fig_RI3`, een simpel bosje sleutels of beter een breekbaar kopje, een touwtje (bv. schoenveter), en een vinger of pen/potlood als as. Aan de andere kant van het touwtje een minder zwaar object (een schroef, een losse sleutel, wat dan ook). Vraag een voorspelling, als ik dit loslaat, wat gebeurt er dan? De docent acteert onzekerheid en vrees. Zou dit wel goed gaan? Dan, loslaten! Het tegengewicht wordt versneld en windt zich om het potlood. Dat doet de wrijving van touw/draad en potlood zozeer toenemen dat het kopje of de sleutels niet meer vallen. Voor een breed publiek gewoon vertellen wat je ziet. Een discussie staat op de volgende site met ook verwijzing naar een American Journal of Physics artikel voor een complete wiskundige behandeling: https://sciencedemonstrations.fas.harvard.edu/presentations/coffee-mug-string
 .
 
-```{figure} figures/02-14-3RotationalInertia.JPG
+```{figure} ../figures/02-14-3RotationalInertia.JPG
 :width: 60%
 :name: fig_RI3
 
@@ -184,7 +184,7 @@ Voor veiligheid een jas of kussen op de vloer.
 Met de opstelling van {numref}`fig_CMEN`, kunnen we de eigenschappen van cirkelbeweging onderzoeken. Terwijl de stopper in cirkels ronddraait, gaan we de draad doorknippen vlak boven de paperclip. Teken een cirkel op het bord en laat leerlingen zelf de cirkel tekenen en hoe de stopper weg zal vliegen na het doorknippen. Dan uitvoeren en doorknippen op het moment dat de stopper van de leerlingen weg beweegt. De stopper beweegt langs de raaklijn aan de cirkel, NIET loodrecht op die raaklijn! Zodra het touwtje is doorgeknipt, werken er in het horizontale vlak geen externe krachten meer op de stopper en beweegt de stopper dus in een rechte lijn, langs die raaklijn dus. Verticaal is er wel de zwaartekracht. De beweging wordt dus een parabool in een vlak verticaal door de raaklijn.
 
 
-```{figure} figures/02-15CircularMotionEN.jpg
+```{figure} ../figures/02-15CircularMotionEN.jpg
 :width: 60%
 :name: fig_CMEN
 
@@ -199,7 +199,7 @@ Gebruik de set-up {numref}`fig_CMEN`, laat zien wat er gebeurt met de snelheid v
 Het is mogelijk de cirkelbewegingdemo kwantitatief te maken en de formule  $F = \frac{mv^2}{r}$ te demonstreren door de snelheid van de rubber dop te berekenen door meting van de periode *T* met een stopwatch of videometen met een mobieltje. Zorg ervoor de variabelen  *F* en *r* onafhankelijk van elkaar te varieren door respectievelijk *r* en *F* constant te houden.
 
 
-```{figure} images/20250602_114146.gif
+```{figure} ../images/20250602_114146.gif
 :width: 60%
 :name: fig_146
 
@@ -213,7 +213,7 @@ Gooi een willekeurig voorwerp horizontaal weg, de baan ziet er parabolisch uit. 
 ## Horizontale worp: onafhankelijkheid van verticale en horizontale beweging
 Mijn vrouw Daday, ook natuurkunde docente, maakte een slim apparaatje om te laten zien dat de verticale versnellingen van een vallende en een weggeschoten muntstuk hetzelfde zijn. Buig een geschikt stukje blik over een liniaal (zie figuur). Een vrij vallende munt en een op hetzelfde moment horizontaal weggeschoten munt bereiken de vloer op hetzelfde moment. Gewoon luisteren nar gelijktijdige aankomst. 
 
-```{figure} images/shooter.*
+```{figure} ../images/shooter.*
 :width: 80%
 :name: fig_1462
 
@@ -241,7 +241,7 @@ Neem een meetlat, aanwijsstok, of iets soortgelijks of zelfs een bezemsteel. Bal
 .
 ```
 
-```{figure} images/20250513_100639.jpg
+```{figure} ../images/20250513_100639.jpg
 :width: 60%
 :name: fig_639
 
@@ -283,7 +283,7 @@ Leerlingen wrijven in hun handen en voelen de warmte. Er zijn heel veel andere v
 ## Wrijving en normaalkracht
 Leg een boek op de tafel en duw het over de tafel. Laat leerlingen het ook proberen. Maak dan een stapel boeken (geleend van leerlingen) en duw weer. Het gaat veel moeilijker, je moet veel harder duwen. Wrijving heeft dus iets te maken met het gewicht van de boeken. Leerlingen kunnen op de eigen tafel meedoen, ze hebben vast wel veel boeken in hun tas. Als de normaalkracht al ter sprake is geweest, hoe groter die normaalkracht des te groter de wrijving (wrijving tussen boek 2 en 3 is: F=$μ_N=$μ_mg= $μ_(m1+m2)g Zo'n formule kun je dus gemakkelijk even laten voelen!
 
-```{figure} images/booksstacked.jpg
+```{figure} ../images/booksstacked.jpg
 :width: 50%
 :name: fig_booksstacked
 
@@ -307,7 +307,7 @@ Tas aan slap elastiek over de tafel trekken, dat gaat schoksgewijs. De maximale 
 ## Sterkte van profielen
 Leg een bankbiljet of papier op twee viltstiften. Hoe moet je het papier of een bankbiljet vouwen opdat het zoveel mogelijk munten kan dragen? Twee vouwen helpen al. Stapelen van papier met vouwen kan meer munten dragen. Een ribbelprofiel vouwen doet het nog beter, dat zien we ook in karton (Rademaker, 2016; nvon.tk/stevig-biljet) en dakplaten. Een mooie serie demo's en vergelijking met producten zoals karton en triplex is te zien op YouTube. https://www.youtube.com/watch?v=qFZGmHbjLSM 
 
-```{figure} figures/02-31StrengthOfProfiles.jpg
+```{figure} ../figures/02-31StrengthOfProfiles.jpg
 :width: 60%
 :name: fig_fold
 
@@ -325,7 +325,7 @@ Hoe kun je een briefje van 10 Euro vouwen zo dat het een lading van veel munten 
 Zet leerlingen op een rij met de hakken tegen de muur (figuur 23). Leen bankbiljetten van andere leerlingen en leg die voor de tenen van de leerlingen. Als ze die op kunnen rapen zonder te vallen, dan mogen ze het geld houden! Maar dat gaat niet lukken. Bij het voorover buigen komt het zwaartepunt voorbij de tenen en moeten leerlingen een stap vooruit doen om vallen te voorkomen.
 
 
-```{figure} figures/02-33CenterOfMass2LR.jpg
+```{figure} ../figures/02-33CenterOfMass2LR.jpg
 :width: 60%
 :name: fig_CM
 
@@ -338,7 +338,7 @@ Neem twee leerlingen van ongelijke lengte/gewicht. Laten ze elkaar vasthouden en
 ## Zwaartepunt 4: hamer en liniaal
 Leen een hamer en een stok en wat touw of sterk elastiek en construeer de set-up {numref}`fig_David`. Student lerarenopleiding David van UTwente demonstreerde dit perfect.
 
-```{figure} figures/02-35CenterOfMass4LR.jpg
+```{figure} ../figures/02-35CenterOfMass4LR.jpg
 :width: 60%
 :name: fig_David
 
@@ -377,7 +377,7 @@ Elastiekjes parallel en in serie. Er zijn vast wel leerlingen die elastiekjes bi
 ## Trek- en schuifspanning met een krijtje
 Neem een krijtje (figuur). Trek aan beide kanten, dat geeft Trekspanning (tensile stress). Het krijtje breekt netjes met een redelijk plat breukoppervlak. Neem een nieuw krijtje. Draai nu aan beide uiteinden in tegengestelde richting: schuifspanning (shear stress). Nu breekt het krijtje met een scherp en onregelmatig breukvlak (Culaba & Berg, 2009). Toch wel jammer dat krijtjes en krijtborden langzamerhand verdwijnen. Dacht ik iets nieuws gevonden te hebben en blijkt dit al te staan in de Feynman Lectures of Physics, p39-9, 1964!
 
-```{figure} figures/02-44TensileShearStress.*
+```{figure} ../figures/02-44TensileShearStress.*
 :width: 60%
 :name: fig_stress
 
@@ -387,7 +387,7 @@ Het verschil tussen trek- en schuifspanning
 ## Botsingen en voorkomen van schade: eieren gooien 
 Heeft iemand een ongekookt ei? Dit vind je misschien niet in een kaal lokaal, dan maar niet vergeten dit van huis mee te nemen. Laat leerlingen een handdoek of trui of jas, of gordijn ophouden zo dat het grootste deel bijna verticaal is en er onderaan een gootje is. Dan gooit de docent, of een honkbal leerling met volle kracht een ei in de handdoek of jas (figuur 26). Het ei zal niet breken. Herhaal het nog een keer. Er zijn twee principes: 1) de remkracht wordt door de handdoek gespreid over het hele ei, en 2) er is een lange remweg en lange remtijd want de handdoek beweegt nog mee. Deze twee principes spreiden de remkracht in ruimte en tijd waardoor de kracht minder is. Dat is gemakkelijk te zien in ?p = ?mv=F.?t. De impuls gaat van mv naar nul. Als de remtijd ?t groter is, dan is remkracht F kleiner. Zelfde met ?Ekin =   mv2 = F.?s. De kinetische energie gaat van   mv2 naar nul. 
 
-```{figure} figures/02-45EggThrow.*
+```{figure} ../figures/02-45EggThrow.*
 :width: 60%
 :name: fig_throw
 
@@ -400,7 +400,7 @@ Kijk rond naar voorwerpen die kunnen breken als je ze op een stenen vloer laat v
 ## Bernoulli 1 met een vel papier
 Houd een vel A4 papier iets onder het midden aan twee kanten vast en laat het een beetje opstaan en de bovenkant hangt over (figuur 27). Blaas over het papier. De bovenkant komt omhoog terwijl iedereen zou verwachten dat je die omlaag blaast. Wel even uitproberen voor optimaal vasthouden en optimale positie van de mond t.o.v. papier. Je kunt het ook doen met strippen papier van 15 x 3 cm en die uitdelen aan leerlingen of zelf even laten scheuren. Er zijn nog allerlei andere Bernouilli-variaties (Liem, 1987).
 
-```{figure} figures/02-47-1Bernouilli1.JPG
+```{figure} ../figures/02-47-1Bernouilli1.JPG
 :width: 60%
 :name: fig_Bern1
 
@@ -415,15 +415,15 @@ Ga verder met de demonstratie, pak nog een vel A4, of scheur nog een pagina uit 
 ## Bernoulli 3 met rietje en kaarsvlam
 Steek een kaars aan. Als ik door een rietje blaas net rechts van de vlam, zal de vlam bewegen, naar welke kant? Waarom? Antwoord: de vlam beweegt naar rechts naar het gebiedje met de laagste druk. Volgens Bernouilli is de druk in snel bewegende lucht lager dan in de omringende lucht. Voor een jonger publiek: ik blaas wat lucht weg, het brandende gas beweegt naar de plek met de minste lucht. 
 
-````{figure} 
+````{figure} ../
 :name: Bern_candle
-```{figure} images/20250513_114856.*
+```{figure} ../images/20250513_114856.*
 :width: 60%
 :name: fig_Bern3
 
 Een rietje en een kaarsvlam
 ```
-```{figure} figures/07-27-2FlamePressure.*
+```{figure} ../figures/07-27-2FlamePressure.*
 :width: 60%
 :name: fig_Bern3a
 
@@ -439,7 +439,7 @@ Laat iets vallen en er is conversie van potentiele naar kinetische energie, wrij
 Er zijn linialen met mooie gootjes, laat een knikker rollen en onderzoek het verband tussen beginhoogte van de knikker en de afgelegde afstand door het bekertje of gevouwen stukje karton of dik papier (figuren 31 en 32) dat geplaatst wordt op grafiek papier voor precies meten. Dit kan ook gemakkelijk een goedkoop maar nuttig practicum worden in een gewoon lokaal. Kwalitatief is dit een mooie demonstratie van de relatie tussen kinetische energie en arbeid. Kwantitatief zit er nog een addertje onder het gras in de rotatie van de knikker, heeft dat wel of niet invloed? Kruit (2018) gebruikte dit experiment om onderzoeksvaardigheden te meten van basisschool leerlingen. Zie ook Farmer (2012).
 
 
-```{figure} figures/02-51WorkKineticEnergy
+```{figure} ../figures/02-51WorkKineticEnergy
 :width: 80%
 :name: fig_ruler_marb
 
