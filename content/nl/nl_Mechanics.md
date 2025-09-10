@@ -28,7 +28,7 @@ Laat een blad papier vallen, dat valt langzaam en fladdert. Maak dan een prop, d
 Kun je een vel papier net zo snel laten vallen als een boek? 
 ```
 
-```
+
 
 ## Papieren bakjes 
 Van een half A4, is het gemakkelijk een rechthoekig bakje te vouwen en vast te nieten. Voeg de ongebruikte stukje papier toe in het bakje om precies de massa van 1/2 A4 te hebben. Een vel papier dwarrelt naar beneden. Een bakje valt vrijwel vanaf de start netjes met constante snelheid. Het is mogelijk hier een onderzoek van te maken, wat is de invloed van massa en doorsnede van het bakje op de valtijd ? Een eerste benadering kan zijn de formule $t = \frac{h\cdot A}{m}$. Deze voorspelt dat verdubbeling van hoogte $h$ of doorsnede $A$ zou resulteren in een verdubbeling van de valtijd $t$. De massa kun je gemakkelijk verdubbelen door twee bakjes in elkaar te vouwen. Ook de doorsnede van het bakje (het oppervlak dwars op de valrichting) is gemakkelijk te varieren.  Als je denkt dat de dwarsdoorsnede evenredig is met de tijd, laat dan het bakje met $A$ van twee keer zo hoog vallen, tegelijk met het bakje met $2A$ (maar zorg voor gelijke massa). Dan zouden ze tegelijk aan moeten komen. Is dat ook zo? Voor massa blijkt te gelden dat $t$ evenredig is met $m^{-½}$ in plaats van met $m^{-1}$. Zie Frederik et al ShowdeFysica (2015, p32-33) voor een volledige beschrijving. Een vroege versie van dit experiment is te vinden in Eric Roger's beroemde boek *Physics for the Inquiring Mind* @rogers2011physics [pg.167].
@@ -160,8 +160,7 @@ Wat gebeurt er als je een ruk geeft an elk van de toiletrollen ?
 ```
 
 ## Rotatietraagheid 3 met een draadje en een kopje of ander breekbaar object 
-Maak nu de opstelling van  {numref}`fig_RI3`, een simpel bosje sleutels of beter een breekbaar kopje, een touwtje (bv. schoenveter), en een vinger of pen/potlood als as. Aan de andere kant van het touwtje een minder zwaar object (een schroef, een losse sleutel, wat dan ook). Vraag een voorspelling, als ik dit loslaat, wat gebeurt er dan? De docent acteert onzekerheid en vrees. Zou dit wel goed gaan? Dan, loslaten! Het tegengewicht wordt versneld en windt zich om het potlood. Dat doet de wrijving van touw/draad en potlood zozeer toenemen dat het kopje of de sleutels niet meer vallen. Voor een breed publiek gewoon vertellen wat je ziet. Een discussie staat op de volgende site met ook verwijzing naar een American Journal of Physics artikel voor een complete wiskundige behandeling: https://sciencedemonstrations.fas.harvard.edu/presentations/coffee-mug-string
-.
+Maak nu de opstelling van {numref}`fig_RI3`, een simpel bosje sleutels of beter een breekbaar kopje, een touwtje (bv. schoenveter), en een vinger of pen/potlood als as. Aan de andere kant van het touwtje een minder zwaar object (een schroef, een losse sleutel, wat dan ook). Vraag een voorspelling, als ik dit loslaat, wat gebeurt er dan? De docent acteert onzekerheid en vrees. Zou dit wel goed gaan? Dan, loslaten! Het tegengewicht wordt versneld en windt zich om het potlood. Dat doet de wrijving van touw/draad en potlood zozeer toenemen dat het kopje of de sleutels niet meer vallen. Voor een breed publiek gewoon vertellen wat je ziet. Een discussie staat op de [volgende site](https://sciencedemonstrations.fas.harvard.edu/presentations/coffee-mug-string) met ook verwijzing naar een American Journal of Physics artikel voor een complete wiskundige behandeling.
 
 ```{figure} ../figures/02-14-3RotationalInertia.JPG
 :width: 60%
@@ -226,8 +225,6 @@ Loop met constante snelheid terwijl je een krijtje of ander voorwerp loodrecht o
 
 ## Luchtdruk met krant en lat
 Heeft  een van de leerlingen een krant bij zich? Is er een houten liniaal of beter een dun stukje hout dat mag breken? Leg het latje zo op de tafel dat een deel uitsteekt over de rand van de tafel. Leg enkele krantenpagina's erover heen en strijk die glad om de lucht eronder weg te strijken. Sla dan hard op het uitstekende deel van het latje. Het papier scheurt niet, het latje breekt. Toch sterk, die lucht.
-
-
 
 ## Statische en kinetische wrijving en zwaartepunt
 Neem een meetlat, aanwijsstok, of iets soortgelijks of zelfs een bezemsteel. Balanceer die horizontaal op beide wijsvingers (figuur). Beweeg vervolgens de wijsvingers naar elkaar toe. Zonder enige controle door de docent (eventueel met blinddoek) zal er steeds maar een wijsvinger tegelijk verschuiven, eerst de een, dan de ander, dan weer de een totdat de wijsvingers elkaar uiteindelijk raken precies onder het zwaartepunt van de lat. Het experiment kan eenvoudig samen met de leerlingen herhaald worden. Ze vinden vast wel iets bruikbaars in hun tas. De uitleg: wanneer een vinger verschuift zal een toenemend deel van het gewicht van de lat juist op die bewegende vinger rusten terwijl de vinger richting zwaartepunt schuift. De wrijving op die vinger neemt toe, de beweging stokt, en dan begint de andere vinger te schuiven. Het proces blijft zich herhalen tot dat beide vingers aanlanden in het zwaartepunt. Een interessante variatie is als een kant van de lat verzwaard wordt, bv met een bordenwisser of willekeurig ander voorwerp. Ehrlig (1994) beschreef 34 experimenten met linialen zowel kwalitatief als kwantitatief, varierend in niveau van primair tot hoger onderwijs.
