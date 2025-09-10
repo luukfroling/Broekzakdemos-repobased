@@ -9,7 +9,7 @@ Als natuurkundedocent heb je natuurlijk altijd een ballon in je zak. Even wrijve
 ## Zout en peper scheiden met een ballon
 In de schoolkantine en de personeelskamer is vast zout en peper te vinden voor soep. Meng wat zout en peper op tafel of op een schoteltje. Wrijf dan de ballon met textiel van een trui of andere kleding en houd de ballon boven het mengsel. De peper wordt aangetrokken, het zout blijft achter. Als er geen ballon is, probeer een plastic liniaal. De peper wordt aangetrokken door een geïnduceerde scheiding van ladingen in de paper. Waarom wordt het zout niet aangetrokken? Zijn de deeltjes te zwaar of is zout te geleidend? 
 
-```{figure} figures/03-2StaticBalloonLR.*
+```{figure} ../figures/03-2StaticBalloonLR.*
 :width: 60%
 
 De gewreven ballon trekt peper aan maar niet zout.
