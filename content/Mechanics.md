@@ -191,7 +191,7 @@ Just like in the earlier rotational inertia experiment, show what happens to the
 It is possible to make this into a quantitative demonstration supporting the formula $F = \frac{mv^2}{r}$ by computing the velocity from measurement of the period *T* with a stopwatch or video from a mobile phone. Make sure to independently vary *F* and *r* while controlling for respectively *r* and *F*.
 
 
-```{figure} images/20250602_114146.gif
+```{figure} images/20250602_114146.*
 :width: 60%
 :name: fig_146
 

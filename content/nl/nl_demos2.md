@@ -11,7 +11,7 @@ Stel je krijgt ineens een ander lokaal toegewezen, of je moet onverwachts invall
 
 We gaan uit van wat er in een standaard lokaal aanwezig is, tafels, bord, krijt, ramen, stoelen, leerlingen, en de inhoud van broekzakken en tassen van leerlingen. Kun je dan toch demonstraties doen? Ja, heel veel zelfs. De aard van de demonstraties varieert. Sommige zijn om iets experimenteel te bewijzen, maar de meeste zijn bedoeld om verschijnselen te laten zien en te koppelen aan vakbegrippen en heen-en-weer te denken tussen verschijnselen en begrippen. Er zijn ook enkele rollenspelen voor als leerlingen moeilijk stil kunnen zitten, of juist slaperig zijn, of wanneer de docent gewoon even iets heel anders wil doen. 
 
-```{figure} images/20250513_085023.jpg
+```{figure} ../images/20250513_085023.jpg
 :width: 80%
 :name: fig_table
 
@@ -38,7 +38,7 @@ Je kunt je natuurlijk afvragen of dit soort broekzak demonstraties nog nodig zij
 
 De standaardvoorwerpen in een kaal lokaal zijn pennen, papier, leerlingen, boeken, stoelen, tafels, zakdoeken, etc. Daarnaast is het handig altijd het volgende beschikbaar te hebben: een glas voor water, een rietje, een ballon, een kaars/theelichtje met aansteker/lucifers, een touwtje of schoenveter, een liniaal, een paar munten, enkele PVC-buisjes met verschillende lengte, een neodymium magneet, een laser pointer of zaklamp, een spinning disc voor additief mengen van kleuren.
 
-```{figure} images/sdfcover.jpg
+```{figure} ../images/sdfcover.jpg
 :width: 60%
 :name: fig_sdf
 

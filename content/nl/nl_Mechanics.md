@@ -82,7 +82,7 @@ en laat leerlingen positie – tijd en snelheid – tijd diagrammen schetsen. Na
 Leerling **A** loopt met constante snelheid rustig voor de klas van links naar rechts en leerling **B** loopt met hogere constante snelheid, haalt  **A** in. *Wanneer  **B** naast **A** is, zijn de snelheden dan gelijk of verschillend?* Rare vraag zult u denken, maar er is een wijdverbreid misconcept dat op het moment van inhalen niet alleen de posities maar ook de snelheden gelijk zouden zijn. In een Amerikaanse rechtszaak over een verkeersongeval werd deze mening zelfs door de rechter verkondigd. Mocht blijken dat geen enkele leerling dit fout doet, dan doet u deze demo nooit meer. 
 
 ## Actie - reactie visualisatie oefening
-Rek een stuk elastiek uit, kracht van vinger op elastiek is kracht van elastiek op vinger. Let op, actie en reactie werken altijd op verschillende voorwerpen! Daarom wil ik ook dat leerlingen krachten labelen als  $F_{vinger op elastiek}$ and $F_{elastiek op vinger}$. om duidelijk de twee betrokken objecten te onderscheiden. Je kunt ook twee leerlingen voor de klas zetten, handen op elkaar en duwen maar op de plaats blijven (statisch): actie = - reactie. Vervolgens duwen totdat een leerling in beweging komt. Hoe zit het dan met actie=-reactie oftewel, is nu $actie = - reactie$ of $F _{leerling_A op leerling_B} = -F_{leerling_B op leerling_A}$? Dat geldt nog steeds, maar om te zien waarom een leerling in beweging komt, moet je alle krachten op die ene leerling optellen. Voor leerling A is dat dus: $F_{leerling_A on leerling_B} + F_{wrijving vloer op leerling_B}$. Bedenk dat die $F_{wrijving:vloer op leerling A}$ tegengesteld gericht is aan de $F_{leerling B op leerling A)$ en dus uiteindelijk een min-teken krijgt. Maar als leerling A het niet houdt, dan is het vaak een kwestie van omver geduwd worden. Dan spelen ook krachtmomenten een rol. Als 14-jarige won ik ooit een touwtrekwedstrijd van sterkere en zwaardere jongens door mijn zwaartepunt dicht bij de grond te houden, ik kon minder gemakkelijk omvergetrokken worden en had zowel handen als voeten op de grond om wrijving te vergroten.
+Rek een stuk elastiek uit, kracht van vinger op elastiek is kracht van elastiek op vinger. Let op, actie en reactie werken altijd op verschillende voorwerpen! Daarom wil ik ook dat leerlingen krachten labelen als  $F_{vinger op elastiek}$ and $F_{elastiek op vinger}$. om duidelijk de twee betrokken objecten te onderscheiden. Je kunt ook twee leerlingen voor de klas zetten, handen op elkaar en duwen maar op de plaats blijven (statisch): actie = - reactie. Vervolgens duwen totdat een leerling in beweging komt. Hoe zit het dan met actie=-reactie oftewel, is nu $actie = - reactie$ of $F _{leerling_A op leerling_B} = -F_{leerling_B op leerling_A}$? Dat geldt nog steeds, maar om te zien waarom een leerling in beweging komt, moet je alle krachten op die ene leerling optellen. Voor leerling A is dat dus: $F_{leerling_A op leerling_B} + F_{wrijving vloer op leerling_B}$. Bedenk dat die $F_{wrijving:vloer op leerling A}$ tegengesteld gericht is aan de $F_{leerling B op leerling A}$ en dus uiteindelijk een min-teken krijgt. Maar als leerling A het niet houdt, dan is het vaak een kwestie van omver geduwd worden. Dan spelen ook krachtmomenten een rol. Als 14-jarige won ik ooit een touwtrekwedstrijd van sterkere en zwaardere jongens door mijn zwaartepunt dicht bij de grond te houden, ik kon minder gemakkelijk omvergetrokken worden en had zowel handen als voeten op de grond om wrijving te vergroten.
 
 
 ## Traagheid 1, Newton's Eerste Wet met een glas water
@@ -198,7 +198,7 @@ Gebruik de set-up {numref}`fig_CMEN`, laat zien wat er gebeurt met de snelheid v
 Het is mogelijk de cirkelbewegingdemo kwantitatief te maken en de formule  $F = \frac{mv^2}{r}$ te demonstreren door de snelheid van de rubber dop te berekenen door meting van de periode *T* met een stopwatch of videometen met een mobieltje. Zorg ervoor de variabelen  *F* en *r* onafhankelijk van elkaar te varieren door respectievelijk *r* en *F* constant te houden.
 
 
-```{figure} ../images/20250602_114146.gif
+```{figure} ../images/20250602_114146.*
 :width: 60%
 :name: fig_146
 
@@ -412,8 +412,9 @@ Ga verder met de demonstratie, pak nog een vel A4, of scheur nog een pagina uit 
 ## Bernoulli 3 met rietje en kaarsvlam
 Steek een kaars aan. Als ik door een rietje blaas net rechts van de vlam, zal de vlam bewegen, naar welke kant? Waarom? Antwoord: de vlam beweegt naar rechts naar het gebiedje met de laagste druk. Volgens Bernouilli is de druk in snel bewegende lucht lager dan in de omringende lucht. Voor een jonger publiek: ik blaas wat lucht weg, het brandende gas beweegt naar de plek met de minste lucht. 
 
-````{figure} ../
+````{figure}
 :name: Bern_candle
+
 ```{figure} ../images/20250513_114856.*
 :width: 60%
 :name: fig_Bern3
