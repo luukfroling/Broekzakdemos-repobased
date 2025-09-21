@@ -2,14 +2,20 @@
 version: 1
 project:
   id: e99957de-65c8-4ebe-bbe0-abca176beb68
-  title: Two hundred Pocket Physics Demonstrations and Visualizations with Common Objects
+  # title: Two hundred Pocket Physics Demonstrations and Visualizations with Common Objects
+  title: Broekzakdemos
   description: Iets over het boek.
   # keywords: []
-  authors: [Ed van den Berg]
+  authors: 
+    - Ed van den Berg
   # abstract: 
   date: 2025-06-03
   github:
   
+  options:
+    logo: logo.jpg
+    cover: cover.jpg
+
   plugins:
     - plugin/iframe.mjs
     # - https://github.com/TUD-JB-Templates/JB2_plugins/releases/download/iframe/iframe.mjs
@@ -23,7 +29,7 @@ project:
     
   exports:
     - format: typst
-      template: https://github.com/FreekPols/plain_typst_book.git #lapreprint-typst
+      template: https://github.com/myst-templates/plain_typst_book.git
       output: outputs/200demos.pdf
       id: output-pdf
 
@@ -34,15 +40,15 @@ project:
     - file: Index.md
     - file: content/nl/nl_demos2.md
     - file: content/nl/nl_Mechanics.md
-    # - file: content/nl/nl_Electricity.md
-    # - file: content/nl/nl_Light.md
-    # - file: content/nl/nl_Oscillations.md
-    # - file: content/nl/nl_Sound.md
-    # - file: content/nl/nl_Liquids.md
-    # - file: content/nl/nl_Magnetism.md
-    # - file: content/nl/nl_Heat.md
-    # - file: content/nl/nl_Earthscience.md    
-    # - file: content/nl/nl_Modernphysics.md    
+    - file: content/nl/nl_Electricity.md
+    - file: content/nl/nl_Light.md
+    - file: content/nl/nl_Oscillations.md
+    - file: content/nl/nl_Sound.md
+    - file: content/nl/nl_Liquids.md
+    - file: content/nl/nl_Magnetism.md
+    - file: content/nl/nl_Heat.md
+    - file: content/nl/nl_Earthscience.md    
+    - file: content/nl/nl_Modernphysics.md    
     # - file: content/nl/nl_References.md
 
 #ENGLISH
