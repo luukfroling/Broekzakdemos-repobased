@@ -4,7 +4,11 @@ project:
   id: e99957de-65c8-4ebe-bbe0-abca176beb68
   # title: Two hundred Pocket Physics Demonstrations and Visualizations with Common Objects
   title: Broekzakdemos
-  description: Iets over het boek.
+  description: |
+    Stel je krijgt ineens een ander lokaal toegewezen, of je moet onverwachts invallen. Je hebt
+    geen demonstratieapparatuur mee en vind jezelf in een kaal lokaal en het cabinet is op
+    een andere verdieping. Wat kun je dan toch doen om een inspirerende les te geven met
+    concrete voorbeelden?
   # keywords: []
   authors: 
     - Ed van den Berg

@@ -1,16 +1,8 @@
-# Light
+# Licht
+In een kaal klaslokaal heb je verstrooid licht van buiten en soms zelfs direct zonlicht. Er zijn lampen aan het plafond, zaklampen in de telefoons van leerlingen, en licht van telefoonschermen. De leraar heeft misschien zelfs een laser in zijn of haar zak. Je zou met al deze verschillende lichtbronnen veel natuurkundeverschijnselen kunnen laten zien. 
 
-In the bare classroom there is scattered light from outside, sometimes direct sunlight. There are lamps in the ceiling and there are the little flashlights on the mobile telephones of students as well as light from the telephone screens. The teacher may even have a laser pointer in his/her pocket. It should be possible to show many optics phenomena with those different sources of light.
-
-## Preliminary diagnostic questions on the propagation of light
-The nicest start of lessons on optics is in a totally dark room with at most a candlelight. But a bare classroom is unlikely to have the necessary thick black curtains. Well, improvise with a candle, *let there be light!* I strongly suggest you go through some very basics that rarely make it into an optics lesson and try to assess some preconceptions of your students. Why not use some multiple-choice questions like the following [@van1990student], to be answered individually. 
-
-A candle is burning in day light. The light of the candle: 
-- A. stays on the candle, 
-- B. comes out halfway towards you, 
-- C. moves away from the candle until obstructed. 
-
-Then the same question but now at nighttime. Then follows a plenary discussion on how far light can go. If somebody with a telescope is 1 km away, can he see the candle? Does that mean that the light of the candle reaches the telescope, or is the light on the candle and the telescope looks at it?
+## Voorafgaande vragen over de verplaatsing van lich
+De beste manier om een les over optica te beginnen is met een volledige donker lokaal met hooguit wat kaarslicht. Een leeg klaslokaal heeft waarschijnlijk geen verduisterende gordijnen, dus er moet geïmproviseerd worden met een kaars. Ik raad sterk aan om de fundamentele basis die normaal niet behandeld wordt nog een keer te bespreken en om de voorkennis van de leerlingen te bepalen. Waarom laat je ze niet individueel de volgende [@van1990student] keuzevragen beantwoorden:
 
 ```{figure} ../figures/04-1-1StraightLinePropagation.*
 :width: 40%
@@ -19,13 +11,12 @@ Then the same question but now at nighttime. Then follows a plenary discussion o
 .
 ```
 
+1. Een kaars brand overdag. Het licht van de kaars:\
+ A. Blijft bij de kaars \
+ B. Verspreidt tot ongeveer halverwege jou \
+ C. Verspreidt tot jou \
+ D. Verspreidt tot het ergens tegenaan komt \
 
-1. A candle is burning during the day. The light from the candle:
-
--   A. stays on the candle.
--   B. comes out about halfway towards you
--   C. comes out as far as you but no farther
--   D. comes out until it hits something.
 
 ```{figure} ../figures/04-1-2StraightLine.*
 :width: 40%
@@ -34,12 +25,11 @@ Then the same question but now at nighttime. Then follows a plenary discussion o
 .
 ```
 
-2. Now there is a brown out during the evening and you are using a candle. The light from the candle:
-
--   A. stays on the candle.
--   B. comes out about halfway towards you
--   C. comes out as far as you but no farther
--   D. comes out until it hits something.
+2. Nu is er 's avonds een stroomstoring en je gebruikt een kaars. Het licht van de kaars:\
+ A. Blijft bij de kaars\
+ B. Verspreidt tot ongeveer halverwege jou \
+ C. Verspreidt tot jou \
+ D. Verpreidt tot het ergens tegenaan komt \ 
 
 ```{figure} ../figures/04-1-3StraightLine.*
 :width: 40%
@@ -48,192 +38,187 @@ Then the same question but now at nighttime. Then follows a plenary discussion o
 .
 ```
 
-3. Now there the candle is near a light bulb. The light from the light bulb:
+3. Nu is er een kaars in de buurt van een lampje. Het licht van het lampje:
+ A. Blijft bij het lampje\
+ B. Verspreidt tot ongeveer halverwege jou \
+ C. Verspreidt tot jou \
+ D. Verpreidt tot het ergens tegenaan komt \ 
 
--   A. stays on the bulb.
--   B. comes out about halfway towards you
--   C. comes out as far as you but no farther
--   D. comes out until it hits something.
+4. Vervolgens is het avond. Het licht van het lampje:
+ A. Blijft bij het lampje\
+ B. Verspreidt tot ongeveer halverwege jou \
+ C. Verspreidt tot jou \
+ D. Verpreidt tot het ergens tegenaan komt \ 
 
-4. Now it is evening. The light from the light bulb:
+## Wit licht en kleuren met alledaagse voorwerpen
+Er is altijd wel iets dat werkt als een prisma, bv het plastic van die goedkoopste doorzichtige Big pennen. Dan heb je een spectrum. Wie weet is er ook nog een jongen met een zakmes dat ook een lens heeft. Gebruik die om de kleuren weer bij elkaar te brengen en zie, wit licht! Als er een beamer in het lokaal is, zijn er meer mogelijkheden.
 
--   A. stays on the bulb.
--   B. comes out about halfway towards you
--   C. comes out as far as you but no farther
--   D. comes out until it hits something.
+## Kleuren maken
+Van het vorige experiment hebben we misschien geleerd dat alles met een wig vorm, bijvoorbeeld goedkope balpennen met een hexagon erin, kleuren kunnen maken van wit licht. Je herkent die vormen overal, zoals de rand van een badkamerspiegel of een prisma. Kijk om je heen, heeft er iemand kleding of schoenen met glitter en kleuren? Zijn daar wig vormen aanwezig?
 
-## White light and spectra with everyday objects
-Let students use transparent ballpoint pens or other transparent glass or plastic objects to produce a spectrum. Does anybody have a pocketknife with a lens? Then recombine the colors into white. With an OHP in the room there would be many more possibilities.
-
-## Producing colors
-From the previous experiment we might have learned that anything with a wedge shape, like those cheap ballpoints with a hexagonal profile, can produce colors from white light. We can recognize such shapes everywhere, like the edge of a bathroom mirror and a prism. Look around, does anybody have clothing or shoes with glitter and colors? Any wedge shapes involved?
-
-##  Color subtraction
-Anybody with transparent, colored candy wrappers? Use a flashlight or the light of a telephone and shine it through the colored paper towards the students. The original light is white, the paper wrappers subtract colors from white. A red paper wrapper subtracts blue and green and lets red go through. A blue paper wrapper subtracts green and red and lets blue go through. If you have more candy wrappers and more lamps you can add colors together again.
+## Kleuren filteren
+Is er iemand die tranparantie gekleurde snoeppapiertjes heeft? Gebruik een zaklamp of het licht van een telefoon en schijn door het gekleurde papier richting de studenten. Het oorspronkelijke licht is wit, het snoeppapiertje filtert kleuren van wit. Een rood papiertje filtert blauw en groen, en laat rood door. Een blauw papiertje filtert groen en rood, en laat blauw door. Als je meerdere papiertjes en meerdere lampen hebt kan je de kleuren ook weer optellen. 
 
 ```{figure} ../images/20250513_121309.*
 :width: 60%
 :name: fig_subt
 
-Put various colored transparent papers on top of each other.
+Leg verschillende soorten doorzichtig papier op elkaar.
 ```
 
-## Color addition
-Perhaps you have a Newton color disk on top of a spinning top. By spinning colors you can add them up to a white appearance. Or use a string through one hole in the center and one off center to make the disk spin. Of course [PhET has a very nice simulation](https://phet.colorado.edu/en/simulations/color-vision) for color addition which shows how with primary colors all other colors can be produced.
+## Kleuren optellen
+Misschien heb je wel een Newtonschijf op een ronddraaiend plateau. Door kleuren rond te draaien kan je ze optellen totdat ze er wit uitzien. Je kan ook een touwtje door het midden gebruiken om de schijf rond te laten draaien. Uiteraard heeft [PhET een goede simulatie](https://phet.colorado.edu/en/simulations/color-vision) voor het optellen van kleuren, die laat zien hoe je met de primaire kleuren alle andere kleuren kan maken.
 
-## Reflection
-There must be students in class with a mirror in their bag. Other reflecting objects might be windows, metals, spoons, etc. One can easily imagine many demonstrations. A spectacular demo is to tell your class that your whole body will be visible in any mirror as long as you increase your distance to the mirror. Then you *disprove*, using a mirror taken from outside the classroom, or borrowing a mirror from one of the girls. Beware of convex and concave mirrors for this particular demo, the mirror should be flat.
+## Reflectie 
+Er hebben vast studenten spiegeltjes in hun tas. Daarmee kun je van alles doen. Snel’s spiegelwet. Stel dat je de spiegel op de muur plakt (laat een leerling die vasthouden), waar moet de spiegel gepositioneerd worden opdat je je schoen erin kan zien? Etc. Als je toch een iets grotere spiegel vindt of hebt meegenomen (of een spiegelend raam kan gebruiken), laat een leerling die dan tegen de muur houden en zet er een andere leerling voor. Zorg dat de spiegel net iets te hoog is voor die leerling om zijn/haar eigen schoenen te zien. Vraag de klas *Wat moet hij/zij doen om de schoenen te zien?* Velen zullen zeggen achteruitlopen. Probeer maar, het lukt niet. Een simpel stralendiagram laat zien dat je alleen je voeten kunt zien als er een spiegelend oppervlak is precies halverwege ooghoogte en tenen. Kijk uit voor holle en bolle spiegels bij deze demo, je hebt een vlakke spiegel nodig. Let ook op dat de spiegel niet stiekem wat uit het verticale vlak gedraaid wordt.
 
 ```{figure} ../images/mirror.*
 :width: 60%
 :name: fig_mirror
 
-Does more body become visible when moving away from the mirror?
+Kan je meer zien van je lichaam als je wegloopt van de spiegel?
 ```
 
+## Visualisatie van Snel's terugkaatsingswet in drie dimensies
+We laten zelden zien wat het betekent dat de inkomende en gereflecteerde (of gebroken) lichtstralen in één vlak liggen. Neem 3 meetlatten, of bezemstelen, of stukken plastic pijp, of pennen/potloden van leerlingen. Eén daarvan wordt de normaal op de spiegel (of op het grensvlak van twee media). De andere twee worden respectievelijk de inkomende en de teruggekaatste (of gebroken) lichtstraal. Die moeten dus in één vlak liggen. Laat zien hoe het eruit ziet als die niet in een vlak zouden liggen. 
 
-## Visualization of Snell’s Reflection in three dimensions
-We rarely demonstrate what it means that incident and reflected (or refracted) light rays should be in one plane. Take three meter-sticks, or rulers, or pieces of pipe, or broom sticks, or pencils (too small). One meter-stick becomes the normal, the other two become incident and reflected or refracted rays respectively. Emphasize their orientation in one plane and show examples of orientations, which are not possible (not in one plane). Alternatively, you could ask students in their seats to demonstrate Snell's law to you using ballpoints and pencils. You can easily check 10 students in 1 minute. If you have a laser pointer and a small mirror, then of course you could easily confirm this by putting the mirror flat on the table and shining the laser on it.
+## Snel's terugkaatsingswet met een laserpointer
+Als er een laserpointer in het lokaal is, dan kun je natuurlijk ook een spiegeltje op de tafel leggen en daarmee laten zien dat invallende en uitgaande lichtstraal in een vlak liggen met de normaal. Let op dat je een platte spiegel gebruikt, geen holle. 
 
-## Snell's reflection Law with a laser pointer
-If there is a laser pointer in the room, then get a mirror from one of the girls, put it on the table, and show that the incoming and reflected rays are in one plane with the normal. Watch out that you get a flat mirror and not a concave or convex one.
+## Snel's terugkaatsingswet met spelden
+Als je spelden hebt, dan kun je een rechtopstaand potlood of pen als voorwerp gebruiken en vanuit verschillende gezichtspunten heengaande en teruggekaatste lichtstralen vastprikken en door verlenging de locatie van het virtuele voorwerp vinden. Zie een hele serie simpele en nuttige experimenten in {cite:p}`McDermott1996`.
 
-## Snell's reflection Law: constructing light rays with pins
-If you do have pins, then you can use a pencil standing straight up and construct light rays going towards and reflected away from a vertical mirror from several viewpoints and by extension find the location of the virtual image. See a nice series of simple and useful experiments in {cite:p}`McDermott1996`.
-
-## Refraction 1 pencil slanted in glass of water
-Walk around with pencil slanted in a glass of water, or better, in rectangular container. 
+## Breking 1: potlood schuin in een glas water
+Wandel rond met een potlood schuin in een glas water, of in een vierkante container. 
 
 ```{figure} ../images/20250513_110031.*
 :width: 60%
 :name: fig_pencil2
 
-A broken straw?
+Een gebroken potlood?
 ```
 
-
-## Refraction 2 pencil straight up in glass of water
-Stick your finger or a pencil straight up in a (round) glass of water. Move through the classroom while moving your finger forward and backward. No need for talking, many students seem surprised at this everyday observation of a "swollen" finger. Explaining can be quick by stating that the water in a glass acts as a lens. A better explanation with refraction of light rays might take 10 minutes or could be given as a task for seat or home work.
-
+## Breking 2: potlood rechtop in een glas water
+Steek je vinger of een potlood in een rond glas water. Loop zwijgend de klas rond terwijl je de vinger van voor naar achter en terug beweegt. Leerlingen zullen verbaasd zijn met die gezwollen vinger. Een snelle uitleg is dat het water als lens fungeert. Een betere uitleg met stralendiagrammen kan meer dan 10 minuten in beslag nemen, of een goede opdracht voor leerlingen zijn.
 
 ```{figure} ../images/pencil.*
 :width: 60%
 :name: fig_pencil
 
-Move the pencil back and forth and describe what you see
+Beweeg het potlood heen en weer en beschrijf wat je ziet.
 ```
 
-
-## Refraction 3 arrows seen through air and through a glass of water
-(Czech contribution to Physics on Stage, {cite:p}`Nugent2010`) 
-Draw parallel arrows on a piece of paper (the object), hold that behind a glass of water half-filled such that some arrows are seen through the air and other arrows through the water. If the object distance is farther than the focal length, then the arrows are reversed {numref}`fig_arrow`. 
-
+## Breking 3: pijlen gezien door lucht en door een glas water
+(Tsjechische contributie voor Physics on Stage, {cite:p}`Nugent2010`) 
+Teken enkele parallelle pijlen op een kaartje of stukje papier. Houd dit object achter een glas water dat half gevuld is, zo dat enkele pijlen alleen gezien worden door het water en andere pijlen alleen door de lucht in het glas. Als het object verder van het centrum van het glas is dan de brandpuntsafstand, dan zijn de pijlen gezien door het water omgekeerd {numref}`fig_arrow`. 
 
 ```{figure} ../images/20250513_103744.*
 :width: 60%
 :name: fig_arrow
 
-Do the arrows point in the same direction?
+Wijzen de pijlen dezelfde kant op?
 ```
 
 
-## Refraction 4: Physics is Fun in the swimming pool
-Ask students to draw the light ray diagram requested in {numref}`fig_pool`. Walk around to identify frequent errors. Discuss, and then ask students how they could create an analog situation with a Lego mini-doll or a pencil and follow their instructions to demonstrate.
+## Breking 4: Natuurkunde is leuk in het zwembad
+Vraag de leerlingen om het stralendiagram uit {numref}`fig_pool` te tekenen. Loop rond om te kijken wat veelvoorkomende fouten zijn. Bespreek ze en vraag vervolgens aan de leerlingen hoe ze een model kunnen maken met een lego-poppetje of een potlood en doe hun suggesties voor. 
 
 ```{figure} ../images/20250513_100315.*
 :width: 60%
 :name: fig_pool
 
-Fun physics in the pool
+Natuurkundeplezier in het zwembad
 ```
 
 
-## Bright versus dark background
-Switch off the classroom lights. The teacher or a student stands against the wall opposite of the windows. The face is clearly visible as more light is reflected from the face than from the background. Then the teacher or student stands in front of the windows with the face towards the class. Now the face looks dark and unclear as the reflected light from the face is very little compared to the light coming through the windows. Then turn on the lights in the classroom and the face is better visible again. The same effect is visible in {numref}`fig_tulip`.
+## Felle versus donkere achtergrond
+Doe het licht van het lokaal uit. De leraar of een leerling staat tegen de muur tegenover de ramen. Hun gezicht is duidelijk zichtbaar omdat er meer licht wordt gereflecteerd door het gezicht dan door de achtergrond. Vervolgens gaat de leraar of leerling voor de ramen staan met hun gezicht naar de klas. Nu is het gezicht donker en onduidelijk, omdat er veel minder licht gereflecteerd wordt door het gezicht dan er door de ramen komt. Als je het licht in het lokaal aan doet is het gezicht weer beter zichtbaar. {numref}`fig_tulip` laat hetzelfde effect zien. 
 
 ```{figure} ../figures/tulip.*
 :width: 60%
 :name: fig_tulip
 
-Has the tulip changed color?
+Heeft de tulp een andere kleur gekregen?
 ```
 
 
-## Pupil, diaphragm
-Arrange students in pairs. They are to observe each other's pupil contraction. Make the classroom dark or let students cover their eyes. Then put on the lights. Can students see each other's pupils get smaller? Repeat one time for a better view the second time around.
+## Pupil, diafragma
+Verdeel de leerlingen in groepjes van twee. Ze moeten het samentrekken van elkaars pupil bekijken. Maak het lokaal donker of laat de leerlingen hun ogen bedekken. Doe vervolgens het licht aan. Kunnen de leerlingen zien dat de pupillen van de ander samentrekken? Herhaal dit een keer om het nog beter te kunnen zien. 
 
-## Reflection and transmission 1
-Take a piece of paper, wet it a bit in the middle with water, oil, or saliva, then hold it in front of the window (or a lamp). The wet part appears light, it transmits. Then put the paper on the table where it reflects light. Now the wet spot looks dark, because of the transmission, it reflects less than dry paper. Students can do this in their seats using their saliva or whatever wet stuff is available {numref}`fig_trans`.
+## Reflectie en transmissie 1
+Neem een stukje papier, maak het een beetje nat in het midden met water, olie, of wat spuug. Houd het dan voor het raam of voor een lamp. Het natte deel ziet er lichter uit dan het droge (donkere) deel. Het natte deel heeft een hogere transmissie. Leg het nu op tafel waar het papier licht reflecteert. Nu ziet de natte plek er juist donker uit. Die natte plek heeft dus een betere transmissie maar daardoor minder reflectie. Leerlingen kunnen dit zelf proberen, even aan de vinger liken, op papier drukken, op tafel leggen (reflectie) en omhooghouden richting raam (transmissie) {numref}`fig_trans`.
 
 ```{figure} ../figures/04-15ReflectionTransmission.*
 :width: 60%
 :name: fig_trans
 
-The wet part appears light, it transmits. 
+De natte plek ziet er licht uit, transmissie. 
 ```
 
 
-## Reflection and transmission 2
-(in winter) Do students have bicycle LEDs in their pockets or bags? Darken the room. Take two LEDs. Hold the paper with the oil stain in between and look for a point where the reflection and transmission are the same. You can even make this into a light intensity meter. You can compare the intensity of lamps with different power. See also [exploratorium](https://www.exploratorium.edu/snacks/oil-spot-photometer)
+## Reflectie en transmissie 2
+Hebben leerlingen fiets ledjes bij zich? Verduister het lokaal. Neem twee ledjes, houd het papier met de olie of watervlek ertussenin, en zoek een punt waar reflectie en transmissie gelijk zijn. Je kunt er zelfs een fotometer van maken. Zie verder [exploratorium](https://www.exploratorium.edu/snacks/oil-spot-photometer). Je kunt lampen met verschillende vermogen vergelijken.
 
-## Accommodation of the eye
-Let your students hold a pen or pencil or finger near the eye. Nearer and nearer \.... the background will become unclear/unfocussed. When our eyes focus on the background, then the pen/pencil will appear unfocussed. The lens of the eye adjusts to the distance (up to a point). This is clear evidence that the lens of the eye can focus and it has to change shape and thus focal length to do so. We call this accommodation.
+## Accomodatie van het oog
+Laat leerlingen een ballpoint, of potlood, of vinger voor het oog houden. Steeds dichterbij … de achtergrond wordt wazig. Of focuseer op de achtergrond en de vinger of pen wordt wazig. De ooglens past zich aan: die aanpassing noemen we accommodatie.
 
-## Depth of field
-The previous experiment also shows the camera concept of depth of field. But students can also try with their own telephone cameras. Let them focus on something farther away (textbook or computer screen) and then let them move their index finger back-and-forth in front of the lens. See how the background is sharp and the finger in the foreground is not, or the other way around, and how both are sharp when the finger and text are at the same location. Also try it with written words in the foreground and background. The cameras nowadays have a surprising depth of field. Perhaps have some example photographs ready on the beamer in your classroom.
+## Scherpte-diepte
+Bovenstaande demonstratie illustreert ook het camera begrip scherpte-diepte. Leerlingen kunnen dit ook proberen met de camera van hun mobiele telefoon. Laat ze de camera focussen op iets dat ver weg is (een boek of een computerscherm) en laat ze vervolgens hun vinger heen en weer bewegen voor de lens. Je kan zien dat de achtergrond scherp is en de vinger niet, of andersom, en hoe ze allebei scherp zijn als de vinger en de tekst op dezelfde plek zijn. Probeer dit ook met geschreven tekst op de voor- en achtergrond. Cameras hebben tegenwoordig een verbazingwekkende scherpte-diepte. Je kan zelfs wat voorbeeldfoto's klaar hebben staan op de beamer. 
 
-## Lenses
-Did any student bring a lens, perhaps with a pocket knife? Or bring some lenses of your own. Use the window as object (or a bicycle LED) and a piece of paper or the wall opposite the windows as screen. See whether the image is upright or upside down, etc.
+## Lenzen: Brillenglazen onderzoeken
+Gebruik bijvoorbeeld een fietslampje als lichtbron of gebruik het raam als object. Holle en bolle lenzen, brandpunt, omgekeerd beeld, etc.
 
-## Narrow slit diffraction or refraction?
-Look at the lights in the ceiling, close your eyes to a narrow slit, the beam widens perpendicular to the direction of the slit. The effect is better when using an incandescent light bulb up front, preferably with transparent glass and a straight filament. Could Huygens have seen this evidence of diffraction in the 17$^{th}$ century? Well, try tonight with a candle. With some lights even color fringes are clearly visible. However, the famous {cite:p}`Minnaert1954` explained the stripes of light through differential *refraction* by little dykes of liquid along the edge of the eyelid (part 1, p122 of the original Dutch edition). So no refraction after all. But now pay attention to light falling through your eyelashes. Do you see colors? Now isn't that diffraction by hairs?
+## Diffractie van een kleine spleet, of toch gewoon breking?
+Sluit je ogen tot een klein spleetje en kijk naar een lamp. Het licht verlengt tot een streep loodrecht op de oogspleet. Led-fietslampjes doen het goed als je ze op een paar meter afstand legt. Draai je hoofd heen en weer en de hoek van die verticale strepen licht verandert iets want je oogleden zijn wat gebogen. Zou Huygens in de 17de eeuw op die manier diffractie hebben kunnen zien? Probeer vanavond thuis even met een kaars. {cite:p}`Minnaert1954` verklaart de strepen licht uit breking door ribbeltjes opgestuwd oogvocht langs de rand van het ooglid en inderdaad kun je dat per ooglid afzonderlijk waarnemen (deel 1, p122).
 
 ## Mouche volante
-There is more to see in the eye itself. Look into the beautiful blue sky or another even light background like a white classroom ceiling and you may see wiry structures floating in your eye. See <http://en.wikipedia.org/wiki/entoptic_phenomenon> for a better description and some other phenomena in our eyes. While turning your head, these wiry structures tend to stay behind: inertia and proof that these are structures floating in the liquid inside the eyes!
+Er is nog meer te zien in het oog zelf zoals draadjes die zweven in de oogvloeistof en het best te zien zijn tegen een egale achtergrond zoals de blauwe lucht of het plafond van de klas. Zie <http://en.wikipedia.org/wiki/Entoptic_phenomenon> voor een betere beschrijving en andere waarnemingen in onze ogen.
 
 ## Parallax
-Have students close their right eye and stick up their pen at arm's length such that it is in line with a mark on the black board. Have them then close the right eye and open the left one. The pen is no longer in line with the mark on the board as we look at it from just a different angle. That is parallax. The farther the distance from pen to the mark on the board, the smaller the difference. So parallax can be used for distance measurement. See {numref}`fig_paral` for the apparent shift of the pen against a background.
+Laat de leerlingen hun rechteroog sluiten en dan een pen op armslengte omhoog houden, zó dat die op één lijn ligt met oog en een verticale streep op het bord. Laat ze nu het rechteroog openen en het linkeroog sluiten. De pen is niet langer precies voor die streep want we kijken ernaar vanuit een net iets andere hoek. Dat is parallax. Hoe verder de verticale streep op het bord, hoe kleiner het verschil. Met parallax kun je dus afstand bepalen. Zie {numref}`fig_paral` voor de schijnbare verschuiving van pen tegen de achtergrond.
 
 ```{figure} ../figures/parallax.*
 :width: 100%
 :name: fig_paral
 
-The pen at arms’ length from the camera (the eye), is exactly aligned with the edge of the batik. When the camera has been shifted 5 cm to the left which is the distance between the eyes. The pen did not shift. The closer the pen from the batik, the smaller the apparent shift in position.
+De pen
+
+De pen, op armsafstand van de camera (het oog), staat precies op de rand van het batik schilderij. Wanneer de camera zo’n 5 cm naar links wordt verschoven (= afstand tussen de ogen), is de pen niet verschoven maar lijkt verschoven. Hoe verder de muur met batik, des te kleiner de verschuiving
 ```
 
-## Dominance of one eye
-With two eyes open keep the pen at arm's length and aligned with a mark on the board, focus the eyes on the board. Now close the left eye, then open left and close the right eye. If the pen shifts quite a bit (compared to two eyes open) when the right eye is closed, then the right eye is the dominant one. If that does not happen for the right eye, but for the left eye, then the left eye is dominant.
+## Dominantie van één oog over het andere (lui oog)
+Kijk met twee ogen naar een pen die je op armslengte houdt tegen een verticale lijn op het bord. Doe je linkeroog dicht, vervolgens open je linkeroog weer en sluit het rechteroog. Als de pen ogenschijnlijk sterk verschuift bij een gesloten rechteroog en relatief weinig bij een gesloten linkeroog, dan is het rechteroog dominant en het linkeroog mogelijk lui. Zo is dat bij mij. Ik heb al van jongsaf aan een lui linkeroog. Je kunt natuurlijk alle leerlingen dit zelf laten uitproberen.
 
-## Seeing depth 1
-Two eyes are better than one, especially in seeing depth and estimating distances. Let students take a pen or pencil in the left hand and another one in the right hand {numref}`fig_depth`. Move both hands around a bit and then let all student close one eye and move the pens toward one another until the tips touch. With one eye closed that is difficult, with two eyes open it is easy. The experiment can also be done with the two index fingers, but with pens it is more dramatic.
+## Diepte zien 1
+Twee ogen zijn beter dan een, vooral in het zien van diepte en schatten van afstanden. Laat elke leerling een pen/potlood in zowel linkerhand als rechterhand nemen {numref}`fig_depth`. Beweeg die handen even willekeurig heen-en-weer, laat alle leerlingen dan één oog dicht doen en dan de pennen naar elkaar toe bewegen totdat de punten elkaar raken. Met een oog dicht zit je er gauw naast, met twee ogen open is het heel makkelijk. Het experiment kan ook met de twee wijsvingers gedaan worden, maar met potlood/pen is het effect dramatischer.
 
 ```{figure} ../figures/04-24SeeingDepth.*
 :width: 100%
 :name: fig_depth
 
-Estimating distance with one or two eyes.
+Afstand schatten met een of twee ogen.
 ```
 
-## Seeing depth 2
-This demonstration can be done as a teacher demonstration with a student in front of the class but can also be done as a semi-lab activity with student pairs where in each group one student is subject and the other is experimenter. Collect coins or buttons or paper clips or other small objects and a beaker (or draw a circle on paper). The beaker or circle should be about 60 cm from the subject. The subject closes one eye. The teacher or student experimenter holds a coin or button about 50 cm above the table and moves the hand slowly. The subject says "drop" when (s)he thinks the object is exactly above the target and then see whether the object falls inside the beaker or circle. Compare greater and smaller distances and one or two eyes. An alternative with more clear reports is to draw concentric circles with a radius of 1, 2, and 5 cm. The subject is located 1,5 m from the circles with one eye closed. The experimenter holds a marker with the tip downward. The subject instructs the experimenter to move the marker forward/backward or left/right until (s)he thinks the marker is above target. Then drop. The pattern of dots constitutes the report. Use different color markers for different conditions such as one or two eyes closed or different distances, or different observers.
+## Diepte zien 2
+Dit kan als docent demonstratie met een leerling voor de klas, of met duo’s van leerlingen waarvan een als proefpersoon en de ander als experimentator. Verzamel centen of knopen of paperclips of andere kleine voorwerpen en een bekertje (of teken een cirkel op papier). Het bekertje of de cirkel moet ongeveer 60 cm van de proefpersoon vandaan zijn. Die doet één oog dicht. De docent of experimentator houdt een munt of knoop ongeveer 50 cm boven de tafel. Beweeg de hand langzaam. Vraag de proefpersoon “laat vallen” te zeggen op het moment dat hij/zij denkt dat de munt/knoop precies boven het bekertje of de cirkel is en zie of die inderdaad in het bekertje of binnen de cirkel valt. Probeer ook met twee ogen. Probeer op grotere en kleinere afstand. Vergelijk het resultaat van 10x vallen bij elke afstand. Is er verbetering met twee ogen open? Is er verbetering wanneer het bekertje dichterbij is? Een alternatief met een uiterst duidelijk verslaglegging is enkele concentrische cirkels op een papier op de grond te tekenen, bijvoorbeeld met straal 1, 2 en 5 cm. De proefpersoon staat 1,5 m van de cirkels met één oog dicht. De experimentator houdt een viltpen vast met de punt naar beneden. De proefpersoon instrueert de experimentator de pen naar voren/achteren/links/rechts te bewegen totdat hij/zij denkt dat de viltpen boven de target is. Dan laten vallen. Het stippenpatroon is het verslag van de resultaten. Gebruik een verschillende kleur viltpen of marker voor verschillende condities zoals een oog dicht, twee ogen open, of een andere afstand van de proefpersoon tot de target.
 
-## Blind spot
-Almost any textbook has instructions for how to find the blind spot of the eye. Have students draw an X (left) and a big dot (right) about 6 cm apart in their notebook. Let them close the left eye and focus the right eye on the X. Then move the notebook towards the eye. At a certain point the dot will not be visible. That is when the light from the dot falls on the spot where the optic nerve leaves the eye. For detailed instructions [this workresearch](https://research.sanfordhealth.org/sanford-promise/resources/slideshows/finding-your-blind-spot).
+## Blinde vlek
+Bijna elk natuurkunde boek heeft instructies om de blinde vlek van het oog te vinden, d.w.z. de plek waar de oogzenuw het oog verlaat, een plek die niet lichtgevoelig is. Laat de studenten in hun schrift een X tekenen (links) en een grote stip tekenen (rechts), ongeveer 6 cm uit elkaar. Laat ze het linkeroog dichtdoen en met het rechteroog scherpstellen op de X. Beweeg het schrift vervolgens richting het oog. Op een gegeven moment zal de stip niet meer zichtbaar zijn. Dat is wanneer het licht van de stip precies op het punt valt waar de optische zenuw het oog verlaat. Gebruik voor uitgebeidere instructies [dit onderzoek](https://research.sanfordhealth.org/sanford-promise/resources/slideshows/finding-your-blind-spot).
 
-## Center and sides of retina, peripheral vision
-Think of something to illustrate the different nature of eye cells in the center and at the periphery of the retina. The periphery is much more sensitive to detecting movement, protecting eyes against insects, etc. Students will volunteer their stories. 
+## Centraal versus perifeer zicht
+Denk aan iets om de verschillen tussen centrale en perifere oogcellen te illustreren. De perifere cellen zijn gevoeliger voor detectie van plotselinge bewegingen, bijvoorbeeld bescherming van het oog tegen insecten of verkeersongelukken. Leerlingen zullen komen met hun eigen verhalen. Centrale cellen zitten dichter op elkaar en zijn meer kleurgevoelig. Die kleurgevoeligheid is te testen door gekleurde voorwerpen in het verlengde van de ooghoeken van een proefpersoon te plaatsen. Bij welke hoek (van 0$^o$C centraal tot 90$^o$C in de ooghoek) worden kleuren goed zichtbaar? 
 
-## Optical illusions
-Photocopy the famous pictures of parallel lines which do not seem parallel, Escher's art work, Gestalt pictures, etc. onto transparencies and that are ten little demo's right there. Or google on optical illusions and put them on your classroom beamer. See for instance [optics4kids](https://www.optics4kids.org/optical-illusions). 
+## Optische illusies
+Scan de beroemde plaatjes van parallelle lijnen die niet parallel lijken, Escher’ tekeningen, “gestalt” plaatjes, etc. en je hebt meteen 10 demo’s. Google op bv optische illusies en aanverwante termen. Zet dit op je USB-stick, stop die in je broekzak en je hebt weer een serie broekzakdemonstraties, zie bijvoorbeeld [optics4kids](https://www.optics4kids.org/optical-illusions). Idem dito natuurlijk met YouTube filmpjes.
 
-##  Diffraction
-If you or your classroom has a laser pointer, then possibilities for experiments are endless: hairs, holes, slits, reflection, refraction, diffraction, scattering from dust.
+## Diffractie
+Als je toevallig toch een laser pointer in je zak hebt, dan zijn er eindeloze mogelijkheden voor demonstraties. Haren, gaatjes, reflectie, refractie, diffractie (<http://www.pl.euhou.net/docupload/files/Excersises/WorldAroundUs/Diffraction/Diffraction_and_Interference_v2.pdf>).
 
-## OHP
-If there is an OHP in the room, then 10 or 20 short demos could easily be added to this list. Think of the typical blue-purple or red-orange fringes around shadows of objects between lens and screen. One can create similar fringes by looking at windows or door openings through a big prism containing water. When the prism's triangle is pointing up, the red-yellow occurs above shades and the bluish-purple below shades. Turning the prism upside down gives the opposite effect. This is the key to explanation.
+## Beamer
+Als er een beamer in het lokaal is zijn er makkelijk 10 tot 20 experimenten die je extra kan doen. Denk aan de typische blauw-paarse of rood-oranje randjes rond schaduwen van voorwerpen die tussen een lens en een scherm staan. Je kan vergelijkbare randjes maken als je kijkt naar een raam of deuropening door een grote prisma waar water in zit. Als de driehoek van de prisma omhoog wijst, dan zal het rood-gele boven de schaduw onstaan en het blauw-paarse onder de schaduw. Als je de prisma omkeert zal je het tegenovergestelde effect zien. Dit is een belangrijk aspect van de uitleg. 
 
 ## Minnaert
-Marcel Minnaert was a well-known Flemish - Dutch astronomer who wrote a famous series of three books on physics in the environment. His book on light and color in the landscape was translated in English and appeared in 1954 {cite:p}`Minnaert1954, Minnaert1993`. He describes many simple experiments that he conducted with almost no tools and often surprising results. Check your knowledge of Physics in the environment against Minnaert's observations!
+Marcel Minnaert was een bekende Vlaams-Nederlandse astronoom die een bekende serie boeken schreef over natuurkunde in je omgeving. Zijn boek over licht en kleur zijn in het Engels vertaald en verschenen in 1954 {cite:p}`Minnaert1954, Minnaert1993`, Hij beschrijft veel simpele experimenten die je kan uitvoeren zonder apparatuur en die verrassende resultaten hebben. 
 
-## Other
-See {cite:p}`Wojewoda2017`  for simple optics experiments with a laser or laser pointer.
+## Overig
+Zie {cite:p}`Wojewoda2017` voor simpele optica experimenten met een laser of laserpointer. 
