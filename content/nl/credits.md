@@ -18,10 +18,9 @@ Dit boek bevat meer dan 200 demo's verzameld en/of bedacht door Ed van den Berg.
 
 ## Speciale dank
 Suzanne Schuurman heeft de bewerking gedaan van de Engelse versie van Broekzakdemos naar het Nederlands. 
-Iris ... heeft bij gedragen bij het maken van de foto's door veel van de demo's live te testen.
-
+Iris Brouwer heeft bij gedragen bij het maken van de foto's door veel van de demo's live te testen.
 
 ## Licentie
 CC-BY
 
-## 
+ 

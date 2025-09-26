@@ -80,16 +80,17 @@
 
 // COVERPAGE
   // Title, subtitle, 
-  align(center, text(17pt, weight: "bold", fill: theme, title))
-  if subtitle != none {
-    parbreak()
-    box(text(14pt, fill: gray.darken(30%), subtitle))
-  }
+  align(center, text(20pt, weight: "bold", fill: theme, title))
 
     if cover != none {
       v(1em)
       align(center, image(cover)) //, width: cover_width))
     }
+
+    if subtitle != none {
+    parbreak()
+    align(center, box(text(14pt, fill: gray.darken(30%), subtitle)))
+  }
 
   //author
   v(1em)
