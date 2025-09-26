@@ -38,8 +38,8 @@ project:
       id: output-pdf
       cover: cover.jpg
       ToC_depth: 1
-      # logo: 
-      # logo_width:
+      logo: logo.jpg
+      logo_width: 9
 
 
 
