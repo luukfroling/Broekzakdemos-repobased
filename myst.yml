@@ -31,7 +31,7 @@ project:
   exports:
     - format: typst
       template: ./template #https://github.com/myst-templates/plain_typst_book.git
-      output: outputs/200demos.pdf
+      output: outputs/200demosa5.pdf
       id: output-pdf
       cover: cover.jpg
       ToC_depth: 1

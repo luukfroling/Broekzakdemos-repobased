@@ -27,7 +27,7 @@
   description: "description",
 
   // SPECIFICATION
-  paper-size: "a4",       // https://typst.app/docs/reference/layout/page/#parameters-paper
+  paper-size: "a5",       // https://typst.app/docs/reference/layout/page/#parameters-paper
   margin: (),                          
   logo: none,
   logo_width: 10%,
