@@ -1,20 +1,19 @@
-# Oscillations and waves
+# Trillingen en golven
 
-## Pendulum, period, natural frequencies
-Always take a slinky to class, but if you did not, then you could do one of the following: A pendulum could be made of anything. For example, collect some student bags and show how each of them has its own oscillation period. Show different modes of oscillation of the bags: as a simple pendulum (two perpendicular directions of swing), as a torsion pendulum, etc.
+## Slingers, frequenties, en perioden
+Zorg dat er altijd een slinky in je tas zit, zeker bij het onderwerp trillingen en golven, maar als je die vergeten bent dan is er nog altijd de rijke leeromgeving van een kaal klaslokaal: Overal kun je een slinger van maken. Verzamel wat tassen van leerlingen en laat zien dat elke tas een typische periode (slingertijd T) heeft. Laat verschillende manieren van slingeren zien.  Bij een tas is er bv de lengterichting en dwars daarop. Maar ook een torsie slinger kun je met een tas mooi illustreren.
 
-## What affects periods
-By comparing the different bags as pendulums, and by taking things out or putting them inside (torsion pendulum), or changing lengths of straps, demonstrate factors which affect the period of the pendulums. This could also be a short class activity: finding out what affects the period of the "bag" pendulums. Make a list of what influences the period of a simple pendulum and/or what influences the period of a torsion pendulum.
+## Wat beïnvloedt de periode?
+Vergelijk de perioden van diverse tassen en probeer daar wat regels uit af te leiden. Maak bv de riemen langer en korter, verander de massa van de inhoud van de tas, verander de massaverdeling (torsieslinger), etc. Dat kan een korte klasactiviteit zijn in kleine groepjes (verkennend). 
 
-## Rulers and periods
-Take a ruler, make it stick out a bit {numref}`fig_ruler` from the table, let it vibrate and listen, change how much it sticks out, the pitch of the sound produced will change. Students can do this in their seats using their own rulers. Take two equal rulers but now attach some coins to the end of one of them. See what happens to the pitch of the sound and the frequency of the oscillation.
-
+## Linealen en periodes
+Neem een lineaal en leg hem zo op tafel dat hij een beetje uitsteekt {numref}`fig_ruler`. Laat de lineaal trillen en luister, als je verandert hoeveel de lineaal uitsteekt verandert de toon van het geluid. Leerlingen kunnen dit aan hun bureau doen met hun eigen lineaal. Neem vervolgens twee dezelfde linealen en bind op het uiteinde van een van de linealen wat muntjes vast. Bekijk wat er gebeurt met de toon van het geluid en de frequentie van de trilling. 
 
 ```{figure} ../images/20250513_115534.*
 :width: 60%
 :name: fig_ruler
 
-Change the mass at the end of the ruler and listen
+Verander de massa aan het einde van de lineaal en luister
 ```
 
 ```{iframe} https://www.youtube.com/embed/i__wDdiyqwo?si=oRDfJKD38Jj77kDS
@@ -23,30 +22,30 @@ Change the mass at the end of the ruler and listen
 :aspectratio: auto 16 / 9
 :align: center
 
-In slow-motion the difference in frequency can clearly be seen.
+Het verschil in frequentie is duidelijk te zien in slow-motion. 
 ```
 
-## Tension and pitch 
-Take a rubber band, stretch it a little, make it vibrate and walk around the classroom to let students hear. Now if I stretch the rubber further, will the pitch increase, decrease, or stay the same? Stretching will increase the tension resulting in a higher pitch, but increasing length will lower the pitch. Decreasing the density per length will also lower the pitch. So the pitch will not change much and be a bit unpredictable (source Wouter Spaan).
+## Spanning en frequentie in elastiek
+Neem wat breed elastiek, breng het in trilling en loop rond, wat voor toon horen de leerlingen? En als ik nu de spanning verhoog door het elastiek uit te rekken? Voorspel, hogere toon, lagere toon, of ???  Bij het uitrekken zal de toon niet zoveel verschillen, de spanning neemt toe (hogere toon) maar lengte en dichtheid per lengte-eenheid nemen af (lagere toon). (Bron: Wouter Spaan.)
 
 ```{figure} ../images/rubband.*
 :width: 60%
 :name: fig_rubband
 
-Change the tension and hear the change in pitch
+Verander de spanning en hoor een verschil in toon.
 ```
 
-## Resonance 1 with a pendulum
-Make a pendulum of any string and an object as bob. You could even take a computer mouse suspended from its electric wire. Let it swing. Give it a little push every time it reaches one of its two maxima. Resonance between push and pendulum! Or provide the little push after every two swings, or three swings, also that will be resonance which results in increasing the amplitude. Of course, a father or mother can do the same thing with a child on a swing.
+## Resonantie 1 met een pendulum
+Maak een pendulum met touw en een object als massa. Je zou zelfs een computer kunnen gebruiken die hangt aan zijn stekker. Laat de pendulum slingeren. Geef het een klein duwtje elke keer dat het een van zijn twee maxima bereikt. Dit is resonantie tussen het duwtje en het pendulum! Je kan ook een duwtje geven om de slinger, of elke drie slingers, dan is er ook resonantie wat ervoor zorgt dat de amplitude toeneemt. Ditzelfde principe geldt natuurlijk bij een vader of moeder met hun kind op een schommel. 
 
-## Resonance 2 blowing a swinging book to maximum heights
-@Liem1987[p300] demonstrates the principle of resonance with a pocketbook suspended from two strings like a swing (let a student hold the strings). The teacher then holds out the book at 45$^{\circ}$ with the question: "Would I be able to blow against the book until it is this far out 90$^{\circ}$?" The anticipated answer is "NO". Then hang the book vertically and blow with huffs *in phase* with the swings of the book. Of course, this is just like a swing on a playground.
+## Resonantie 2 een slingerend boek tot maximale hoogte blazen
+@Liem1987[p300] laat resonantie zien met een boekje dat hangt aan twee touwtjes, net als een schommel (laat een leerling de touwtjes vasthouden). De leraar houdt het boek op een hoek van 45$^{\circ}$ met de vraag: *Zou ik tegen het boek kunnen blazen tot het een hoek heeft van 90$^{\circ}$?* Het verwachtte antwoord is *Nee*. Hang het boek vervolgens naar beneden en blaas tegen het boek, *in fase* met de slingerende beweging van het boek. Dit is natuurlijk vergelijkbaar met een schommel in een speeltuin. 
 
-## In phase and out of phase
-Consider the previous pendulum, one can push in phase and there is resonance and the amplitude will increase. One could also push out of phase and the pendulum motion will be disturbed and could even be stopped.
+## In fase en uit fase
+Gebruik het pendulum zoals hierboven. Je kan in fase duwen tegen het boek en er is resonantie, dus zal de amplitude toenemen. Je kan ook uit fase tegen het boek duwen en de beweging van het pendulum zal gestoord of zelfs gestopt worden. 
 
-## Collisions of coins
-Have two coins *A* and *B* touching and a third *C* lengthwise at a few cm distance (figure 3). Then shoot *C* towards *B* while pressing *B* down with your finger. If *A* and *B* touch, then the momentum transfers very well to coin *A* even though *B* is not able to move. The transmission mechanism inside coin B must be a wave. *A* can also be put such that it is not quite in line with *CB* but still touching *B*. Also then momentum transfer takes place and A is launched under an angle.
+## Botsende munten
+Twee munten *A* en *B* (bv Euro’s) raken elkaar. Een andere munt *C* wordt eropaf geschoten terwijl *B* door de vinger wordt vastgedrukt tegen de tafel (figuur 3). De impuls wordt toch feilloos doorgegeven van *C* naar *A* ondanks het stevig vastdrukken van *B*. Verrassend. Je kunt *A* zelfs zo verschuiven dat *A* onder een hoek wegschiet. Het transmissie mechanisme voor de impuls moet wel een golf zijn (Subagyo & Berg, 1992). De experimenten zijn ook kwantitatief te maken, zie een recent artikel van Barbara Rovsek in The Physics Teacher (2021).
 
 ```{iframe} https://www.youtube.com/embed/8VUG2Z-j_NQ?si=hR_JjaREoq77-gWs
 :width: 60%
@@ -54,18 +53,17 @@ Have two coins *A* and *B* touching and a third *C* lengthwise at a few cm dista
 :aspectratio: auto 16 / 9
 :align: center
 
-Collision of coins with a small angle
+Botsende munten met een kleine hoek. 
 ```
 
+## Een golf visualiseren met leerlingen
+Zet 6 leerlingen op een rij voor de klas op armslengte van elkaar. Demonstreer een longitudinale golf door elke leerling achtereenvolgens een stap naar de buurman/vrouw te doen nemen en terug. Een compressie plant zich voort langs de rij. Dit heeft wat oefening nodig, dus wordt het geen 2 minuten demo maar 5 minuten. Maar dan kun je ook voortplanting van een verdunning demonstreren en zelfs voortplanting van een transversale golf. Een slinky is misschien beter, maar als je die vergeten was, of als de leerlingen wat slaperig zijn, dan werkt dit heel aardig. Leerlingen moeten weer heen-en-weer denken tussen verschillende representaties en dat is nuttig. 
 
-## Visualizing a wave with students
-Get 10 students up front each at arm's length from each other. Demonstrate a longitudinal wave by having one student at one end take a step towards his/her neighbor and back, then the next one, etc. A compression propagates accompanied by a rarefaction. Similarly for a rarefaction. Unfortunately, this sometimes takes a little practice. So it could take 5 minutes rather than the 2 for most demo's in this booklet. The slinky might be better, but if you forgot to bring it or if the heating of the room is insufficient and your students are a bit cold, or if the heating is too much and they are sleepy\.... this role play visualization might be useful. Of course, this way one could also simulate a transverse wave by having students in the line-up step forward or backward out of line. If all of them hold hands, they would even feel the force driving them back to equilibrium.
+## OHP?
+Als er dan toch ergens in de hoek van het lokaal nog een OHP zou staan en als je een Petri schaaltje hebt met een beetje water, dan kun je nog veel meer laten zien met golven: circulaire golven, reflecties, of zelfs interferentie door met twee vingers het wateroppervlak in beweging te brengen.
 
-## Other
-If there happens to be an OHP in the room and a glass of water or Petri dish, then many demo's on waves are possible: circular waves, reflections, or even interference by using two fingers or pencils as sources. And if there is a beamer, there are many nice video's and simulations of wave phenomena.
-
-## Beats, Moiré patterns
-These happen when two waves or patterns interfere. For example, two combs on top of each other which have slightly different spacing between the teeth. There are spots where the spaces in between coincide (constructive interference) and spots where the tooth of one comb coincides with the space of the other (destructive interference). When you put two combs at an angle with each other ({numref}`fig_haircombs1` and {numref}`fig_haircombs2`), you get nice patterns. Just borrow combs from the students. The same with lace or transparent curtains and other textiles. This also reminds us of beats for sound waves in which sounds are sometimes in phase and sometimes in opposite phase and this gives variations in the sound intensity.
+## Zwevingen, Moiré patronen
+Deze ontstaan wanneer twee golven of patronen interfereren. Bijvoorbeeld twee haarkammen op elkaar met ietsje verschillende afstand tussen de tanden geven plekken waar de tanden samenvallen (licht constructieve interferentie) en plekken waar de tanden in tegenfase zijn (donker, destructieve interferentie). Dat herinnert ons aan zwevingen bij geluid waarbij het geluid soms in fase is en soms in tegenfase, dat geeft periodieke variaties in geluidsintensiteit die we zwevingen noemen. Als je de kammen wat schuin op elkaar legt, dan krijg je mooie patronen. Hetzelfde gebeurt met vitrage en allerlei textiel. Vraag twee haarkammen van leerlingen. Goede kans dat de afstand tussen de tanden verschilt. Houd ze gedeeltelijk over elkaar en je ziet een Moire patroon ({numref}`fig_haircombs1` and {numref}`fig_haircombs2`). Als het niet lukt, vraag dan nog een paar kammen. Als het aantal tanden per cm net iets verschilt, krijg je donkere en lichtere banden. De lichtere waar de tanden bijna gelijk staan, en de donkere waar ze in tegenfase staan.
 
 ````{figure}
 :name: fig_haircombs
@@ -84,5 +82,5 @@ These happen when two waves or patterns interfere. For example, two combs on top
 
 ```
 
-Interference with haircombs
+Interferentie met kammen. 
 ````

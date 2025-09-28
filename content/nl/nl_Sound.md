@@ -1,57 +1,55 @@
-# Sound
+# Geluid
 
-## Natural sounds, frequencies, timbre
-Tap against all kinds of objects to illustrate that each object has its own sound. Compare big and small wooden objects and listen to the difference in pitch (frequency). Get students to predict whether the pitch of the next object will be higher or lower. Does it have anything to do with size? Be gentle with the windows. There is more than just pitch. Sounds from tapping on wood and tapping on glass are clearly distinguishable, even if the pitch is the same. Voices of people (but also of dogs) are clearly distinguishable: timbre.
+## Natuurlijke frequenties
+Tik tegen verschillende objecten in het lokaal om te laten horen dat elk object zijn eigen geluid heeft. Vergelijk grote en kleine houten objecten (of ander materiaal van dezelfde soort) en luister naar het verschil in toonhoogte. Vraag leerlingen te voorspellen of het geluid van het volgende object hoger of lager zal zijn en waarom. Wees voorzichtig met de ramen, maar ook die hebben een eigen toon. 
 
-## Pitch and length 1 with a clamped ruler
-Borrow a ruler from a student, clamp it between one hand and the table and have part of it stick out. Now activate the oscillation with the other hand. By making the end that sticks out longer or shorter, you can vary the pitch. You can even make it quantitative by singing do-re-mi and realizing that the frequency of the second "do" is twice the frequency of the first "do". That way you can find the relationship between length of the ruler and frequency. What should we do to the ruler to get twice the frequency?
+## Toonhoogte en lengte met een liniaal
+Leen een liniaal van een leerling, klamp die tussen hand en tafel en laat een deel uitsteken. Breng de liniaal in trilling met de andere hand en luister. Varieer de toonhoogte door het uitstekende deel langer en korter te maken. Het is zelfs mogelijk deze demo kwantitatief te maken door het zingen van do-re-mi want de tweede “do” heeft precies een 2x zo grote frequentie als de eerste “do”. Zo kun je de relatie vinden tussen lengte en frequentie. Verdubbelt de frequentie als je de uitstekende lengte halveert?
 
-## Pitch and length 2 with a straw
-Take a drinking straw. Flatten the end of the straw and cut out a triangle. Place the end of the straw in your mouth, holding your lips just where the cut ends and blow until an oboe sound is produced, shifting the straw a bit in or out of the mouth might help to get the right sound. Then while blowing, cut of small pieces of the straw {cite:t}`Liem1987`.
+## Toonhoogte en lengte met een rietje
+Neem een rietje. maak het uiteinde plat en knip er een driehoek van. Doe het uiteinde in je mond, met je lippen precies waar het ingeknipte deel eindigt. Blaas tot je een oboe geluid hoort, als je niets hoort kan je het rietje een beetje heen en weer bewegen tot je op de goede plek blaast. Knip vervolgens stukjes van het einde van het rietje terwijl je blaast {cite:t}`Liem1987`.
 
-What did we learn? One can take another straw, cut the triangle at the end, and cut hole at 1 -- 1.5 cm distance from each other. While blowing open and close the holes with your fingers. What did we learn? Which musical instruments work like that?
+Wat hebben we geleerd? Je kan een nieuw rietje pakken, een driehoek op het einde knippen en gaten knippen met ongeveer 1-1,5 cm ertussen. Terwijl je blaast kan je nu de gaten afdekken met je vingers. Wat hebben we nu geleerd? Welke muziekinstrumenten gebruiken dit principe? 
 
-
-## Standing waves in a PVC tube open and closed
-Take two pieces of PVC pipe, for example 10 cm and 20 cm long. Blow across the opening of one pipe. It produces a clear tone. Then close the bottom opening with your hand, and blow again. The tone is now much lower, very noticeable. With both ends open, the pipe fits ½ of a wavelength ($λ=2l$). With one side closed, it fits ¼ of a wavelength ($λ=4l$). It does help to have a microphone and sound box in the room to make the effect better audible for a group. I have done it with a sound system for groups of 150+ students. 
+## Staande golven in een open en afgesloten PVC buis
+Neem twee stukken PVC buis, bijvoorbeeld een van 10 cm lang en een van 20 cm lang. Blaas eroverheen en je krijgt een toon. Sluit de onderkant vervolgens af met je hand en de toon wordt veel lager. Bij een open buis past ½ golflengte ($\lambda = 2l$) in de buis, de grondtoon. Bij een halfopen buis is dat ¼ golflengte ($\lambda = 4l$), dus een veel lagere frequentie. Het helpt om een microfoon en box in het lokaal te hebben om het effect beter hoorbaar te maken voor de groep. Ik heb het gedaan voor een groep van 150+ studenten met behulp van een geluidssysteem.  
 
 ```{figure} ../images/panflute.jpg
 :width: 60%
 :name: fig_panflute
 
-Picture from [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) {cite:p}`pols2024show`
+Afbeelding van [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) {cite:p}`pols2024show`
 ```
+## PVC buis lengte en toon
+Gebruik nu de langere buis en laat opnieuw de link zien tussen de toon en de lengte. Je zou een soort panfluit kunnen maken met stukken PVC buis. Je zou de leerlingen de juiste lengtes kunnen laten bepalen aan de hand van de gewenste frequenties. 
 
-## PVC pipe length and pitch
-Then take the longer pipe and show again the link between pitch and length. One could make something similar to a pan flute using pieces of PVC pipe. You could assign students the task of figuring out the proper lengths given the desired frequencies.
+Zie ook [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) voor een uitgebreidere versie van deze demo.
 
-See also [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) for a more extensive version of this demo.
+## Toonhoogte meten met een telefoon
+Als je naar de les kwam om wat over geluid te vertellen, dan zou je mischien een speelgoedfluit meenemen. Kunnen de leerlingen de toon daarvan meten met hun telefoon?
 
-## Measuring pitch with a telephone
-Now if you came to class to teach about sound, you would bring a little toy flute? Can students measure the pitch with their telephones?
-
-## Mobile phone and graphing sound waves
-Use Phyphox or a similar program. Try to produce a near perfect sine wave. Ask a student who sings in a choir to sing an "o". Try a higher pitch, try a lower pitch. Try louder and less loud. Make sure not just to quickly show this on your small telephone, but sketch the graphs on the white or blackboard with clear names. Obviously much more can be done with mobile phones and graphs. For example with Phyphox.
+## Mobiele telefoon en grafieken van geluidsgolven
+Gebruik Phyphox of een vergelijkbaar programma. Probeer een bijna perfecte sinus te maken. Vraag een student die in een koor zingt om een "o" te zingen. Probeer met verschillende tonen, en verschillende volumes. Zorg ervoor dat je dit niet alleen snel op je telefoon laat zien, maar dat je de grafieken op het bord schetst met duidelijke namen. Je kan natuurlijk nog veel meer doen met mobiele telefoons en grafieken. 
 
 ```{figure} ../images/phyphox_sound.*
 :width: 50%
 :name: fig_ph
 
-Sound recorded using the [phyphox app](https://phyphox.org/).
+Geluid opgenomen met de [phyphox app](https://phyphox.org/).
 ```
 
-## Resonance in a bottle 
-Does somebody in class have a bottle? Some water in it yet? Or some soft drink? The instructor will drink a little bit at a time, then blow over the bottleneck to produce a sound and tick against the side of the bottle (hopefully glass). By the time the instructor gets through drinking the soft drink, one pitch has gone down consistently, the other has gone up. Now explain.
+## Resonantie in een fles 
+Heeft iemand in de klas een fles? Zit er nog wat water in, of frisdrank? De docent drinkt elke keer een beetje en blaast dan weer over de top van de fles en tikt er aan de zijkant tegen aan. Tegen de tijd dat de docent de frisdrank bijna op heeft, zullen beide frequenties nogal veranderd zijn, de ene steeds lager, de andere steeds hoger. Nu verklaren! Jammer dat tegenwoordig zoveel flessen van plastic zijn. Natuurlijk niet vergeten de gedronken cola of andere frisdrank of water even te vergoeden.
 
-## Resonance in a tea or coffee cup with ear
-The teacher entered the classroom with a (ceramic) cup of coffee and a (metal) spoon. Hit the outside of the cup with the spoon at different places. The pitch will be different, for example near the ear of the cup, or 90 or 180 degrees away from it, under and above the level of coffee. Drink some of the coffee and repeat. How do you explain the differences in pitch and type of sound? Different resonance modes are activated as well as different lengths of the liquid column. For more information see Show*de*Fysica 3 p56.
+## Resonantie in een koffie- of theekopje met het oor
+De docent is binnengekomen met een kopje koffie en een metalen lepeltje. Tik eens met het lepeltje op verschillende plekken tegen het kopje. Toonhoogte en timbre zullen verschillen. Bijvoorbeeld vlak bij het oor, of onder 90$^o$  of 180$^o$ van het oor, onder of boven de koffiespiegel. Drink dan wat op, je doet alles voor de natuurkunde, ook koffiedrinken. Herhaal dan bovenstaande acties. Hoe verklaar je de verschillen in toonhoogte en timbre? Door verschillen in resonantiemanieren die worden aangeslagen en verschillende lengtes van de vloeistofkolom. Zie Show*de*Fysica 3 p56 voor meer informatie. 
 
 ```{note}
-this works with some cups and not with others
+Dit werkt niet met alle kopjes.
 ```
 
-## $v_{sound} = f λ$ but velocity is independent of frequency and wave length! 
-Find some objects in the room, which can help you to simultaneously make a high pitch and low pitch sound and try to have students in the back judge for simultaneity of arrival of the sounds. Not so convincing? Imagine a big church or concert hall, how come choir music (try students in class) or any music at all is possible and is enjoyed by people regardless of their distance from the source? So the speed of sound must be the same for all audible frequencies so that luckily we can enjoy music.
+## $v_{geluid} = f λ$ maar snelheid is onafhankelijk van frequentie en golflengte! 
+Vind objecten in het lokaal waarmee je tegelijkertijd een hoge en lage toon kunt maken. Laat leerlingen beoordelen of het geluid wel/niet gelijk aankomt. Niet zo overtuigend? Dan maar redeneren, hoe komt het dat we kunnen genieten van een koor of orkest of band waarin tegelijkertijd hoge en lage tonen geproduceerd worden? Komen die hoge en lage tonen tegelijk aan bij onze oren, of niet? Als we verder van het podium zitten, is er dan verschil? 
 
-## Doppler simulation with marching students
-Take 5 or 6 students and line them up in a row in front of the class. The students are wave peaks (say compressions). Now let them march as a row towards the instructor at constant speed and students can observe how many pass the instructor in say 10 seconds. Now let them march again at the same speed, but the instructor also walks towards them. The instructor will meet the wave peaks in a shorter time than before and will observe a higher pitch. Repeat again but now the instructor is walking (slowly) in the same direction as the faster marching waves. The case of a moving source is more difficult to do this way but from the moving observer simulation, the students will happily accept a Doppler effect for a moving source.
+## Doppler simulatie met lopende leerlingen
+Neem 5 of 6 leerlingen en stel ze op in een rij. Deze leerlingen zijn de pieken van de golven. Laat ze als rij naar de stilstaande docent toelopen. Hoeveel pieken komt hij tegen in 10 seconden? Laat ze nu opnieuw lopen maar nu staat de docent niet stil maar loopt langzaam naar hen toe. De docent ziet nu meer pieken per tijdseenheid. Nu loopt de docent langzaam in dezelfde richting en wordt hij ingehaald door de rij golven. Etc.   Het geval van de bewegende waarnemer is dus vrij gemakkelijk te visualiseren. Het geval van de bewegende bron is lastiger. Denk aan een bewegende vrachtwagen waarop de rij leerlingen marcheert? 
