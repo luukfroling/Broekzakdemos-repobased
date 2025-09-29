@@ -26,7 +26,7 @@ Broekzakdemonstraties
 
 200 2 minuten demonstraties en visualisaties met gebruikelijke voorwerpen
 
-test 0.3 
+test 1.0 
 
 Auteur: Ed van den Berg
 

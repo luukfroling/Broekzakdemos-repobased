@@ -18,9 +18,20 @@ Dit boek bevat meer dan 200 demo's verzameld en/of bedacht door Ed van den Berg.
 
 ## Speciale dank
 Suzanne Schuurman heeft de bewerking gedaan van de Engelse versie van Broekzakdemos naar het Nederlands. 
-Iris Brouwer heeft bij gedragen bij het maken van de foto's door veel van de demo's live te testen.
+Iris Brouwer heeft bijgedragen aan het maken van de foto's door veel van de demo's live te testen.
 
 ## Licentie
 CC-BY
 
- 
+## Referentie
+Als u dit boek gebruikt, verwijs er dan naar als: 
+van den Berg, E. & Pols, F. (2025). Broekzakdemos. NVON. 
+
+```bibtex
+@book{vandenBergPols2025,
+    author    = {Ed van den Berg and Freek Pols},
+    title     = {Broekzakdemos},
+    year      = {2025},
+    publisher = {NVON}
+}
+```

@@ -22,14 +22,19 @@ Weer delfde opstelling. Terwijl de aarde haar baan om de zon aflegt, varieert he
 ## Komeet
 De zon is een lamp op tafel of een persoon in het midden van de klas. Er komt een komeet aan uit een willekeurige richting. Wat gebeurt er met de snelheid en richting van de komeet in de buurt van de zon? Laat andere leerlingen instructies geven aan de komeet hoe die moet versnellen/vertragen en/of van richting veranderen **(Frederik et al, 2015)**.
 
-## Tectonische platen visualiseren; botsing tussen twee dunne oceaanplaten
+## Komeetinslag
+Leg een hoopje zand, of meel op een tafel. Laat een kogel, stuiterbal, of pingpongbal van een bepaalde hoogte op het hoopje vallen. Wat gebeurt er? Hoe ziet de krater eruit? Wat gebeurt er als je de kogel van een grotere hoogte laat vallen? Wat gebeurt er als je een grotere kogel gebruikt? Vergelijk die kraters eens met de kraters op de maan? Er zijn genoeg foto's van zulke kraters te vinden!
+
+## Tectonische platen visualiseren
+### Botsing tussen twee dunne oceaanplaten
 De platen zijn dun, dus de ene plaat schuift makkelijk onder de andere plaat. Gebruik twee dunne boeken en laat die langzaam botsen met de ruggen tegen elkaar, een van de boeken schuift makkelijk onder de ander. De wrijving van echt tectonische platen wekt hitte op wat zorgt voor vulkanische eilanden. 
 
-## Tectonische platen visualiseren; botsing tussen een dunne oceaanplaat en een dikke continentale plaat
+### Botsing tussen een dunne oceaanplaat en een dikke continentale plaat
 Neem een dun en een dik boek en laat de ruggen langzaam botsen. Oceaanplaten hebben een hogere dichtheid, dus stel voor dat het dunne boek een hogere dichtheid heeft. Het dunne boek schuift onder het dukke boek. De wrijving van de echte platen wekt veel hitte op. Dit is de oorzaak van het vulcanisme van het Andesgebergte in Zuid-Amerika, het Cascadesgebergte in Noord-Amerika en de vulkanen langs de randen van Sumatra en Java in Indonesië.
 
-## Tectonische platen met eilanden visualiseren; aanslibbing
+### Met eilanden; aanslibbing
 Neem nu het dunne boek (oceaanplaat) met iets erop (een suikerklontje of iets dergelijks). Het dukke boek met hogere dichtheid schuift onder het dikke boek met lagere dichtheid (continentale plaat), maar het suikerklontje (net als een eiland) slibt aan bij de kust van de continentale plaat. Zulke aangeslibde voormalige eilanden heeft hele andere steensoorten dan het continent zelf. 
 
-## Tectonische platen visualiseren; botsing tussen twee dikke continentale platen
+### Botsing tussen twee dikke continentale platen
 Neem twee dikke boeken, laat ze tegen elkaar aan schuiven maar nu met de open kant naar elkaar toe. De pagina's zullen gaan buigen, net als de Alpen en het Himalayagebergte toen ze werden gevormd door twee continenten die tegen elkaar aan het duwen waren.
+

@@ -2,7 +2,7 @@
 In een kaal klaslokaal heb je verstrooid licht van buiten en soms zelfs direct zonlicht. Er zijn lampen aan het plafond, zaklampen in de telefoons van leerlingen, en licht van telefoonschermen. De leraar heeft misschien zelfs een laser in zijn of haar zak. Je zou met al deze verschillende lichtbronnen veel natuurkundeverschijnselen kunnen laten zien. 
 
 ## Voorafgaande vragen over de verplaatsing van lich
-De beste manier om een les over optica te beginnen is met een volledige donker lokaal met hooguit wat kaarslicht. Een leeg klaslokaal heeft waarschijnlijk geen verduisterende gordijnen, dus er moet geïmproviseerd worden met een kaars. Ik raad sterk aan om de fundamentele basis die normaal niet behandeld wordt nog een keer te bespreken en om de voorkennis van de leerlingen te bepalen. Waarom laat je ze niet individueel de volgende [@van1990student] keuzevragen beantwoorden:
+De beste manier om een les over optica te beginnen is met een volledige donker lokaal met hooguit wat kaarslicht. Een leeg klaslokaal heeft waarschijnlijk geen verduisterende gordijnen, dus er moet geïmproviseerd worden met een kaars. Ik raad sterk aan om de fundamentele basis die normaal niet behandeld wordt nog een keer te bespreken en om de voorkennis van de leerlingen te bepalen [@van1990student]. Waarom laat je ze niet individueel de volgende  keuzevragen beantwoorden:
 
 ```{figure} ../figures/04-1-1StraightLinePropagation.*
 :width: 40%
@@ -15,7 +15,7 @@ De beste manier om een les over optica te beginnen is met een volledige donker l
  A. Blijft bij de kaars \
  B. Verspreidt tot ongeveer halverwege jou \
  C. Verspreidt tot jou \
- D. Verspreidt tot het ergens tegenaan komt \
+ D. Verspreidt tot het ergens tegenaan komt 
 
 
 ```{figure} ../figures/04-1-2StraightLine.*
@@ -29,7 +29,7 @@ De beste manier om een les over optica te beginnen is met een volledige donker l
  A. Blijft bij de kaars\
  B. Verspreidt tot ongeveer halverwege jou \
  C. Verspreidt tot jou \
- D. Verpreidt tot het ergens tegenaan komt \ 
+ D. Verpreidt tot het ergens tegenaan komt 
 
 ```{figure} ../figures/04-1-3StraightLine.*
 :width: 40%
@@ -42,16 +42,16 @@ De beste manier om een les over optica te beginnen is met een volledige donker l
  A. Blijft bij het lampje\
  B. Verspreidt tot ongeveer halverwege jou \
  C. Verspreidt tot jou \
- D. Verpreidt tot het ergens tegenaan komt \ 
+ D. Verpreidt tot het ergens tegenaan komt 
 
 4. Vervolgens is het avond. Het licht van het lampje:
  A. Blijft bij het lampje\
  B. Verspreidt tot ongeveer halverwege jou \
  C. Verspreidt tot jou \
- D. Verpreidt tot het ergens tegenaan komt \ 
+ D. Verpreidt tot het ergens tegenaan komt 
 
 ## Wit licht en kleuren met alledaagse voorwerpen
-Er is altijd wel iets dat werkt als een prisma, bv het plastic van die goedkoopste doorzichtige Big pennen. Dan heb je een spectrum. Wie weet is er ook nog een jongen met een zakmes dat ook een lens heeft. Gebruik die om de kleuren weer bij elkaar te brengen en zie, wit licht! Als er een beamer in het lokaal is, zijn er meer mogelijkheden.
+Er is altijd wel iets dat werkt als een prisma, bv het plastic van die goedkoopste doorzichtige Bic pennen. Dan heb je een spectrum. Wie weet is er ook nog een jongen met een zakmes dat ook een lens heeft. Gebruik die om de kleuren weer bij elkaar te brengen en zie, wit licht! Als er een beamer in het lokaal is, zijn er meer mogelijkheden.
 
 ## Kleuren maken
 Van het vorige experiment hebben we misschien geleerd dat alles met een wig vorm, bijvoorbeeld goedkope balpennen met een hexagon erin, kleuren kunnen maken van wit licht. Je herkent die vormen overal, zoals de rand van een badkamerspiegel of een prisma. Kijk om je heen, heeft er iemand kleding of schoenen met glitter en kleuren? Zijn daar wig vormen aanwezig?
@@ -79,17 +79,19 @@ Er hebben vast studenten spiegeltjes in hun tas. Daarmee kun je van alles doen. 
 Kan je meer zien van je lichaam als je wegloopt van de spiegel?
 ```
 
-## Visualisatie van Snel's terugkaatsingswet in drie dimensies
+## Snellius
+### Visualisatie van Snell's terugkaatsingswet in drie dimensies
 We laten zelden zien wat het betekent dat de inkomende en gereflecteerde (of gebroken) lichtstralen in één vlak liggen. Neem 3 meetlatten, of bezemstelen, of stukken plastic pijp, of pennen/potloden van leerlingen. Eén daarvan wordt de normaal op de spiegel (of op het grensvlak van twee media). De andere twee worden respectievelijk de inkomende en de teruggekaatste (of gebroken) lichtstraal. Die moeten dus in één vlak liggen. Laat zien hoe het eruit ziet als die niet in een vlak zouden liggen. 
 
-## Snel's terugkaatsingswet met een laserpointer
+### Snell's terugkaatsingswet met een laserpointer
 Als er een laserpointer in het lokaal is, dan kun je natuurlijk ook een spiegeltje op de tafel leggen en daarmee laten zien dat invallende en uitgaande lichtstraal in een vlak liggen met de normaal. Let op dat je een platte spiegel gebruikt, geen holle. 
 
-## Snel's terugkaatsingswet met spelden
+### Snell's terugkaatsingswet met spelden
 Als je spelden hebt, dan kun je een rechtopstaand potlood of pen als voorwerp gebruiken en vanuit verschillende gezichtspunten heengaande en teruggekaatste lichtstralen vastprikken en door verlenging de locatie van het virtuele voorwerp vinden. Zie een hele serie simpele en nuttige experimenten in {cite:p}`McDermott1996`.
 
-## Breking 1: potlood schuin in een glas water
-Wandel rond met een potlood schuin in een glas water, of in een vierkante container. 
+## Breking
+### Potlood schuin in een glas water
+Wandel rond met een potlood schuin in een glas water, of in een vierkante container. Laat leerlingen beschrijven wat ze zien.
 
 ```{figure} ../images/20250513_110031.*
 :width: 60%
@@ -98,7 +100,7 @@ Wandel rond met een potlood schuin in een glas water, of in een vierkante contai
 Een gebroken potlood?
 ```
 
-## Breking 2: potlood rechtop in een glas water
+### Potlood rechtop in een glas water
 Steek je vinger of een potlood in een rond glas water. Loop zwijgend de klas rond terwijl je de vinger van voor naar achter en terug beweegt. Leerlingen zullen verbaasd zijn met die gezwollen vinger. Een snelle uitleg is dat het water als lens fungeert. Een betere uitleg met stralendiagrammen kan meer dan 10 minuten in beslag nemen, of een goede opdracht voor leerlingen zijn.
 
 ```{figure} ../images/pencil.*
@@ -108,9 +110,9 @@ Steek je vinger of een potlood in een rond glas water. Loop zwijgend de klas ron
 Beweeg het potlood heen en weer en beschrijf wat je ziet.
 ```
 
-## Breking 3: pijlen gezien door lucht en door een glas water
-(Tsjechische contributie voor Physics on Stage, {cite:p}`Nugent2010`) 
-Teken enkele parallelle pijlen op een kaartje of stukje papier. Houd dit object achter een glas water dat half gevuld is, zo dat enkele pijlen alleen gezien worden door het water en andere pijlen alleen door de lucht in het glas. Als het object verder van het centrum van het glas is dan de brandpuntsafstand, dan zijn de pijlen gezien door het water omgekeerd {numref}`fig_arrow`. 
+### Pijlen gezien door lucht en door een glas water
+(Tsjechische contributie voor Physics on Stage, {cite:p}`Nugent2010`)  
+Teken enkele parallelle pijlen op een kaartje of stukje papier. Houd dit object achter een glas water dat half gevuld is, zo dat enkele pijlen alleen gezien worden door het water en andere pijlen alleen door de lucht in het glas. Als het object verder van het centrum van het glas is dan de brandpuntsafstand, dan zijn de pijlen gezien door het water omgekeerd {numref}`Figuur {number} <fig_arrow>`. 
 
 ```{figure} ../images/20250513_103744.*
 :width: 60%
@@ -119,9 +121,8 @@ Teken enkele parallelle pijlen op een kaartje of stukje papier. Houd dit object 
 Wijzen de pijlen dezelfde kant op?
 ```
 
-
-## Breking 4: Natuurkunde is leuk in het zwembad
-Vraag de leerlingen om het stralendiagram uit {numref}`fig_pool` te tekenen. Loop rond om te kijken wat veelvoorkomende fouten zijn. Bespreek ze en vraag vervolgens aan de leerlingen hoe ze een model kunnen maken met een lego-poppetje of een potlood en doe hun suggesties voor. 
+### Natuurkunde is leuk in het zwembad
+Vraag de leerlingen om het stralendiagram uit {numref}`Figuur {number} <fig_pool>` te tekenen. Loop rond om te kijken wat veelvoorkomende fouten zijn. Bespreek ze en vraag vervolgens aan de leerlingen hoe ze een model kunnen maken met een lego-poppetje of een potlood en doe hun suggesties voor. 
 
 ```{figure} ../images/20250513_100315.*
 :width: 60%
@@ -132,7 +133,7 @@ Natuurkundeplezier in het zwembad
 
 
 ## Felle versus donkere achtergrond
-Doe het licht van het lokaal uit. De leraar of een leerling staat tegen de muur tegenover de ramen. Hun gezicht is duidelijk zichtbaar omdat er meer licht wordt gereflecteerd door het gezicht dan door de achtergrond. Vervolgens gaat de leraar of leerling voor de ramen staan met hun gezicht naar de klas. Nu is het gezicht donker en onduidelijk, omdat er veel minder licht gereflecteerd wordt door het gezicht dan er door de ramen komt. Als je het licht in het lokaal aan doet is het gezicht weer beter zichtbaar. {numref}`fig_tulip` laat hetzelfde effect zien. 
+Doe het licht van het lokaal uit. De leraar of een leerling staat tegen de muur tegenover de ramen. Hun gezicht is duidelijk zichtbaar omdat er meer licht wordt gereflecteerd door het gezicht dan door de achtergrond. Vervolgens gaat de leraar of leerling voor de ramen staan met hun gezicht naar de klas. Nu is het gezicht donker en onduidelijk, omdat er veel minder licht gereflecteerd wordt door het gezicht dan er door de ramen komt. Als je het licht in het lokaal aan doet is het gezicht weer beter zichtbaar. {numref}`Figuur {number} <fig_tulip>` laat hetzelfde effect zien. 
 
 ```{figure} ../figures/tulip.*
 :width: 60%
@@ -145,8 +146,9 @@ Heeft de tulp een andere kleur gekregen?
 ## Pupil, diafragma
 Verdeel de leerlingen in groepjes van twee. Ze moeten het samentrekken van elkaars pupil bekijken. Maak het lokaal donker of laat de leerlingen hun ogen bedekken. Doe vervolgens het licht aan. Kunnen de leerlingen zien dat de pupillen van de ander samentrekken? Herhaal dit een keer om het nog beter te kunnen zien. 
 
-## Reflectie en transmissie 1
-Neem een stukje papier, maak het een beetje nat in het midden met water, olie, of wat spuug. Houd het dan voor het raam of voor een lamp. Het natte deel ziet er lichter uit dan het droge (donkere) deel. Het natte deel heeft een hogere transmissie. Leg het nu op tafel waar het papier licht reflecteert. Nu ziet de natte plek er juist donker uit. Die natte plek heeft dus een betere transmissie maar daardoor minder reflectie. Leerlingen kunnen dit zelf proberen, even aan de vinger liken, op papier drukken, op tafel leggen (reflectie) en omhooghouden richting raam (transmissie) {numref}`fig_trans`.
+## Reflectie en transmissie
+### Met nat paper
+Neem een stukje papier, maak het een beetje nat in het midden met water, olie, of wat spuug. Houd het dan voor het raam of voor een lamp. Het natte deel ziet er lichter uit dan het droge (donkere) deel. Het natte deel heeft een hogere transmissie. Leg het nu op tafel waar het papier licht reflecteert. Nu ziet de natte plek er juist donker uit. Die natte plek heeft dus een betere transmissie maar daardoor minder reflectie. Leerlingen kunnen dit zelf proberen, even aan de vinger liken, op papier drukken, op tafel leggen (reflectie) en omhooghouden richting raam (transmissie) {numref}`Figuur {number} <fig_trans>`.
 
 ```{figure} ../figures/04-15ReflectionTransmission.*
 :width: 60%
@@ -155,8 +157,7 @@ Neem een stukje papier, maak het een beetje nat in het midden met water, olie, o
 De natte plek ziet er licht uit, transmissie. 
 ```
 
-
-## Reflectie en transmissie 2
+### Met LED's
 Hebben leerlingen fiets ledjes bij zich? Verduister het lokaal. Neem twee ledjes, houd het papier met de olie of watervlek ertussenin, en zoek een punt waar reflectie en transmissie gelijk zijn. Je kunt er zelfs een fotometer van maken. Zie verder [exploratorium](https://www.exploratorium.edu/snacks/oil-spot-photometer). Je kunt lampen met verschillende vermogen vergelijken.
 
 ## Accomodatie van het oog
@@ -175,13 +176,11 @@ Sluit je ogen tot een klein spleetje en kijk naar een lamp. Het licht verlengt t
 Er is nog meer te zien in het oog zelf zoals draadjes die zweven in de oogvloeistof en het best te zien zijn tegen een egale achtergrond zoals de blauwe lucht of het plafond van de klas. Zie <http://en.wikipedia.org/wiki/Entoptic_phenomenon> voor een betere beschrijving en andere waarnemingen in onze ogen.
 
 ## Parallax
-Laat de leerlingen hun rechteroog sluiten en dan een pen op armslengte omhoog houden, zó dat die op één lijn ligt met oog en een verticale streep op het bord. Laat ze nu het rechteroog openen en het linkeroog sluiten. De pen is niet langer precies voor die streep want we kijken ernaar vanuit een net iets andere hoek. Dat is parallax. Hoe verder de verticale streep op het bord, hoe kleiner het verschil. Met parallax kun je dus afstand bepalen. Zie {numref}`fig_paral` voor de schijnbare verschuiving van pen tegen de achtergrond.
+Laat de leerlingen hun rechteroog sluiten en dan een pen op armslengte omhoog houden, zó dat die op één lijn ligt met oog en een verticale streep op het bord. Laat ze nu het rechteroog openen en het linkeroog sluiten. De pen is niet langer precies voor die streep want we kijken ernaar vanuit een net iets andere hoek. Dat is parallax. Hoe verder de verticale streep op het bord, hoe kleiner het verschil. Met parallax kun je dus afstand bepalen. Zie {numref}`Figuur {number} <fig_paral>` voor de schijnbare verschuiving van pen tegen de achtergrond.
 
 ```{figure} ../figures/parallax.*
 :width: 100%
 :name: fig_paral
-
-De pen
 
 De pen, op armsafstand van de camera (het oog), staat precies op de rand van het batik schilderij. Wanneer de camera zo’n 5 cm naar links wordt verschoven (= afstand tussen de ogen), is de pen niet verschoven maar lijkt verschoven. Hoe verder de muur met batik, des te kleiner de verschuiving
 ```
@@ -190,7 +189,7 @@ De pen, op armsafstand van de camera (het oog), staat precies op de rand van het
 Kijk met twee ogen naar een pen die je op armslengte houdt tegen een verticale lijn op het bord. Doe je linkeroog dicht, vervolgens open je linkeroog weer en sluit het rechteroog. Als de pen ogenschijnlijk sterk verschuift bij een gesloten rechteroog en relatief weinig bij een gesloten linkeroog, dan is het rechteroog dominant en het linkeroog mogelijk lui. Zo is dat bij mij. Ik heb al van jongsaf aan een lui linkeroog. Je kunt natuurlijk alle leerlingen dit zelf laten uitproberen.
 
 ## Diepte zien 1
-Twee ogen zijn beter dan een, vooral in het zien van diepte en schatten van afstanden. Laat elke leerling een pen/potlood in zowel linkerhand als rechterhand nemen {numref}`fig_depth`. Beweeg die handen even willekeurig heen-en-weer, laat alle leerlingen dan één oog dicht doen en dan de pennen naar elkaar toe bewegen totdat de punten elkaar raken. Met een oog dicht zit je er gauw naast, met twee ogen open is het heel makkelijk. Het experiment kan ook met de twee wijsvingers gedaan worden, maar met potlood/pen is het effect dramatischer.
+Twee ogen zijn beter dan een, vooral in het zien van diepte en schatten van afstanden. Laat elke leerling een pen/potlood in zowel linkerhand als rechterhand nemen {numref}`Figuur {number} <fig_depth>`. Beweeg die handen even willekeurig heen-en-weer, laat alle leerlingen dan één oog dicht doen en dan de pennen naar elkaar toe bewegen totdat de punten elkaar raken. Met een oog dicht zit je er gauw naast, met twee ogen open is het heel makkelijk. Het experiment kan ook met de twee wijsvingers gedaan worden, maar met potlood/pen is het effect dramatischer.
 
 ```{figure} ../figures/04-24SeeingDepth.*
 :width: 100%
