@@ -9,7 +9,7 @@ Probeer allerlei voorwerpen en materialen. Stenen zinken, hout drijft. Grote en 
 
 
 ## Drijven en zinken 2
-Heeft iemand een mandarijntje bij zich? Zal het drijven of zinken? Waarom? Probeer het. Pel het dan af. Zullen de partjes drijven of zinken? Waarom? Probeer het. Probeer eventueel ander fruit. Zie figuren 30 en 31 voor resultaat. De ongepelde mandarijn bevat nog lucht onder de schil. De partjes bevatten vooral water maar met suikers die zorgen voor een dichtheid groter dan water.
+Heeft iemand een mandarijntje bij zich? Zal het drijven of zinken? Waarom? Probeer het. Pel het dan af. Zullen de partjes drijven of zinken? Waarom? Probeer het. Probeer eventueel ander fruit. Zie {numref}`Figuur {number} <fig_float>` voor het resultaat. De ongepelde mandarijn bevat nog lucht onder de schil. De partjes bevatten vooral water maar met suikers die zorgen voor een dichtheid groter dan water.
 
 ```{figure} ../figures/float.*
 :width: 90%
@@ -17,8 +17,6 @@ Heeft iemand een mandarijntje bij zich? Zal het drijven of zinken? Waarom? Probe
 
 Een mandarijntje drijft en zinkt...
 ```
-
-
 
 ## Adhesie in een glas water
 Zie hoe het wateroppervlak in een glas tegen de wanden op staat? Adhesie, aantrekkingskracht tussen twee verschillende stoffen, hier water en glas. Zou adhesie sterker of zwakker zijn in een plastic beker? Even proberen. Zichtbaar of niet?
@@ -30,7 +28,8 @@ Maak een muntje schoon onder de kraan, droog het helemaal af en leg het op een k
 Je eet koekjes of speculaas, of cake en er vallen kruimels. Hoe pak je die op als ze klein zijn? Juist, even aan de vinger likken en dan vinger op de kruimel en dan plakt de kruimel aan je vinger. Adhesie! Het is ook een manier om vuiltjes van je toetsenbord te verwijderen, niet opeten. 
 
 ## Capillariteit 1
-Als je een dun glazen buisje hebt (bijvoorbeeld een glazen ‘rietje’), steek het in een glas water en zie het water in het buisje omhoog gaan, iets hoger dan in de rest van het glas (FOTO). Als er geen glazen buisje is, steek dan een strookje papier aan een kant in het water en dat zal omhoog klimmen in het papier. Hetzelfde verschijnsel is te zien in een menselijke haar, of de haren van een schilderkwast. Capilla is het Latijnse woord voor haar. Capillariteit kan gezien worden als een touwtrekwedstrijd tussen adhesie en zwaartekracht. Het water klimt tegen de wand van glas en wordt naar beneden getrokken door de zwaartekracht. In hele dunne buisjes is zwaartekracht veel kleiner vergeleken met adhesie dan in wijdere buisjes. 
+Als je een dun glazen buisje hebt (bijvoorbeeld een glazen ‘rietje’), steek het in een glas water en zie het water in het buisje omhoog gaan, iets hoger dan in de rest van het glas. Als er geen glazen buisje is, steek dan een strookje papier aan een kant in het water en dat zal omhoog klimmen in het papier. Hetzelfde verschijnsel is te zien in een menselijke haar, of de haren van een schilderkwast. Capilla is het Latijnse woord voor haar. Capillariteit kan gezien worden als een touwtrekwedstrijd tussen adhesie en zwaartekracht. Het water klimt tegen de wand van glas en wordt naar beneden getrokken door de zwaartekracht. In hele dunne buisjes is zwaartekracht veel kleiner vergeleken met adhesie dan in wijdere buisjes.  
+Je kunt ook van twee glaasjes een wig maken, met een elastiekje om de glaasjes en aan een zijde bijvoorbeeld een lucifer. De hoogte van het water is afhankelijk van de afstand tussen de plaatjes.
 
 ## Capillariteit 2
 Breng een suikerklontje en een kop koffie uit de personeelskamer. Doop een kant van het klontje in de koffie. De koffie *klimt* snel omhoog, capillariteit!
@@ -62,7 +61,7 @@ Meniscus boven de rand (bol).
 ```
 
 ## Chromatografie
-Neem een strookje papier, zet een stip met een zwarte viltpen, hang de strook in water dat net onder de stip rijkt. Laat een tijdje hangen. Het water komt omhoog (Capillaire beweging) en de inkt blijkt een mengsel te zijn van pigmenten met verschillende kleuren: chromatografie! Verschillende pigmenten blijken met verschillende snelheden met het water naar boven te migreren. Dit is echt Scheikunde, het scheiden van stoffen. Er kan van alles gevarieerd worden, de vloeistof (water of alcohol, of menging in verschillende verhoudingen, zoutoplossingen), soorten papier, soorten inkt. Google op chromatography in the classroom en er zijn talloze [experimentele mogelijkheden](https://edu.rsc.org/primary-science/kitchen-roll-chromatography/4012057.article). Zie ook de site van de Royal Society of Chemistry in UK: \url{https://edu.rsc.org/ideas/5-ways-to-teach-paper-chromatography/4016117.article}
+Neem een strookje papier, zet een stip met een zwarte viltpen, hang de strook in water dat net onder de stip rijkt. Laat een tijdje hangen. Het water komt omhoog (Capillaire beweging) en de inkt blijkt een mengsel te zijn van pigmenten met verschillende kleuren: chromatografie! Verschillende pigmenten blijken met verschillende snelheden met het water naar boven te migreren. Dit is echt Scheikunde, het scheiden van stoffen. Er kan van alles gevarieerd worden, de vloeistof (water of alcohol, of menging in verschillende verhoudingen, zoutoplossingen), soorten papier, soorten inkt. Google op chromatography in the classroom en er zijn talloze [experimentele mogelijkheden](https://edu.rsc.org/primary-science/kitchen-roll-chromatography/4012057.article). Zie ook de [site van de Royal Society of Chemistry in UK](https://edu.rsc.org/ideas/5-ways-to-teach-paper-chromatography/4016117.article).
 
 ## Luchtdruk: Een rietje en een glas water
 Doop het rietje in het glas en haal het er weer uit. Leeg. Doop het rietje in het water en sluit de bovenkant af met een natte vinger, en haal het dan uit het water met de bovenkant nog steeds afgesloten. Waarom blijft er water in zitten? Dit is ook een manier om kleine hoeveelheden water van het ene glas in het andere te brengen. Je kunt die hoeveelheden zelfs meten door een schaalverdeling te maken op het rietje, vooral op die mooie glazen “rietjes” van Blokker.

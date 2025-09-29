@@ -7,7 +7,7 @@ Tik tegen verschillende objecten in het lokaal om te laten horen dat elk object 
 Leen een liniaal van een leerling, klamp die tussen hand en tafel en laat een deel uitsteken. Breng de liniaal in trilling met de andere hand en luister. Varieer de toonhoogte door het uitstekende deel langer en korter te maken. Het is zelfs mogelijk deze demo kwantitatief te maken door het zingen van do-re-mi want de tweede “do” heeft precies een 2x zo grote frequentie als de eerste “do”. Zo kun je de relatie vinden tussen lengte en frequentie. Verdubbelt de frequentie als je de uitstekende lengte halveert?
 
 ## Toonhoogte en lengte met een rietje
-Neem een rietje. maak het uiteinde plat en knip er een driehoek van. Doe het uiteinde in je mond, met je lippen precies waar het ingeknipte deel eindigt. Blaas tot je een oboe geluid hoort, als je niets hoort kan je het rietje een beetje heen en weer bewegen tot je op de goede plek blaast. Knip vervolgens stukjes van het einde van het rietje terwijl je blaast {cite:t}`Liem1987`.
+Neem een rietje. maak het uiteinde plat en knip er een driehoek van. Doe het uiteinde in je mond, met je lippen precies waar het ingeknipte deel eindigt. Blaas tot je een oboe geluid hoort, als je niets hoort kan je het rietje een beetje heen en weer bewegen tot je op de goede plek blaast. Knip vervolgens stukjes van het einde van het rietje terwijl je blaast [@Liem1987].
 
 Wat hebben we geleerd? Je kan een nieuw rietje pakken, een driehoek op het einde knippen en gaten knippen met ongeveer 1-1,5 cm ertussen. Terwijl je blaast kan je nu de gaten afdekken met je vingers. Wat hebben we nu geleerd? Welke muziekinstrumenten gebruiken dit principe? 
 
@@ -42,9 +42,9 @@ Geluid opgenomen met de [phyphox app](https://phyphox.org/).
 Heeft iemand in de klas een fles? Zit er nog wat water in, of frisdrank? De docent drinkt elke keer een beetje en blaast dan weer over de top van de fles en tikt er aan de zijkant tegen aan. Tegen de tijd dat de docent de frisdrank bijna op heeft, zullen beide frequenties nogal veranderd zijn, de ene steeds lager, de andere steeds hoger. Nu verklaren! Jammer dat tegenwoordig zoveel flessen van plastic zijn. Natuurlijk niet vergeten de gedronken cola of andere frisdrank of water even te vergoeden.
 
 ## Resonantie in een koffie- of theekopje met het oor
-De docent is binnengekomen met een kopje koffie en een metalen lepeltje. Tik eens met het lepeltje op verschillende plekken tegen het kopje. Toonhoogte en timbre zullen verschillen. Bijvoorbeeld vlak bij het oor, of onder 90$^o$  of 180$^o$ van het oor, onder of boven de koffiespiegel. Drink dan wat op, je doet alles voor de natuurkunde, ook koffiedrinken. Herhaal dan bovenstaande acties. Hoe verklaar je de verschillen in toonhoogte en timbre? Door verschillen in resonantiemanieren die worden aangeslagen en verschillende lengtes van de vloeistofkolom. Zie Show*de*Fysica 3 p56 voor meer informatie. 
+De docent is binnengekomen met een kopje koffie en een metalen lepeltje. Tik eens met het lepeltje op verschillende plekken tegen het kopje. Toonhoogte en timbre zullen verschillen. Bijvoorbeeld vlak bij het oor, of onder 90$^{\circ}$  of 180$^{\circ}$ van het oor, onder of boven de koffiespiegel. Drink dan wat op, je doet alles voor de natuurkunde, ook koffiedrinken. Herhaal dan bovenstaande acties. Hoe verklaar je de verschillen in toonhoogte en timbre? Door verschillen in resonantiemanieren die worden aangeslagen en verschillende lengtes van de vloeistofkolom. Zie Show*de*Fysica 3 [@showdefysica3, p56] voor meer informatie. 
 
-```{note}
+```{warning}
 Dit werkt niet met alle kopjes.
 ```
 

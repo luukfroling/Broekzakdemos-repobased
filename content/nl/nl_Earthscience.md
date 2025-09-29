@@ -20,7 +20,7 @@ Zelfde opstelling als bij de baan van aarde rond de zon. Kies een leerling op de
 Weer delfde opstelling. Terwijl de aarde haar baan om de zon aflegt, varieert het zicht op de verre sterrenhemel een beetje. Dichtbije sterren lijken ietsje te bewegen tegen de achtergrond van verre sterren.
 
 ## Komeet
-De zon is een lamp op tafel of een persoon in het midden van de klas. Er komt een komeet aan uit een willekeurige richting. Wat gebeurt er met de snelheid en richting van de komeet in de buurt van de zon? Laat andere leerlingen instructies geven aan de komeet hoe die moet versnellen/vertragen en/of van richting veranderen **(Frederik et al, 2015)**.
+De zon is een lamp op tafel of een persoon in het midden van de klas. Er komt een komeet aan uit een willekeurige richting. Wat gebeurt er met de snelheid en richting van de komeet in de buurt van de zon? Laat andere leerlingen instructies geven aan de komeet hoe die moet versnellen/vertragen en/of van richting veranderen [@showdefysica1].
 
 ## Komeetinslag
 Leg een hoopje zand, of meel op een tafel. Laat een kogel, stuiterbal, of pingpongbal van een bepaalde hoogte op het hoopje vallen. Wat gebeurt er? Hoe ziet de krater eruit? Wat gebeurt er als je de kogel van een grotere hoogte laat vallen? Wat gebeurt er als je een grotere kogel gebruikt? Vergelijk die kraters eens met de kraters op de maan? Er zijn genoeg foto's van zulke kraters te vinden!

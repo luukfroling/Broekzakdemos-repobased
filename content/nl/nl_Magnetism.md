@@ -13,7 +13,7 @@ Vervolgens de gemagnetiseerde naald of paperclip in een kaarsvlam houden en late
 De functie hiervan is om aan te voelen wanneer de telefoon gebruikt wordt en wanneer hij gesloten is om het scherm aan en uit te doen en zo batterij te besparen. Er zitten meer magneten in een telefoon, bijvoorbeeld in de microfoon (om geluid om te zetten in elektrische signalen) en in de speakers (om elektrische signalen om te zetten in geluid). 
 
 ## Kompas
-Heeft iemand een zakmes met kompas? Laat daarmee dan inclinatie en declinatie zien. Wat is de geografische noordpool? Wat is de magnetische noordpool? Zijn die hetzelfde of is er verschil? Gebruik een opgeblazen ballon als aardbol om deze begrippen te illustreren. Kunnen leerlingen een plek aanwijzen waar de richting van geografische en magnetische noordpool 180$^o$ verschillen?
+Heeft iemand een zakmes met kompas? Laat daarmee dan inclinatie en declinatie zien. Wat is de geografische noordpool? Wat is de magnetische noordpool? Zijn die hetzelfde of is er verschil? Gebruik een opgeblazen ballon als aardbol om deze begrippen te illustreren. Kunnen leerlingen een plek aanwijzen waar de richting van geografische en magnetische noordpool 180$^{\circ}$ verschillen?
 
 
 ## Kompas op mobiele telefoon

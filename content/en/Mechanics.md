@@ -348,7 +348,7 @@ FOTO
 Illustrate torque opening the door, turning a doorknob, or tilting the chair. With torque we make things turn around an axis.
 
 ## Torque and distance from axis
-Again, use the door. Push with your finger at the end, the door moves easily but the finger has to move a great distance to turn the door through 90$^o$. Now push close to the hinges. The force needed to move the door is much greater, but the finger only has to move a short distance to move the door 90$^o$.
+Again, use the door. Push with your finger at the end, the door moves easily but the finger has to move a great distance to turn the door through 90$^{\circ}$. Now push close to the hinges. The force needed to move the door is much greater, but the finger only has to move a short distance to move the door 90$^{\circ}$.
 
 ## Moment of force 1 stretched arm and bag of books
 Take a student's bag with books, hold it at arm's length and then hold it next to your body. Which one is easier? The moment of force, the product of force times arm, is greatest at arm's length and we can feel that very well. Let the students do this themselves with their bags.
