@@ -7,7 +7,7 @@ numbering:
 
 # Inleiding
 
-Stel je krijgt ineens een ander lokaal toegewezen, of je moet onverwachts invallen. Je hebt geen demonstratieapparatuur mee en vind jezelf in een kaal lokaal en het cabinet is op een andere verdieping. *Wat kun je dan toch doen om een inspirerende les te geven met concrete voorbeelden?* 
+Stel je krijgt ineens een ander lokaal toegewezen, of je moet onverwachts invallen. Je hebt geen demonstratieapparatuur mee en vind jezelf in een kaal lokaal en het kabinet is op een andere verdieping. *Wat kun je dan toch doen om een inspirerende les te geven met concrete voorbeelden?* 
 
 We gaan uit van wat er in een standaard lokaal aanwezig is, tafels, bord, krijt, ramen, stoelen, leerlingen, en de inhoud van broekzakken en tassen van leerlingen. Kun je dan toch demonstraties doen? Ja, heel veel zelfs. De aard van de demonstraties varieert. Sommige zijn om iets experimenteel te bewijzen, maar de meeste zijn bedoeld om verschijnselen te laten zien en te koppelen aan vakbegrippen en heen-en-weer te denken tussen verschijnselen en begrippen. Er zijn ook enkele rollenspelen voor als leerlingen moeilijk stil kunnen zitten, of juist slaperig zijn, of wanneer de docent gewoon even iets heel anders wil doen. 
 
