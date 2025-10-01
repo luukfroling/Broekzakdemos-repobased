@@ -7,13 +7,13 @@ Zorg dat er altijd een slinky in je tas zit, zeker bij het onderwerp trillingen 
 Vergelijk de perioden van diverse tassen en probeer daar wat regels uit af te leiden. Maak bv de riemen langer en korter, verander de massa van de inhoud van de tas, verander de massaverdeling (torsieslinger), etc. Dat kan een korte klasactiviteit zijn in kleine groepjes (verkennend). 
 
 ## Linealen en periodes
-Neem een lineaal en leg hem zo op tafel dat hij een beetje uitsteekt {numref}`Figuur {number} <fig_ruler>`. Laat de lineaal trillen en luister, als je verandert hoeveel de lineaal uitsteekt verandert de toon van het geluid. Leerlingen kunnen dit aan hun bureau doen met hun eigen lineaal. Neem vervolgens twee dezelfde linealen en bind op het uiteinde van een van de linealen wat muntjes vast. Bekijk wat er gebeurt met de toon van het geluid en de frequentie van de trilling. 
+Neem een liniaal en leg hem zo op tafel dat hij een beetje uitsteekt {numref}`Figuur {number} <fig_ruler>`. Laat de liniaal trillen en luister, als je verandert hoeveel de liniaal uitsteekt verandert de toon van het geluid. Leerlingen kunnen dit aan hun bureau doen met hun eigen liniaal. Neem vervolgens twee dezelfde linealen en bind op het uiteinde van een van de linealen wat muntjes vast. Bekijk wat er gebeurt met de toon van het geluid en de frequentie van de trilling. 
 
 ```{figure} ../images/20250513_115534.*
 :width: 60%
 :name: fig_ruler
 
-Verander de massa aan het einde van de lineaal en luister
+Verander de massa aan het einde van de liniaal en luister
 ```
 
 ```{iframe} https://www.youtube.com/embed/i__wDdiyqwo?si=oRDfJKD38Jj77kDS

@@ -60,7 +60,7 @@ const iframeTransform = {
                             type: "image",
                             url: `../images/qrcode_${node.qr_index}.svg`, // updated to .svg
                             alt: "QR code",
-                            title: "scan the QR code to open the link",
+                            title: "scan de QR code voor het filmpje, of click op de link",
                             width: "200px",
                             align: "center"
                         },
@@ -70,9 +70,9 @@ const iframeTransform = {
                                 {
                                     type: "paragraph",
                                     children: [
-                                        { type: "text", value: "scan the QR code to open the link or click " },
-                                        { type: "link", url: url, children: [{ type: "text", value: "here" }] },
-                                        { type: "text", value: " to open the link." }
+                                        { type: "text", value: "scan de QR code voor het filmpje, of click  " },
+                                        { type: "link", url: url, children: [{ type: "text", value: "hier" }] },
+                                        { type: "text", value: " om de link te openen." }
                                     ]
                                 }
                             ]

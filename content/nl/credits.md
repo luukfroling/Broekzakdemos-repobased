@@ -32,6 +32,7 @@ van den Berg, E. & Pols, F. (2025). Broekzakdemos. NVON.
     author    = {Ed van den Berg and Freek Pols},
     title     = {Broekzakdemos},
     year      = {2025},
-    publisher = {NVON}
+    publisher = {NVON},
+    location  = {Meppel}
 }
 ```

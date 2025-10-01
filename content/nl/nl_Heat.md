@@ -45,7 +45,7 @@ Adem uit met de mond wijd open en voel dat op je hand (warm), blaas vervolgens d
 
 Blazen door een mond met grote opening
 ```
-```{figure} ../figures/blownsmall.*
+```{figure} ../figures/blowsmall.*
 :width: 50%
 
 Blazen door een mond met smalle opening

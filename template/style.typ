@@ -27,7 +27,7 @@
   description: "description",
 
   // SPECIFICATION
-  paper-size: "a5",       // https://typst.app/docs/reference/layout/page/#parameters-paper
+  paper-size: "a4",       // https://typst.app/docs/reference/layout/page/#parameters-paper
   margin: (),                          
   logo: none,
   logo_width: 10%,
@@ -76,7 +76,10 @@
   set enum(indent: 10pt, body-indent: 9pt)
   set list(indent: 10pt, body-indent: 9pt)
 
-
+  show figure.caption: it => {
+  set par(justify: true)
+  it
+  }
 
 // COVERPAGE
   // Title, subtitle, 

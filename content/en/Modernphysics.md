@@ -31,6 +31,6 @@ Often cosmic expansion is shown with a balloon. Blow a balloon a little bit and 
 
 ## Hidden dimensions in string theory
 
-Some theories of space-time such as in string theories propose more than 3 (space) or 4 (space-time) dimensions. In one of his videos Sean Carroll uses a visualization to show how one could not see a dimension. A sheet of A4 has 2 dimensions, length and breadth. When rolled up tight the two dimensions are still there, but one is invisible.
+Some theories of space-time such as in string theories propose more than 3 (space) or 4 (space-time) dimensions. In one of his videos Sean Carroll uses a visualization to show how one could not see a dimension. A sheet of a4 has 2 dimensions, length and breadth. When rolled up tight the two dimensions are still there, but one is invisible.
 
 And there are many more possibilities of experiments with no equipment. Google on [freihandversuche](https://www.experimentis.de/experimente-index/) for German literature (use Google translate) or look in {cite:p}`Minnaert1954` or see the 400+ demonstrations in {cite:p}`Liem1987` many of which can be performed without specialized equipment. Freihandversuche only require very simple equipment, but it might be just a bit more than what you typically have in your pocket.
