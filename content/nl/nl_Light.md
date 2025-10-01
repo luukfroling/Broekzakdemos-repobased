@@ -11,7 +11,7 @@ De beste manier om een les over optica te beginnen is met een volledige donker l
 .
 ```
 
-1. Een kaars brand overdag. Het licht van de kaars:\
+1. Een kaars brandt overdag. Het licht van de kaars:\
  A. Blijft bij de kaars \
  B. Verspreidt tot ongeveer halverwege jou \
  C. Verspreidt tot jou \
@@ -38,26 +38,26 @@ De beste manier om een les over optica te beginnen is met een volledige donker l
 .
 ```
 
-3. Nu is er een kaars in de buurt van een lampje. Het licht van het lampje:
+3. Nu is er een kaars in de buurt van een lampje. Het licht van het lampje:\
  A. Blijft bij het lampje\
  B. Verspreidt tot ongeveer halverwege jou \
  C. Verspreidt tot jou \
  D. Verpreidt tot het ergens tegenaan komt 
 
-4. Vervolgens is het avond. Het licht van het lampje:
+4. Vervolgens is het avond. Het licht van het lampje:\
  A. Blijft bij het lampje\
  B. Verspreidt tot ongeveer halverwege jou \
  C. Verspreidt tot jou \
  D. Verpreidt tot het ergens tegenaan komt 
 
 ## Wit licht en kleuren met alledaagse voorwerpen
-Er is altijd wel iets dat werkt als een prisma, bv het plastic van die goedkoopste doorzichtige Bic pennen. Dan heb je een spectrum. Wie weet is er ook nog een jongen met een zakmes dat ook een lens heeft. Gebruik die om de kleuren weer bij elkaar te brengen en zie, wit licht! Als er een beamer in het lokaal is, zijn er meer mogelijkheden.
+Er is altijd wel iets dat werkt als een prisma, bv het plastic van die goedkoopste doorzichtige Bic pennen. Dan heb je een spectrum. Wie weet is er ook nog iemand met een zakmes met een lens. Gebruik die om de kleuren weer bij elkaar te brengen en zie, wit licht! Als er een beamer in het lokaal is, zijn er meer mogelijkheden.
 
 ## Kleuren maken
-Van het vorige experiment hebben we misschien geleerd dat alles met een wig vorm, bijvoorbeeld goedkope balpennen met een hexagon erin, kleuren kunnen maken van wit licht. Je herkent die vormen overal, zoals de rand van een badkamerspiegel of een prisma. Kijk om je heen, heeft er iemand kleding of schoenen met glitter en kleuren? Zijn daar wig vormen aanwezig?
+Van het vorige experiment hebben we misschien geleerd dat alles met een wig vorm, bijvoorbeeld goedkope balpennen met een hexagon erin, kleuren kunnen "maken" van wit licht. Je herkent die vormen overal, zoals de rand van een badkamerspiegel of een prisma. Kijk om je heen, heeft er iemand kleding of schoenen met glitter en kleuren? Zijn daar wig vormen aanwezig?
 
 ## Kleuren filteren
-Is er iemand die tranparantie gekleurde snoeppapiertjes heeft? Gebruik een zaklamp of het licht van een telefoon en schijn door het gekleurde papier richting de studenten. Het oorspronkelijke licht is wit, het snoeppapiertje filtert kleuren van wit. Een rood papiertje filtert blauw en groen, en laat rood door. Een blauw papiertje filtert groen en rood, en laat blauw door. Als je meerdere papiertjes en meerdere lampen hebt kan je de kleuren ook weer optellen. 
+Is er iemand die tranparantie gekleurde snoeppapiertjes heeft? Gebruik een zaklamp of het licht van een telefoon en schijn door het gekleurde papier richting de studenten. Het oorspronkelijke licht is wit, het snoeppapiertje filtert kleuren van wit. Een rood papiertje filtert blauw en groen, en laat rood door. Een blauw papiertje filtert groen en rood, en laat blauw door. Als je meerdere papiertjes en meerdere lampen hebt kun je de kleuren ook weer optellen. 
 
 ```{figure} ../images/20250513_121309.*
 :width: 60%
@@ -69,17 +69,19 @@ Leg verschillende soorten doorzichtig papier op elkaar.
 ## Kleuren optellen
 Misschien heb je wel een Newtonschijf op een ronddraaiend plateau. Door kleuren rond te draaien kan je ze optellen totdat ze er wit uitzien. Je kan ook een touwtje door het midden gebruiken om de schijf rond te laten draaien. Uiteraard heeft [PhET een goede simulatie](https://phet.colorado.edu/en/simulations/color-vision) voor het optellen van kleuren, die laat zien hoe je met de primaire kleuren alle andere kleuren kan maken.
 
-## Reflectie 
-Er hebben vast studenten spiegeltjes in hun tas. Daarmee kun je van alles doen. Snel’s spiegelwet. Stel dat je de spiegel op de muur plakt (laat een leerling die vasthouden), waar moet de spiegel gepositioneerd worden opdat je je schoen erin kan zien? Etc. Als je toch een iets grotere spiegel vindt of hebt meegenomen (of een spiegelend raam kan gebruiken), laat een leerling die dan tegen de muur houden en zet er een andere leerling voor. Zorg dat de spiegel net iets te hoog is voor die leerling om zijn/haar eigen schoenen te zien. Vraag de klas *Wat moet hij/zij doen om de schoenen te zien?* Velen zullen zeggen achteruitlopen. Probeer maar, het lukt niet. Een simpel stralendiagram laat zien dat je alleen je voeten kunt zien als er een spiegelend oppervlak is precies halverwege ooghoogte en tenen. Kijk uit voor holle en bolle spiegels bij deze demo, je hebt een vlakke spiegel nodig. Let ook op dat de spiegel niet stiekem wat uit het verticale vlak gedraaid wordt.
+## Snellius
+### Reflectie 
+Er hebben vast studenten spiegeltjes in hun tas. Daarmee kun je van alles doen. Snell’s spiegelwet bijvoorbeeld. Stel dat je de spiegel op de muur plakt (laat een leerling die vasthouden), waar moet de spiegel gepositioneerd worden opdat je je schoen erin kan zien? Etc. 
+
+Als je toch een iets grotere spiegel vindt of hebt meegenomen (of een spiegelend raam kan gebruiken), laat een leerling die dan tegen de muur houden en zet er een andere leerling voor. Zorg dat de spiegel net iets te hoog is voor die leerling om zijn/haar eigen schoenen te zien. Vraag de klas *Wat moet hij/zij doen om de schoenen te zien?* Velen zullen zeggen achteruitlopen. Probeer maar, het lukt niet. Een simpel stralendiagram laat zien dat je alleen je voeten kunt zien als er een spiegelend oppervlak is precies halverwege ooghoogte en tenen. Kijk uit voor holle en bolle spiegels bij deze demo, je hebt een vlakke spiegel nodig. Let ook op dat de spiegel niet stiekem wat uit het verticale vlak gedraaid wordt.
 
 ```{figure} ../images/mirror.*
 :width: 60%
 :name: fig_mirror
 
-Kan je meer zien van je lichaam als je wegloopt van de spiegel?
+Kun je meer zien van je lichaam als je wegloopt van de spiegel?
 ```
 
-## Snellius
 ### Visualisatie van Snell's terugkaatsingswet in drie dimensies
 We laten zelden zien wat het betekent dat de inkomende en gereflecteerde (of gebroken) lichtstralen in één vlak liggen. Neem 3 meetlatten, of bezemstelen, of stukken plastic pijp, of pennen/potloden van leerlingen. Eén daarvan wordt de normaal op de spiegel (of op het grensvlak van twee media). De andere twee worden respectievelijk de inkomende en de teruggekaatste (of gebroken) lichtstraal. Die moeten dus in één vlak liggen. Laat zien hoe het eruit ziet als die niet in een vlak zouden liggen. 
 
@@ -87,7 +89,7 @@ We laten zelden zien wat het betekent dat de inkomende en gereflecteerde (of geb
 Als er een laserpointer in het lokaal is, dan kun je natuurlijk ook een spiegeltje op de tafel leggen en daarmee laten zien dat invallende en uitgaande lichtstraal in een vlak liggen met de normaal. Let op dat je een platte spiegel gebruikt, geen holle. 
 
 ### Snell's terugkaatsingswet met spelden
-Als je spelden hebt, dan kun je een rechtopstaand potlood of pen als voorwerp gebruiken en vanuit verschillende gezichtspunten heengaande en teruggekaatste lichtstralen vastprikken en door verlenging de locatie van het virtuele voorwerp vinden. Zie een hele serie simpele en nuttige experimenten in {cite:p}`McDermott1996`.
+Als je spelden hebt, dan kun je een rechtopstaand potlood of pen als voorwerp gebruiken en vanuit verschillende gezichtspunten heengaande en teruggekaatste lichtstralen vastprikken en door verlenging de locatie van het virtuele voorwerp vinden. Zie een hele serie simpele en nuttige experimenten in [@McDermott1996]().
 
 ## Breking
 ### Potlood schuin in een glas water
@@ -112,7 +114,7 @@ Beweeg het potlood heen en weer en beschrijf wat je ziet.
 
 ### Pijlen gezien door lucht en door een glas water
 (Tsjechische contributie voor Physics on Stage, {cite:p}`Nugent2010`)  
-Teken enkele parallelle pijlen op een kaartje of stukje papier. Houd dit object achter een glas water dat half gevuld is, zo dat enkele pijlen alleen gezien worden door het water en andere pijlen alleen door de lucht in het glas. Als het object verder van het centrum van het glas is dan de brandpuntsafstand, dan zijn de pijlen gezien door het water omgekeerd {numref}`Figuur {number} <fig_arrow>`. 
+Teken enkele parallelle pijlen op een kaartje of stukje papier. Houd dit object achter een glas water dat half gevuld is, zo dat enkele pijlen alleen gezien worden door het water en andere pijlen alleen door de lucht in het glas. Als het object verder van het centrum van het glas is dan de brandpuntsafstand, dan zijn de pijlen gezien door het water omgekeerd ({numref}`Figuur {number} <fig_arrow>`). 
 
 ```{figure} ../images/20250513_103744.*
 :width: 60%
@@ -125,7 +127,7 @@ Wijzen de pijlen dezelfde kant op?
 Vraag de leerlingen om het stralendiagram uit {numref}`Figuur {number} <fig_pool>` te tekenen. Loop rond om te kijken wat veelvoorkomende fouten zijn. Bespreek ze en vraag vervolgens aan de leerlingen hoe ze een model kunnen maken met een lego-poppetje of een potlood en doe hun suggesties voor. 
 
 ```{figure} ../images/20250513_100315.*
-:width: 60%
+:width: 70%
 :name: fig_pool
 
 Natuurkundeplezier in het zwembad
@@ -148,7 +150,7 @@ Verdeel de leerlingen in groepjes van twee. Ze moeten het samentrekken van elkaa
 
 ## Reflectie en transmissie
 ### Met nat paper
-Neem een stukje papier, maak het een beetje nat in het midden met water, olie, of wat spuug. Houd het dan voor het raam of voor een lamp. Het natte deel ziet er lichter uit dan het droge (donkere) deel. Het natte deel heeft een hogere transmissie. Leg het nu op tafel waar het papier licht reflecteert. Nu ziet de natte plek er juist donker uit. Die natte plek heeft dus een betere transmissie maar daardoor minder reflectie. Leerlingen kunnen dit zelf proberen, even aan de vinger liken, op papier drukken, op tafel leggen (reflectie) en omhooghouden richting raam (transmissie) {numref}`Figuur {number} <fig_trans>`.
+Neem een stukje papier, maak het een beetje nat in het midden met water, olie, of wat spuug. Houd het dan voor het raam of voor een lamp. Het natte deel ziet er lichter uit dan het droge (donkere) deel. Het natte deel heeft een hogere transmissie. Leg het nu op tafel waar het papier licht reflecteert. Nu ziet de natte plek er juist donker uit. Die natte plek heeft dus een betere transmissie maar daardoor minder reflectie. Leerlingen kunnen dit zelf proberen, even aan de vinger liken, op papier drukken, op tafel leggen (reflectie) en omhooghouden richting raam (transmissie), zie {numref}`Figuur {number} <fig_trans>`.
 
 ```{figure} ../figures/04-15ReflectionTransmission.*
 :width: 60%
@@ -158,7 +160,9 @@ De natte plek ziet er licht uit, transmissie.
 ```
 
 ### Met LED's
-Hebben leerlingen fiets ledjes bij zich? Verduister het lokaal. Neem twee ledjes, houd het papier met de olie of watervlek ertussenin, en zoek een punt waar reflectie en transmissie gelijk zijn. Je kunt er zelfs een fotometer van maken. Zie verder [exploratorium](https://www.exploratorium.edu/snacks/oil-spot-photometer). Je kunt lampen met verschillende vermogen vergelijken.
+Hebben leerlingen fiets ledjes bij zich? Verduister het lokaal. Neem twee ledjes, houd het papier met de olie of watervlek ertussenin, en zoek een punt waar reflectie en transmissie gelijk zijn. Je kunt er zelfs een fotometer van maken. Zie verder [exploratorium](https://www.exploratorium.edu/snacks/oil-spot-photometer)[^2]. Je kunt lampen met verschillende vermogen vergelijken.
+
+[^2]: https://www.exploratorium.edu/snacks/oil-spot-photometer
 
 ## Accomodatie van het oog
 Laat leerlingen een ballpoint, of potlood, of vinger voor het oog houden. Steeds dichterbij … de achtergrond wordt wazig. Of focuseer op de achtergrond en de vinger of pen wordt wazig. De ooglens past zich aan: die aanpassing noemen we accommodatie.
@@ -167,10 +171,13 @@ Laat leerlingen een ballpoint, of potlood, of vinger voor het oog houden. Steeds
 Bovenstaande demonstratie illustreert ook het camera begrip scherpte-diepte. Leerlingen kunnen dit ook proberen met de camera van hun mobiele telefoon. Laat ze de camera focussen op iets dat ver weg is (een boek of een computerscherm) en laat ze vervolgens hun vinger heen en weer bewegen voor de lens. Je kan zien dat de achtergrond scherp is en de vinger niet, of andersom, en hoe ze allebei scherp zijn als de vinger en de tekst op dezelfde plek zijn. Probeer dit ook met geschreven tekst op de voor- en achtergrond. Cameras hebben tegenwoordig een verbazingwekkende scherpte-diepte. Je kan zelfs wat voorbeeldfoto's klaar hebben staan op de beamer. 
 
 ## Lenzen: Brillenglazen onderzoeken
-Gebruik bijvoorbeeld een fietslampje als lichtbron of gebruik het raam als object. Holle en bolle lenzen, brandpunt, omgekeerd beeld, etc.
+Gebruik bijvoorbeeld een fietslampje als lichtbron of gebruik het raam als object. Holle en bolle lenzen, brandpunt, omgekeerd beeld, etc. Je kunt de TL buis aan het plafond goed gebruiken om te bepalen wat de sterkte is van de bril, maak maar een afbeelding ervan op tafel!
+
+## Toch scherp zien?
+Zijn er leerlingen met een bril op? Vraag ze om die af te zetten. Laat ze met hun vingers een klein spleetje maken en daardoor heen kijken. Ze kunnen dan toch redelijk scherp zien. Dit is het ook principe van een pinhole camera. 
 
 ## Diffractie van een kleine spleet, of toch gewoon breking?
-Sluit je ogen tot een klein spleetje en kijk naar een lamp. Het licht verlengt tot een streep loodrecht op de oogspleet. Led-fietslampjes doen het goed als je ze op een paar meter afstand legt. Draai je hoofd heen en weer en de hoek van die verticale strepen licht verandert iets want je oogleden zijn wat gebogen. Zou Huygens in de 17de eeuw op die manier diffractie hebben kunnen zien? Probeer vanavond thuis even met een kaars. {cite:p}`Minnaert1954` verklaart de strepen licht uit breking door ribbeltjes opgestuwd oogvocht langs de rand van het ooglid en inderdaad kun je dat per ooglid afzonderlijk waarnemen (deel 1, p122).
+Sluit je ogen tot een klein spleetje en kijk naar een lamp. Het licht verlengt tot een streep loodrecht op de oogspleet. Led-fietslampjes doen het goed als je ze op een paar meter afstand legt. Draai je hoofd heen en weer en de hoek van die verticale strepen licht verandert iets want je oogleden zijn wat gebogen. Zou Huygens in de 17de eeuw op die manier diffractie hebben kunnen zien? Probeer vanavond thuis even met een kaars. [@Minnaert1954]() verklaart de strepen licht uit breking door ribbeltjes opgestuwd oogvocht langs de rand van het ooglid en inderdaad kun je dat per ooglid afzonderlijk waarnemen (deel 1, p122).
 
 ## Mouche volante
 Er is nog meer te zien in het oog zelf zoals draadjes die zweven in de oogvloeistof en het best te zien zijn tegen een egale achtergrond zoals de blauwe lucht of het plafond van de klas. Zie <http://en.wikipedia.org/wiki/Entoptic_phenomenon> voor een betere beschrijving en andere waarnemingen in onze ogen.
