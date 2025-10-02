@@ -139,3 +139,5 @@ Steek een kaars aan. Als ik door een rietje blaas net rechts van de vlam, zal de
 
 ## Til water op door te blazen
 Gebruik twee doorzichtige rietjes of buig en knip een rietje af, zie figuur X. Neem een glas water. Zet een deel van het rietje in het glas en buig de rest totdat het horizontaal is (gebruik een gedeeltelijke snee). Blaas vervolgens in de richting van een verticaal papiertje. Het papiertje wordt nat. Je kan inkt of kleurstof gebruiken om dit zichtbaarder te maken. De uitleg? Snelbewegende lucht heeft een lagere luchtdruk, dus er wordt water opgezogen door het verticale deel van het rietje en op het papier gespat. Oefen dit een paar keer voor de les. 
+
+FIGUUR
