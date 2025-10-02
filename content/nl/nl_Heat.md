@@ -17,7 +17,7 @@ Dan is er de volgende vraag: we hebben een metalen staaf die we in twee stukken 
 
 A.  $ρ_x = 2ρ_y$  
 B.  $ρ_x = ρ_y$  
-C.  $ρ_x = ½ ρ_y$  
+C.  $ρ_x = 1/2 ρ_y$  
  
 Dit zullen best veel leerlingen fout hebben. Je zou vergelijkbare vragen kunnen stellen over andere materiële eigenschappen, zoals soortelijke warmte en soortelijke weerstand. Welke natuurkundige eigenschappen kan je optellen? Massa, gewicht en volume. Welke eigenschappen kan je niet optellen (temperatuur, dichtheid, materiële eigenschappen)?
 

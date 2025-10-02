@@ -17,8 +17,9 @@ project:
   license: CC-BY-NC-4.0
 
   plugins:
-    - plugin/iframe.mjs
+    # - plugin/iframe.mjs
     - plugin/aside.mjs
+    - https://github.com/jupyter-book/myst-plugins/releases/download/iframe-to-thumbnail-pdf/iframe-to-thumbnail-pdf.mjs 
     # - https://github.com/TUD-JB-Templates/JB2_plugins/releases/download/iframe/iframe.mjs
 
   numbering:

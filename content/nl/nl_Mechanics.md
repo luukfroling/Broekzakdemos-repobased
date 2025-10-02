@@ -35,7 +35,7 @@ Kun je je hand versnellen met meer dan g?
 Kun je een vel papier net zo snel laten vallen als een boek? 
 ```
 
-.
+Vallen met $g$, langzamer of sneller?
 ```` 
 ## Val en luchtweerstand
 Laat een blad papier vallen, dat valt langzaam en fladdert. Maak dan een prop, deze valt sneller, maar net ietsje langzamer dan een steen. Neem vervolgens een dubbelgevouwen a4, leg het op een boek en laat het geheel vallen, {numref}`Figuur {number} <fig_908>`. Papier en boek komen tegelijk aan, zelfs als je van het papier een dakje vouwt en er lucht onder zit. We hebben die vacuümbuis met een veertje en een stukje lood helemaal niet nodig! Je moet wel de opbouw van je onderwijs-leergesprek met leerlingen goed doordenken, hoe betrek je ze optimaal in voorspellen en verklaren? 
@@ -45,7 +45,8 @@ Laat een blad papier vallen, dat valt langzaam en fladdert. Maak dan een prop, d
 ## Papieren bakjes 
 Van een half a4, is het gemakkelijk een rechthoekig bakje te vouwen en vast te nieten. Voeg de ongebruikte stukje papier toe in het bakje om precies de massa van een 1/2 a4 te hebben. Een vel papier dwarrelt naar beneden. Een bakje valt al snel met constante snelheid. Het is mogelijk hier een onderzoek van te maken: wat is de invloed van massa en doorsnede van het bakje op de valtijd? Een eerste benadering kan zijn met de formule $t = \frac{h\cdot A}{m}$. Deze voorspelt dat verdubbeling van hoogte $h$ of doorsnede $A$ resulteert in een verdubbeling van de valtijd $t$. De massa kun je gemakkelijk verdubbelen door twee bakjes in elkaar te vouwen. Ook de doorsnede van het bakje (het oppervlak dwars op de valrichting) is gemakkelijk te varieren.  Als je denkt dat de dwarsdoorsnede evenredig is met de tijd, laat dan het bakje met $A$ van twee keer zo hoog vallen, tegelijk met het bakje met $2A$ (maar zorg voor gelijke massa). Dan zouden ze tegelijk aan moeten komen. Is dat ook zo? Voor massa blijkt te gelden dat $t$ evenredig is met $\sqrt{m}$ in plaats van met $m^{-1}$. Zie ShowdeFysica 1 [@showdefysica1 p32-33] voor een volledige beschrijving. Een vroege versie van dit experiment is te vinden in Eric Roger's beroemde boek *Physics for the Inquiring Mind* [@rogers2011physics pg.167].
   
-
+````{figure}
+:name: bakjesval
 ```{figure} ../images/20250513_091205.jpg
 :width: 60%
 :name: fig_205
@@ -59,6 +60,8 @@ Welk bakje is sneller?
 
 Zou luchtweerstand evenredig zijn met $v^2$ in plaats van $v$? Als dat zo zou zijn, dan komen de bakjes in de figuur niet tegelijk op de grond. 
 ```
+Zou luchtweerstand evenredig zijn met $v^2$ in plaats van $v$? Als dat zo zou zijn, dan komen de bakjes in de figuur niet tegelijk op de grond. 
+````
 
 ```{iframe} https://youtube.com/embed/ELDJPqVrRZQ
 :width:60%
@@ -346,7 +349,7 @@ Hoe kun je een briefje van 10 Euro vouwen zo dat het een lading van veel munten 
 * Laat even met een stokje of liniaal zien wat een zwaartepunt is. Als je het stokje daar ondersteunt, dan is het in evenwicht. Ook even laten zien dat het zwaartepunt verschuift als een kant van de lat of liniaal wordt verzwaard. 
 * Dan iedereen op laten staan. Docent staat dwars voor de klas (met zijkant naar leerlingen toe). Voor de zichtbaarheid en de atmosfeer helpt het om op een stoel of tafel te gaan staan. Wij hebben ook een zwaartepunt. Leun voorover, wat voel je? Druk op de voorvoet, kramp in de tenen. Als je nog iets verder naar voren leunt, dan moet je een stap vooruit nemen om niet te vallen. Dan gaat het zwaartepunt (dat wel ergens in je buik zal zitten) over je tenen en dan val je om. 
 * Er zijn nog allerlei variaties. Til een been op en strek het naar voren .... nu gaan de schouders naar achteren om te compenseren en ervoor te zorgen dat het zwaartepunt niet over de tenen gaat. Draai nu een kwartslag om dus met het gezicht naar het publiek. Til het rechterbeen op en strek het naar rechts ....de schouders gaan automatisch naar links. 
-* Zak door je knieen, een deel van het lichaam gaat naar achteren (achterwerk) een deel gaat naar voren (knieen/schouders). Steeds geeft het lichaam automatisch de correcties die nodig zijn om het zwaartepunt boven de voeten te houden en niet om te vallen. Het lichaam kent zijn natuurkunde! Zie verder [@Berg2007]() en [@showdefysica2 p.200]().
+* Zak door je knieen, een deel van het lichaam gaat naar achteren (achterwerk) een deel gaat naar voren (knieen/schouders). Steeds geeft het lichaam automatisch de correcties die nodig zijn om het zwaartepunt boven de voeten te houden en niet om te vallen. Het lichaam kent zijn natuurkunde! Zie verder [@Berg2007]() en @showdefysica2 [p.200].
 
 ### Leerlingen geld op laten pakken van hun tenen zonder te vallen
 Zet leerlingen op een rij met de hakken tegen de muur ({numref}`Figuur {number} <fig_CM>`). Leen bankbiljetten van andere leerlingen en leg die voor de tenen van de leerlingen. Als ze die op kunnen rapen zonder te vallen, dan mogen ze het geld houden! Maar dat gaat niet lukken. Bij het voorover buigen komt het zwaartepunt voorbij de tenen en moeten leerlingen een stap vooruit doen om vallen te voorkomen.
@@ -387,7 +390,7 @@ Meestal is er wel een meetlat in de buurt. Steek een uiteinde onder een stapeltj
 Illustreer torsie met het openen van een deur (verticale as) of het roteren van een stoel of tafel om een horizontale as. Met torsie kunnen we de dingen laten roteren om een as.
 
 
-```{figure ../images/deurkruk.*}
+```{figure} ../images/deurkruk.*
 :width: 60%
 :name: fig_deurkruk
 

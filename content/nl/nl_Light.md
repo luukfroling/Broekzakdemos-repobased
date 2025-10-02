@@ -31,13 +31,14 @@ Figuren overgenomen uit [@stead1980exploring](), met toestemming
  C. Verspreidt tot jou \
  D. Verpreidt tot het ergens tegenaan komt 
 
++++ { "page-break": true }
+
 ```{figure} ../figures/04-1-3StraightLine.*
 :width: 40%
 :name: fig_draw3
 
 .
 ```
-
 3. Nu is er een kaars in de buurt van een lampje. Het licht van het lampje:\
  A. Blijft bij het lampje\
  B. Verspreidt tot ongeveer halverwege jou \
@@ -183,7 +184,7 @@ Gebruik bijvoorbeeld een fietslampje als lichtbron of gebruik het raam als objec
 Zijn er leerlingen met een bril op? Vraag ze om die af te zetten. Laat ze met hun vingers een klein spleetje maken en daardoor heen kijken. Ze kunnen dan toch redelijk scherp zien. Dit is het ook principe van een pinhole camera. 
 
 ## Diffractie van een kleine spleet, of toch gewoon breking?
-Sluit je ogen tot een klein spleetje en kijk naar een lamp. Het licht verlengt tot een streep loodrecht op de oogspleet. Led-fietslampjes doen het goed als je ze op een paar meter afstand legt. Draai je hoofd heen en weer en de hoek van die verticale strepen licht verandert iets want je oogleden zijn wat gebogen. Zou Huygens in de 17de eeuw op die manier diffractie hebben kunnen zien? Probeer vanavond thuis even met een kaars. [@Minnaert1954, deel 1 p122]() verklaart de strepen licht uit breking door ribbeltjes opgestuwd oogvocht langs de rand van het ooglid en inderdaad kun je dat per ooglid afzonderlijk waarnemen.
+Sluit je ogen tot een klein spleetje en kijk naar een lamp. Het licht verlengt tot een streep loodrecht op de oogspleet. Led-fietslampjes doen het goed als je ze op een paar meter afstand legt. Draai je hoofd heen en weer en de hoek van die verticale strepen licht verandert iets want je oogleden zijn wat gebogen. Zou Huygens in de 17de eeuw op die manier diffractie hebben kunnen zien? Probeer vanavond thuis even met een kaars. @Minnaert1954 [deel 1 p122] verklaart de strepen licht uit breking door ribbeltjes opgestuwd oogvocht langs de rand van het ooglid en inderdaad kun je dat per ooglid afzonderlijk waarnemen.
 
 ## Mouche volante
 Er is nog meer te zien in het oog zelf zoals draadjes die zweven in de oogvloeistof en het best te zien zijn tegen een egale achtergrond zoals de blauwe lucht of het plafond van de klas. Zie [http://en.wikipedia.org/wiki/Entoptic_phenomenon](http://en.wikipedia.org/wiki/Entoptic_phenomenon)[^sdfwe] voor een betere beschrijving en andere waarnemingen in onze ogen.
