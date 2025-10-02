@@ -18,26 +18,32 @@ Kunnen we onze handen versnellen met meer dan g?
 ## Kunnen we onze handen versnellen met meer dan g? Laat zien!
 Stel de bovenstaandevraag, laat leerlingen antwoorden, goede kans dat ze interessante voorstellen hebben voor een experiment. Eenvoudig, houd je hand vlak met een steen erop of een ander voorwerp, beweeg de hand dan snel naar beneden. De steen of het andere voorwerp is langzamer, er is ruimte tussen de steen en de hand.  Leerlingen kunnen dit nadoen op hun stoel met een willekeurig voorwerp. Zorg ervoor dat de hand alleen naar beneden wordt versneld en niet eerst naar boven.
 
+````{figure}
+:name: fig_experiment_free_fall
+
 ```{figure} ../images/20250513_090352.*
-:width: 60%
+:width: 50%
 :name: fig_352
 
 Kun je je hand versnellen met meer dan g?
 ```
 
-
-## Val en luchtweerstand
-Laat een blad papier vallen, dat valt langzaam en fladdert. Maak dan een prop, deze valt sneller, maar net ietsje langzamer dan een steen. Neem vervolgens een dubbelgevouwen a4, leg het op een boek en laat het geheel vallen, {numref}`Figuur {number} <fig_908>`. Papier en boek komen tegelijk aan, zelfs als je van het papier een dakje vouwt en er lucht onder zit. We hebben die vacuümbuis met een veertje en een stukje lood helemaal niet nodig! Je moet wel de opbouw van je onderwijs-leergesprek met leerlingen goed doordenken, hoe betrek je ze optimaal in voorspellen en verklaren? 
-
 ```{figure} ../images/20250513_090908.jpg
-:width: 60%
+:width: 50%
 :name: fig_908
 
 Kun je een vel papier net zo snel laten vallen als een boek? 
 ```
 
+.
+```` 
+## Val en luchtweerstand
+Laat een blad papier vallen, dat valt langzaam en fladdert. Maak dan een prop, deze valt sneller, maar net ietsje langzamer dan een steen. Neem vervolgens een dubbelgevouwen a4, leg het op een boek en laat het geheel vallen, {numref}`Figuur {number} <fig_908>`. Papier en boek komen tegelijk aan, zelfs als je van het papier een dakje vouwt en er lucht onder zit. We hebben die vacuümbuis met een veertje en een stukje lood helemaal niet nodig! Je moet wel de opbouw van je onderwijs-leergesprek met leerlingen goed doordenken, hoe betrek je ze optimaal in voorspellen en verklaren? 
+
+
+
 ## Papieren bakjes 
-Van een half a4, is het gemakkelijk een rechthoekig bakje te vouwen en vast te nieten. Voeg de ongebruikte stukje papier toe in het bakje om precies de massa van een 1/2 a4 te hebben. Een vel papier dwarrelt naar beneden. Een bakje valt al snel met constante snelheid. Het is mogelijk hier een onderzoek van te maken: wat is de invloed van massa en doorsnede van het bakje op de valtijd? Een eerste benadering kan zijn met de formule $t = \frac{h\cdot A}{m}$. Deze voorspelt dat verdubbeling van hoogte $h$ of doorsnede $A$ resulteert in een verdubbeling van de valtijd $t$. De massa kun je gemakkelijk verdubbelen door twee bakjes in elkaar te vouwen. Ook de doorsnede van het bakje (het oppervlak dwars op de valrichting) is gemakkelijk te varieren.  Als je denkt dat de dwarsdoorsnede evenredig is met de tijd, laat dan het bakje met $A$ van twee keer zo hoog vallen, tegelijk met het bakje met $2A$ (maar zorg voor gelijke massa). Dan zouden ze tegelijk aan moeten komen. Is dat ook zo? Voor massa blijkt te gelden dat $t$ evenredig is met $\sqrt{m}$ in plaats van met $\frac{1}{m}$. Zie ShowdeFysica 1 [@showdefysica1 p32-33] voor een volledige beschrijving. Een vroege versie van dit experiment is te vinden in Eric Roger's beroemde boek *Physics for the Inquiring Mind* [@rogers2011physics pg.167].
+Van een half a4, is het gemakkelijk een rechthoekig bakje te vouwen en vast te nieten. Voeg de ongebruikte stukje papier toe in het bakje om precies de massa van een 1/2 a4 te hebben. Een vel papier dwarrelt naar beneden. Een bakje valt al snel met constante snelheid. Het is mogelijk hier een onderzoek van te maken: wat is de invloed van massa en doorsnede van het bakje op de valtijd? Een eerste benadering kan zijn met de formule $t = \frac{h\cdot A}{m}$. Deze voorspelt dat verdubbeling van hoogte $h$ of doorsnede $A$ resulteert in een verdubbeling van de valtijd $t$. De massa kun je gemakkelijk verdubbelen door twee bakjes in elkaar te vouwen. Ook de doorsnede van het bakje (het oppervlak dwars op de valrichting) is gemakkelijk te varieren.  Als je denkt dat de dwarsdoorsnede evenredig is met de tijd, laat dan het bakje met $A$ van twee keer zo hoog vallen, tegelijk met het bakje met $2A$ (maar zorg voor gelijke massa). Dan zouden ze tegelijk aan moeten komen. Is dat ook zo? Voor massa blijkt te gelden dat $t$ evenredig is met $\sqrt{m}$ in plaats van met $m^{-1}$. Zie ShowdeFysica 1 [@showdefysica1 p32-33] voor een volledige beschrijving. Een vroege versie van dit experiment is te vinden in Eric Roger's beroemde boek *Physics for the Inquiring Mind* [@rogers2011physics pg.167].
   
 
 ```{figure} ../images/20250513_091205.jpg
@@ -184,7 +190,9 @@ Wat gebeurt er als je een ruk geeft aan elk van de toiletrollen ?
 ```
 
 ### Met een draadje en een kopje of ander breekbaar object 
-Maak nu de opstelling van {numref}`Figuur {number} <fig_RI3>`, een simpel bosje sleutels of beter een breekbaar kopje, een touwtje (bv. schoenveter), en een vinger of pen/potlood als as. Aan de andere kant van het touwtje een minder zwaar object (een schroef, een losse sleutel, wat dan ook). Vraag een voorspelling, als ik dit loslaat, wat gebeurt er dan? De docent acteert onzekerheid en vrees. Zou dit wel goed gaan? Dan, loslaten! Het tegengewicht wordt versneld en windt zich om het potlood. Dat doet de wrijving van touw/draad en potlood zozeer toenemen dat het kopje of de sleutels niet meer vallen. Voor een breed publiek gewoon vertellen wat je ziet. Een discussie staat op de [volgende site](https://sciencedemonstrations.fas.harvard.edu/presentations/coffee-mug-string) (https://tinyurl.com/59yxwhbd) met ook verwijzing naar een American Journal of Physics artikel voor een complete wiskundige behandeling.
+Maak nu de opstelling van {numref}`Figuur {number} <fig_RI3>`, een simpel bosje sleutels of beter een breekbaar kopje, een touwtje (bv. schoenveter), en een vinger of pen/potlood als as. Aan de andere kant van het touwtje een minder zwaar object (een schroef, een losse sleutel, wat dan ook). Vraag een voorspelling, als ik dit loslaat, wat gebeurt er dan? De docent acteert onzekerheid en vrees. Zou dit wel goed gaan? Dan, loslaten! Het tegengewicht wordt versneld en windt zich om het potlood. Dat doet de wrijving van touw/draad en potlood zozeer toenemen dat het kopje of de sleutels niet meer vallen. Voor een breed publiek gewoon vertellen wat je ziet. Een discussie staat op de [volgende site](https://sciencedemonstrations.fas.harvard.edu/presentations/coffee-mug-string)[^xc] met ook verwijzing naar een American Journal of Physics artikel voor een complete wiskundige behandeling.
+
+[^xc]: https://tinyurl.com/59yxwhbd
 
 ```{figure} ../figures/02-14-3RotationalInertia.JPG
 :width: 60%
@@ -397,7 +405,7 @@ Neem een tas met boeken van een leerling. Houd de tas op armslengte en houd de t
 Alle leerlingen zitten op hun stoel. Til de knie van een been iets omhoog, los van de stoel. Dat kost niet veel moeite. Strek nu het been en beweeg het gestrekte been omhoog. Dat kost wel moeite. Het krachtmoment (kracht x arm, kracht maal afstand van heup tot het zwaartepunt van het been) is nu veel groter. Bij gestrekt been ligt het zwaartepunt van het been verder van de heup (het draaipunt) dan bij het gebogen been.
 
 ## Veren parallel en in serie
-Er zijn vast wel leerlingen die elastiekjes bij zich hebben. Maak ze in parallel of serie aan elkaar vast, hang er objecten aan en vergelijk. Eventueel een paperclip ombuigen en als haak gebruiken. Breng dit in verband met de wet van Hooke:  $F=Cu$ met $C$ als veerconstante (voor veren parallel geldt: $C_{parallel} = C_1 + C_2 + ...$ voor veren in serie geldt: $\frac{1}{C_{serie}} = \frac{1}{\frac{1}{C_1} + \frac{1}{C_2} + ...}$).
+Er zijn vast wel leerlingen die elastiekjes bij zich hebben. Maak ze in parallel of serie aan elkaar vast, hang er objecten aan en vergelijk. Eventueel een paperclip ombuigen en als haak gebruiken. Breng dit in verband met de wet van Hooke:  $F=Cu$ met $C$ als veerconstante (voor veren parallel geldt: $C_{parallel} = C_1 + C_2 + ...$ voor veren in serie geldt: $\frac{1}{C_{serie}} = \frac{1}{C_1} + \frac{1}{C_2} + ...$).
 
 ## Trek- en schuifspanning met een krijtje
 Neem een krijtje (numref`Figuur {number} <fig_stress>). Trek aan beide kanten, dat geeft Trekspanning (tensile stress). Het krijtje breekt netjes met een redelijk plat breukoppervlak. Neem een nieuw krijtje. Draai nu aan beide uiteinden in tegengestelde richting: schuifspanning (shear stress). Nu breekt het krijtje met een scherp en onregelmatig breukvlak [@Culaba2009]. Toch wel jammer dat krijtjes en krijtborden langzamerhand verdwijnen. Dacht ik iets nieuws gevonden te hebben en blijkt dit al te staan in de Feynman Lectures of Physics, p39-9, 1964!

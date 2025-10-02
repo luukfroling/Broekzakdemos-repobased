@@ -1,14 +1,14 @@
 # Licht
 In een kaal klaslokaal heb je verstrooid licht van buiten en soms zelfs direct zonlicht. Er zijn lampen aan het plafond, zaklampen in de telefoons van leerlingen, en licht van telefoonschermen. De leraar heeft misschien zelfs een laser in zijn of haar zak. Je zou met al deze verschillende lichtbronnen veel natuurkundeverschijnselen kunnen laten zien. 
 
-## Voorafgaande vragen over de verplaatsing van lich
+## Voorafgaande vragen over de verplaatsing van licht
 De beste manier om een les over optica te beginnen is met een volledige donker lokaal met hooguit wat kaarslicht. Een leeg klaslokaal heeft waarschijnlijk geen verduisterende gordijnen, dus er moet geïmproviseerd worden met een kaars. Ik raad sterk aan om de fundamentele basis die normaal niet behandeld wordt nog een keer te bespreken en om de voorkennis van de leerlingen te bepalen [@van1990student]. Waarom laat je ze niet individueel de volgende  keuzevragen beantwoorden:
 
 ```{figure} ../figures/04-1-1StraightLinePropagation.*
 :width: 40%
 :name: fig_draw1
 
-.
+Figuren overgenomen uit [@stead1980exploring](), met toestemming
 ```
 
 1. Een kaars brandt overdag. Het licht van de kaars:\
@@ -67,7 +67,16 @@ Leg verschillende soorten doorzichtig papier op elkaar.
 ```
 
 ## Kleuren optellen
-Misschien heb je wel een Newtonschijf op een ronddraaiend plateau. Door kleuren rond te draaien kan je ze optellen totdat ze er wit uitzien. Je kan ook een touwtje door het midden gebruiken om de schijf rond te laten draaien. Uiteraard heeft [PhET een goede simulatie](https://phet.colorado.edu/en/simulations/color-vision) voor het optellen van kleuren, die laat zien hoe je met de primaire kleuren alle andere kleuren kan maken.
+Misschien heb je wel een Newtonschijf op een ronddraaiend plateau. Door kleuren rond te draaien kan je ze optellen totdat ze er wit uitzien. Je kan ook een touwtje door het midden gebruiken om de schijf rond te laten draaien. Uiteraard heeft [PhET een goede simulatie](https://phet.colorado.edu/en/simulations/color-vision)[^sdsa] voor het optellen van kleuren, die laat zien hoe je met de primaire kleuren alle andere kleuren kan maken.
+
+```{figure} ../figures/04-5ColorAdditionLR.*
+:width: 60%
+:name: fig_New
+
+Verschillende Newtonschijven
+```
+
+[^sdsa]: https://phet.colorado.edu/en/simulations/color-vision
 
 ## Snellius
 ### Reflectie 
@@ -113,26 +122,24 @@ Beweeg het potlood heen en weer en beschrijf wat je ziet.
 ```
 
 ### Pijlen gezien door lucht en door een glas water
-(Tsjechische contributie voor Physics on Stage, {cite:p}`Nugent2010`)  
 Teken enkele parallelle pijlen op een kaartje of stukje papier. Houd dit object achter een glas water dat half gevuld is, zo dat enkele pijlen alleen gezien worden door het water en andere pijlen alleen door de lucht in het glas. Als het object verder van het centrum van het glas is dan de brandpuntsafstand, dan zijn de pijlen gezien door het water omgekeerd ({numref}`Figuur {number} <fig_arrow>`). 
 
 ```{figure} ../images/20250513_103744.*
-:width: 60%
+:width: 70%
 :name: fig_arrow
 
-Wijzen de pijlen dezelfde kant op?
+Wijzen de pijlen dezelfde kant op? Tsjechische bijdrage voor Physics on Stage, {cite:p}`Nugent2010`
 ```
 
 ### Natuurkunde is leuk in het zwembad
 Vraag de leerlingen om het stralendiagram uit {numref}`Figuur {number} <fig_pool>` te tekenen. Loop rond om te kijken wat veelvoorkomende fouten zijn. Bespreek ze en vraag vervolgens aan de leerlingen hoe ze een model kunnen maken met een lego-poppetje of een potlood en doe hun suggesties voor. 
 
 ```{figure} ../images/20250513_100315.*
-:width: 70%
+:width: 60%
 :name: fig_pool
 
 Natuurkundeplezier in het zwembad
 ```
-
 
 ## Felle versus donkere achtergrond
 Doe het licht van het lokaal uit. De leraar of een leerling staat tegen de muur tegenover de ramen. Hun gezicht is duidelijk zichtbaar omdat er meer licht wordt gereflecteerd door het gezicht dan door de achtergrond. Vervolgens gaat de leraar of leerling voor de ramen staan met hun gezicht naar de klas. Nu is het gezicht donker en onduidelijk, omdat er veel minder licht gereflecteerd wordt door het gezicht dan er door de ramen komt. Als je het licht in het lokaal aan doet is het gezicht weer beter zichtbaar. {numref}`Figuur {number} <fig_tulip>` laat hetzelfde effect zien. 
@@ -143,7 +150,6 @@ Doe het licht van het lokaal uit. De leraar of een leerling staat tegen de muur 
 
 Heeft de tulp een andere kleur gekregen?
 ```
-
 
 ## Pupil, diafragma
 Verdeel de leerlingen in groepjes van twee. Ze moeten het samentrekken van elkaars pupil bekijken. Maak het lokaal donker of laat de leerlingen hun ogen bedekken. Doe vervolgens het licht aan. Kunnen de leerlingen zien dat de pupillen van de ander samentrekken? Herhaal dit een keer om het nog beter te kunnen zien. 
@@ -177,10 +183,12 @@ Gebruik bijvoorbeeld een fietslampje als lichtbron of gebruik het raam als objec
 Zijn er leerlingen met een bril op? Vraag ze om die af te zetten. Laat ze met hun vingers een klein spleetje maken en daardoor heen kijken. Ze kunnen dan toch redelijk scherp zien. Dit is het ook principe van een pinhole camera. 
 
 ## Diffractie van een kleine spleet, of toch gewoon breking?
-Sluit je ogen tot een klein spleetje en kijk naar een lamp. Het licht verlengt tot een streep loodrecht op de oogspleet. Led-fietslampjes doen het goed als je ze op een paar meter afstand legt. Draai je hoofd heen en weer en de hoek van die verticale strepen licht verandert iets want je oogleden zijn wat gebogen. Zou Huygens in de 17de eeuw op die manier diffractie hebben kunnen zien? Probeer vanavond thuis even met een kaars. [@Minnaert1954]() verklaart de strepen licht uit breking door ribbeltjes opgestuwd oogvocht langs de rand van het ooglid en inderdaad kun je dat per ooglid afzonderlijk waarnemen (deel 1, p122).
+Sluit je ogen tot een klein spleetje en kijk naar een lamp. Het licht verlengt tot een streep loodrecht op de oogspleet. Led-fietslampjes doen het goed als je ze op een paar meter afstand legt. Draai je hoofd heen en weer en de hoek van die verticale strepen licht verandert iets want je oogleden zijn wat gebogen. Zou Huygens in de 17de eeuw op die manier diffractie hebben kunnen zien? Probeer vanavond thuis even met een kaars. [@Minnaert1954, deel 1 p122]() verklaart de strepen licht uit breking door ribbeltjes opgestuwd oogvocht langs de rand van het ooglid en inderdaad kun je dat per ooglid afzonderlijk waarnemen.
 
 ## Mouche volante
-Er is nog meer te zien in het oog zelf zoals draadjes die zweven in de oogvloeistof en het best te zien zijn tegen een egale achtergrond zoals de blauwe lucht of het plafond van de klas. Zie <http://en.wikipedia.org/wiki/Entoptic_phenomenon> voor een betere beschrijving en andere waarnemingen in onze ogen.
+Er is nog meer te zien in het oog zelf zoals draadjes die zweven in de oogvloeistof en het best te zien zijn tegen een egale achtergrond zoals de blauwe lucht of het plafond van de klas. Zie [http://en.wikipedia.org/wiki/Entoptic_phenomenon](http://en.wikipedia.org/wiki/Entoptic_phenomenon)[^sdfwe] voor een betere beschrijving en andere waarnemingen in onze ogen.
+
+[^sdfwe]: http://en.wikipedia.org/wiki/Entoptic_phenomenon
 
 ## Parallax
 Laat de leerlingen hun rechteroog sluiten en dan een pen op armslengte omhoog houden, zó dat die op één lijn ligt met oog en een verticale streep op het bord. Laat ze nu het rechteroog openen en het linkeroog sluiten. De pen is niet langer precies voor die streep want we kijken ernaar vanuit een net iets andere hoek. Dat is parallax. Hoe verder de verticale streep op het bord, hoe kleiner het verschil. Met parallax kun je dus afstand bepalen. Zie {numref}`Figuur {number} <fig_paral>` voor de schijnbare verschuiving van pen tegen de achtergrond.
@@ -196,7 +204,7 @@ De pen, op armsafstand van de camera (het oog), staat precies op de rand van het
 Kijk met twee ogen naar een pen die je op armslengte houdt tegen een verticale lijn op het bord. Doe je linkeroog dicht, vervolgens open je linkeroog weer en sluit het rechteroog. Als de pen ogenschijnlijk sterk verschuift bij een gesloten rechteroog en relatief weinig bij een gesloten linkeroog, dan is het rechteroog dominant en het linkeroog mogelijk lui. Zo is dat bij mij. Ik heb al van jongsaf aan een lui linkeroog. Je kunt natuurlijk alle leerlingen dit zelf laten uitproberen.
 
 ## Diepte zien 1
-Twee ogen zijn beter dan een, vooral in het zien van diepte en schatten van afstanden. Laat elke leerling een pen/potlood in zowel linkerhand als rechterhand nemen {numref}`Figuur {number} <fig_depth>`. Beweeg die handen even willekeurig heen-en-weer, laat alle leerlingen dan één oog dicht doen en dan de pennen naar elkaar toe bewegen totdat de punten elkaar raken. Met een oog dicht zit je er gauw naast, met twee ogen open is het heel makkelijk. Het experiment kan ook met de twee wijsvingers gedaan worden, maar met potlood/pen is het effect dramatischer.
+Twee ogen zijn beter dan een, vooral in het zien van diepte en schatten van afstanden. Laat elke leerling een pen/potlood in zowel linkerhand als rechterhand nemen ({numref}`Figuur {number} <fig_depth>`). Beweeg die handen even willekeurig heen-en-weer, laat alle leerlingen dan één oog dicht doen en dan de pennen naar elkaar toe bewegen totdat de punten elkaar raken. Met een oog dicht zit je er gauw naast, met twee ogen open is het heel makkelijk. Het experiment kan ook met de twee wijsvingers gedaan worden, maar met potlood/pen is het effect dramatischer.
 
 ```{figure} ../figures/04-24SeeingDepth.*
 :width: 100%
@@ -206,25 +214,27 @@ Afstand schatten met een of twee ogen.
 ```
 
 ## Diepte zien 2
-Dit kan als docent demonstratie met een leerling voor de klas, of met duo’s van leerlingen waarvan een als proefpersoon en de ander als experimentator. Verzamel centen of knopen of paperclips of andere kleine voorwerpen en een bekertje (of teken een cirkel op papier). Het bekertje of de cirkel moet ongeveer 60 cm van de proefpersoon vandaan zijn. Die doet één oog dicht. De docent of experimentator houdt een munt of knoop ongeveer 50 cm boven de tafel. Beweeg de hand langzaam. Vraag de proefpersoon “laat vallen” te zeggen op het moment dat hij/zij denkt dat de munt/knoop precies boven het bekertje of de cirkel is en zie of die inderdaad in het bekertje of binnen de cirkel valt. Probeer ook met twee ogen. Probeer op grotere en kleinere afstand. Vergelijk het resultaat van 10x vallen bij elke afstand. Is er verbetering met twee ogen open? Is er verbetering wanneer het bekertje dichterbij is? Een alternatief met een uiterst duidelijk verslaglegging is enkele concentrische cirkels op een papier op de grond te tekenen, bijvoorbeeld met straal 1, 2 en 5 cm. De proefpersoon staat 1,5 m van de cirkels met één oog dicht. De experimentator houdt een viltpen vast met de punt naar beneden. De proefpersoon instrueert de experimentator de pen naar voren/achteren/links/rechts te bewegen totdat hij/zij denkt dat de viltpen boven de target is. Dan laten vallen. Het stippenpatroon is het verslag van de resultaten. Gebruik een verschillende kleur viltpen of marker voor verschillende condities zoals een oog dicht, twee ogen open, of een andere afstand van de proefpersoon tot de target.
+Dit kan als docent demonstratie met een leerling voor de klas, of met duo’s van leerlingen waarvan een als proefpersoon en de ander als experimentator. Verzamel centen of knopen of paperclips of andere kleine voorwerpen en een bekertje (of teken een cirkel op papier). Het bekertje of de cirkel moet ongeveer 60 cm van de proefpersoon vandaan zijn. Die doet één oog dicht. De docent of experimentator houdt een munt of knoop ongeveer 50 cm boven de tafel. Beweeg de hand langzaam. Vraag de proefpersoon “laat vallen” te zeggen op het moment dat hij/zij denkt dat de munt/knoop precies boven het bekertje of de cirkel is en zie of die inderdaad in het bekertje of binnen de cirkel valt. Probeer ook met twee ogen. Probeer op grotere en kleinere afstand. Vergelijk het resultaat van 10x vallen bij elke afstand. Is er verbetering met twee ogen open? Is er verbetering wanneer het bekertje dichterbij is? 
+
+Een alternatief met een uiterst duidelijk verslaglegging is enkele concentrische cirkels op een papier op de grond te tekenen, bijvoorbeeld met straal 1, 2 en 5 cm. De proefpersoon staat 1,5 m van de cirkels met één oog dicht. De experimentator houdt een viltpen vast met de punt naar beneden. De proefpersoon instrueert de experimentator de pen naar voren/achteren/links/rechts te bewegen totdat hij/zij denkt dat de viltpen boven de target is. Dan laten vallen. Het stippenpatroon is het verslag van de resultaten. Gebruik een verschillende kleur viltpen of marker voor verschillende condities zoals een oog dicht, twee ogen open, of een andere afstand van de proefpersoon tot de target.
 
 ## Blinde vlek
-Bijna elk natuurkunde boek heeft instructies om de blinde vlek van het oog te vinden, d.w.z. de plek waar de oogzenuw het oog verlaat, een plek die niet lichtgevoelig is. Laat de studenten in hun schrift een X tekenen (links) en een grote stip tekenen (rechts), ongeveer 6 cm uit elkaar. Laat ze het linkeroog dichtdoen en met het rechteroog scherpstellen op de X. Beweeg het schrift vervolgens richting het oog. Op een gegeven moment zal de stip niet meer zichtbaar zijn. Dat is wanneer het licht van de stip precies op het punt valt waar de optische zenuw het oog verlaat. Gebruik voor uitgebeidere instructies [dit onderzoek](https://research.sanfordhealth.org/sanford-promise/resources/slideshows/finding-your-blind-spot).
+Bijna elk natuurkunde boek heeft instructies om de blinde vlek van het oog te vinden, d.w.z. de plek waar de oogzenuw het oog verlaat, een plek die niet lichtgevoelig is. Laat de studenten in hun schrift een X tekenen (links) en een grote stip tekenen (rechts), ongeveer 6 cm uit elkaar. Laat ze het linkeroog dichtdoen en met het rechteroog scherpstellen op de X. Beweeg het schrift vervolgens richting het oog. Op een gegeven moment zal de stip niet meer zichtbaar zijn. Dat is wanneer het licht van de stip precies op het punt valt waar de optische zenuw het oog verlaat. Gebruik voor uitgebeidere instructies [dit onderzoek](https://research.sanfordhealth.org/sanford-promise/resources/slideshows/finding-your-blind-spot)[^3].
+
+[^3]: https://research.sanfordhealth.org/sanford-promise/resources/slideshows/finding-your-blind-spot
 
 ## Centraal versus perifeer zicht
 Denk aan iets om de verschillen tussen centrale en perifere oogcellen te illustreren. De perifere cellen zijn gevoeliger voor detectie van plotselinge bewegingen, bijvoorbeeld bescherming van het oog tegen insecten of verkeersongelukken. Leerlingen zullen komen met hun eigen verhalen. Centrale cellen zitten dichter op elkaar en zijn meer kleurgevoelig. Die kleurgevoeligheid is te testen door gekleurde voorwerpen in het verlengde van de ooghoeken van een proefpersoon te plaatsen. Bij welke hoek (van 0$^{\circ}$C centraal tot 90$^{\circ}$C in de ooghoek) worden kleuren goed zichtbaar? 
 
 ## Optische illusies
-Scan de beroemde plaatjes van parallelle lijnen die niet parallel lijken, Escher’ tekeningen, “gestalt” plaatjes, etc. en je hebt meteen 10 demo’s. Google op bv optische illusies en aanverwante termen. Zet dit op je USB-stick, stop die in je broekzak en je hebt weer een serie broekzakdemonstraties, zie bijvoorbeeld [optics4kids](https://www.optics4kids.org/optical-illusions). Idem dito natuurlijk met YouTube filmpjes.
+Scan de beroemde plaatjes van parallelle lijnen die niet parallel lijken, Escher’ tekeningen, “gestalt” plaatjes, etc. en je hebt meteen 10 demo’s. Google op bv optische illusies en aanverwante termen. Zet dit op je USB-stick, stop die in je broekzak en je hebt weer een serie broekzakdemonstraties, zie bijvoorbeeld [optics4kids](https://www.optics4kids.org/optical-illusions)[^4]. Idem dito natuurlijk met YouTube filmpjes.
+[^4]: https://www.optics4kids.org/optical-illusions
 
 ## Diffractie
-Als je toevallig toch een laser pointer in je zak hebt, dan zijn er eindeloze mogelijkheden voor demonstraties. Haren, gaatjes, reflectie, refractie, diffractie (<http://www.pl.euhou.net/docupload/files/Excersises/WorldAroundUs/Diffraction/Diffraction_and_Interference_v2.pdf>).
+Als je toevallig toch een laser pointer in je zak hebt, dan zijn er eindeloze mogelijkheden voor demonstraties. Haren, gaatjes, reflectie, refractie, diffractie [@https://doi.org/10.17770/SIE2017VOL2.2404].
 
 ## Beamer
 Als er een beamer in het lokaal is zijn er makkelijk 10 tot 20 experimenten die je extra kan doen. Denk aan de typische blauw-paarse of rood-oranje randjes rond schaduwen van voorwerpen die tussen een lens en een scherm staan. Je kan vergelijkbare randjes maken als je kijkt naar een raam of deuropening door een grote prisma waar water in zit. Als de driehoek van de prisma omhoog wijst, dan zal het rood-gele boven de schaduw onstaan en het blauw-paarse onder de schaduw. Als je de prisma omkeert zal je het tegenovergestelde effect zien. Dit is een belangrijk aspect van de uitleg. 
 
 ## Minnaert
 Marcel Minnaert was een bekende Vlaams-Nederlandse astronoom die een bekende serie boeken schreef over natuurkunde in je omgeving. Zijn boek over licht en kleur zijn in het Engels vertaald en verschenen in 1954 {cite:p}`Minnaert1954, Minnaert1993`, Hij beschrijft veel simpele experimenten die je kan uitvoeren zonder apparatuur en die verrassende resultaten hebben. 
-
-## Overig
-Zie {cite:p}`Wojewoda2017` voor simpele optica experimenten met een laser of laserpointer. 

@@ -70,8 +70,8 @@ const iframeTransform = {
                                 {
                                     type: "paragraph",
                                     children: [
-                                        { type: "text", value: "scan de QR code voor het filmpje, of click  " },
-                                        { type: "link", url: url, children: [{ type: "text", value: "hier" }] },
+                                        { type: "text", value: "scan de QR code voor het filmpje, " },
+                                        { type: "link", url: url, children: [{ type: "text", value: "of klik hier" }] },
                                         { type: "text", value: " om de link te openen." }
                                     ]
                                 }

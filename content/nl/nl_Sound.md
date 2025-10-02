@@ -4,10 +4,10 @@
 Tik tegen verschillende objecten in het lokaal om te laten horen dat elk object zijn eigen geluid heeft. Vergelijk grote en kleine houten objecten (of ander materiaal van dezelfde soort) en luister naar het verschil in toonhoogte. Vraag leerlingen te voorspellen of het geluid van het volgende object hoger of lager zal zijn en waarom. Wees voorzichtig met de ramen, maar ook die hebben een eigen toon. 
 
 ## Toonhoogte en lengte met een liniaal
-Leen een liniaal van een leerling, klamp die tussen hand en tafel en laat een deel uitsteken. Breng de liniaal in trilling met de andere hand en luister. Varieer de toonhoogte door het uitstekende deel langer en korter te maken. Het is zelfs mogelijk deze demo kwantitatief te maken door het zingen van do-re-mi want de tweede “do” heeft precies een 2x zo grote frequentie als de eerste “do”. Zo kun je de relatie vinden tussen lengte en frequentie. Verdubbelt de frequentie als je de uitstekende lengte halveert?
+Leen een liniaal van een leerling, klamp die tussen hand en tafel en laat een deel uitsteken. Breng de liniaal in trilling met de andere hand en luister. Varieer de toonhoogte door het uitstekende deel langer en korter te maken. Het is zelfs mogelijk deze demo kwantitatief te maken door het zingen van do-re-mi want de tweede “do” heeft precies een 2x zo hoge frequentie als de eerste “do”. Zo kun je de relatie vinden tussen lengte en frequentie. Word de frequentie 2x zo hoog als je de uitstekende lengte halveert?
 
 ## Toonhoogte en lengte met een rietje
-Neem een rietje. maak het uiteinde plat en knip er een driehoek van. Doe het uiteinde in je mond, met je lippen precies waar het ingeknipte deel eindigt. Blaas tot je een oboe geluid hoort, als je niets hoort kan je het rietje een beetje heen en weer bewegen tot je op de goede plek blaast. Knip vervolgens stukjes van het einde van het rietje terwijl je blaast [@Liem1987].
+Neem een rietje, maak het uiteinde plat en knip er een driehoek van. Doe het uiteinde in je mond, met je lippen precies waar het ingeknipte deel eindigt. Blaas tot je een oboe geluid hoort, als je niets hoort kan je het rietje een beetje heen en weer bewegen tot je op de goede plek blaast. Knip vervolgens stukjes van het einde van het rietje terwijl je blaast [@Liem1987].
 
 Wat hebben we geleerd? Je kan een nieuw rietje pakken, een driehoek op het einde knippen en gaten knippen met ongeveer 1-1,5 cm ertussen. Terwijl je blaast kan je nu de gaten afdekken met je vingers. Wat hebben we nu geleerd? Welke muziekinstrumenten gebruiken dit principe? 
 
@@ -23,7 +23,8 @@ Afbeelding van [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthep
 ## PVC buis lengte en toon
 Gebruik nu de langere buis en laat opnieuw de link zien tussen de toon en de lengte. Je zou een soort panfluit kunnen maken met stukken PVC buis. Je zou de leerlingen de juiste lengtes kunnen laten bepalen aan de hand van de gewenste frequenties. 
 
-Zie ook [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html) voor een uitgebreidere versie van deze demo.
+Zie ook [ShowthePhysics](https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html)[^dfsds] voor een uitgebreidere versie van deze demo.
+[^dfsds]: https://interactivetextbooks.tudelft.nl/showthephysics/demos/demo79/demo79.html
 
 ## Toonhoogte meten met een telefoon
 Als je naar de les kwam om wat over geluid te vertellen, dan zou je mischien een speelgoedfluit meenemen. Kunnen de leerlingen de toon daarvan meten met hun telefoon?
@@ -53,3 +54,6 @@ Vind objecten in het lokaal waarmee je tegelijkertijd een hoge en lage toon kunt
 
 ## Doppler simulatie met lopende leerlingen
 Neem 5 of 6 leerlingen en stel ze op in een rij. Deze leerlingen zijn de pieken van de golven. Laat ze als rij naar de stilstaande docent toelopen. Hoeveel pieken komt hij tegen in 10 seconden? Laat ze nu opnieuw lopen maar nu staat de docent niet stil maar loopt langzaam naar hen toe. De docent ziet nu meer pieken per tijdseenheid. Nu loopt de docent langzaam in dezelfde richting en wordt hij ingehaald door de rij golven. Etc.   Het geval van de bewegende waarnemer is dus vrij gemakkelijk te visualiseren. Het geval van de bewegende bron is lastiger. Denk aan een bewegende vrachtwagen waarop de rij leerlingen marcheert? 
+
+## Het geluid van cappucino
+Als je net cappuccino hebt gemaakt, moet je schuim goed door de koffie roeren. Tik met een lepeltje op de onderkant van het kopje. Wat hoor je? De frequentie wordt steeds hoger: de luchtbellen in het kopje zorgen voor een andere geluidsnelheid. Omdat de luchtbellen weer verdwijnen aan de oppervlak, zal de geluidsnelheid en daarmee de frequentie ook veranderen.

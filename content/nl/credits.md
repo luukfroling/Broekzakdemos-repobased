@@ -23,9 +23,11 @@ Iris Brouwer heeft bijgedragen aan het maken van de foto's door veel van de demo
 ## Licentie
 CC-BY
 
+Alles uit deze uitgave mag worden gedeeld en/of bewerkt, mits er naamsvermelding plaatsvindt. Voor meer informatie over deze licentie, zie: [https://creativecommons.org/licenses/by/4.0/deed.nl](https://creativecommons.org/licenses/by/4.0/deed.nl)
+
 ## Referentie
 Als u dit boek gebruikt, verwijs er dan naar als: 
-van den Berg, E. & Pols, F. (2025). Broekzakdemos. NVON. 
+van den Berg, E. & Pols, F. (2025). Broekzakdemos. NVON. Of gebruik onderstaande BibTeX referentie.
 
 ```bibtex
 @book{vandenBergPols2025,
