@@ -1,4 +1,8 @@
-name: Deploy Multi-Language MyST Books 🌍
+# deploy multiple language MyST books to GitHub Pages
+# Based on folder structure containing multiple languages in the content folder, e.g. content/en/, content/nl/
+# Builds each language version separately and deploys to GitHub Pages under separate folders, e.g. /en/, /nl/
+
+name: Deploy Multi-Language MyST Books
 
 on:
   push:
@@ -11,33 +15,42 @@ permissions:
   pages: write
   id-token: write
 
+# variable definitions
 env:
   NODE_VERSION: "18"
-  BEHAVIOR_PRIMARY: redirect  # redirect | copy | move
+  BEHAVIOR_PRIMARY: redirect  # redirect to english folder (/en/)
 
+# how to handle simultaneous runs
 concurrency:
   group: pages
   cancel-in-progress: false
 
+# Main jobs
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
+
+      # Clone repository
       - name: 🧾 Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
+      # Setup Node.js
       - name: ⚙️ Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: ${{ env.NODE_VERSION }}
+        # OPTIONAL: add node packages here
 
+      # Install MyST Markdown CLI and dependencies, yq is used for YAML manipulation
       - name: 📦 Install MyST Markdown CLI and dependencies
         run: |
           npm install -g mystmd js-yaml yq
 
+      # Prepare build folders
       - name: 🗂️ Prepare build folders
         run: mkdir -p _build/en _build/nl site/en site/nl
 
@@ -50,6 +63,7 @@ jobs:
             .site.actions = [{"title": "Dutch", "url": "https://luukfroling.github.io/Broekzakdemos-repobased/nl/"}]
           ' myst.yml
 
+      # remove _build/html if it exists, build book, verify index.html exists, copy to _build/en
       - name: 🌐 Build English Book
         env:
           BASE_URL: /${{ github.event.repository.name }}/en/
@@ -71,6 +85,7 @@ jobs:
             .site.actions = [{"title": "English", "url": "https://luukfroling.github.io/Broekzakdemos-repobased/en/"}]
           ' myst.yml
 
+      # remove _build/html if it exists, build book, verify index.html exists, copy to _build/nl
       - name: 🌐 Build Dutch Book
         env:
           BASE_URL: /${{ github.event.repository.name }}/nl/
@@ -83,19 +98,16 @@ jobs:
           mkdir -p _build/nl
           cp -r _build/html/* _build/nl/
 
+      # Place both builds into site/ for deployment
       # ---------- ORGANIZE OUTPUT ----------
       - name: 🧩 Organize build outputs
         run: |
           cp -r _build/en/* site/en/
           cp -r _build/nl/* site/nl/
+          touch site/.nojekyll
           echo "✅ Build complete: English → site/en, Dutch → site/nl"
 
-      # ---------- ADD .NOJEKYLL ----------
-      - name: 🚫 Disable Jekyll processing
-        run: |
-          echo "Creating .nojekyll file at site root..."
-          touch site/.nojekyll
-
+      # Set redirect in root based on BEHAVIOR_PRIMARY
       # ---------- ROOT BEHAVIOR ----------
       - name: 🧭 Root behavior (redirect/copy/move)
         run: |
