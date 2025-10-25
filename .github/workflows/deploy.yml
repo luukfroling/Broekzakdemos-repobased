@@ -107,6 +107,16 @@ jobs:
               ;;
           esac
 
+      # ---------- DEPLOY TO GITHUB PAGES ----------
+      - name: 📤 Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: 🚀 Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
       # ---------- SUMMARY ----------
       - name: 📝 Summary
         run: |
