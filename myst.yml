@@ -30,3 +30,7 @@ site:
   options:
   #   favicon: favicon.ico
     logo: NVON.png
+  
+  actions:
+    - title: Dutch
+      url: https://luukfroling.github.io/Broekzakdemos-branchbased/nl/
