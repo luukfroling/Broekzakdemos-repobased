@@ -111,6 +111,26 @@ jobs:
           esac
           cd ..
 
+        # ---------- VALIDATE SITE CONTENT BEFORE DEPLOY ----------
+      - name: ✅ Validate site contents
+        run: |
+          echo "Verifying built site folders before upload..."
+          if [ ! -f "site/en/index.html" ]; then
+            echo "❌ site/en/index.html is missing! Build output not copied correctly."
+            echo "Listing site/en:"
+            ls -al site/en || true
+            exit 1
+          fi
+          if [ ! -f "site/nl/index.html" ]; then
+            echo "❌ site/nl/index.html is missing! Build output not copied correctly."
+            echo "Listing site/nl:"
+            ls -al site/nl || true
+            exit 1
+          fi
+          echo "✅ site/en/index.html and site/nl/index.html found."
+          echo "Listing final site structure:"
+          ls -R site
+
       # ---------- DEPLOY TO GITHUB PAGES ----------
       - name: 📤 Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
