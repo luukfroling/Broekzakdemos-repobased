@@ -106,3 +106,28 @@ jobs:
               echo '<meta http-equiv="refresh" content="0; url=en/">' > index.html
               ;;
           esac
+
+      # ---------- SUMMARY ----------
+      - name: 📝 Summary
+        run: |
+          echo "## 🌍 Multi-Language Deployment Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 📘 Languages Built" >> $GITHUB_STEP_SUMMARY
+          echo "| Language | Folder | URL |" >> $GITHUB_STEP_SUMMARY
+          echo "|-----------|---------|-----|" >> $GITHUB_STEP_SUMMARY
+          echo "| 🇬🇧 English | \`/en/\` | [${{ steps.deployment.outputs.page_url }}en/]( ${{
+            steps.deployment.outputs.page_url }}en/ ) |" >> $GITHUB_STEP_SUMMARY
+          echo "| 🇳🇱 Dutch   | \`/nl/\` | [${{ steps.deployment.outputs.page_url }}nl/]( ${{
+            steps.deployment.outputs.page_url }}nl/ ) |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### ⚙️ Deployment Details" >> $GITHUB_STEP_SUMMARY
+          echo "- Repository: **${{ github.repository }}**" >> $GITHUB_STEP_SUMMARY
+          echo "- Triggered by: **${{ github.actor }}**" >> $GITHUB_STEP_SUMMARY
+          echo "- Commit: [${{ github.sha }}](https://github.com/${{ github.repository }}/commit/${{ github.sha }})" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 🚀 Live Site Root" >> $GITHUB_STEP_SUMMARY
+          echo "- 🌐 [${{ steps.deployment.outputs.page_url }}](${{ steps.deployment.outputs.page_url }})" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "✅ **Deployment complete.** The following language versions are available:" >> $GITHUB_STEP_SUMMARY
+          echo "- English → [${{ steps.deployment.outputs.page_url }}en/]" >> $GITHUB_STEP_SUMMARY
+          echo "- Dutch → [${{ steps.deployment.outputs.page_url }}nl/]" >> $GITHUB_STEP_SUMMARY
