@@ -41,7 +41,7 @@ jobs:
       - name: 🗂️ Prepare build folders
         run: mkdir -p _build/en _build/nl site/en site/nl
 
-      # ---------- ENGLISH BUILD ----------
+       # ---------- ENGLISH BUILD ----------
       - name: 🔧 Configure MyST for English
         run: |
           echo "Configuring myst.yml for English build..."
@@ -53,8 +53,10 @@ jobs:
       - name: 🌐 Build English Book
         run: |
           echo "🏗️ Building English MyST site..."
-          myst build --site -o _build/en --ci
-          test -f _build/en/index.html || (echo "❌ English build failed" && exit 1)
+          myst build --site --ci
+          test -d _build/site || (echo "❌ English build failed" && exit 1)
+          mkdir -p _build/en
+          cp -r _build/site/* _build/en/
 
       # ---------- DUTCH BUILD ----------
       - name: 🔧 Configure MyST for Dutch
@@ -68,8 +70,10 @@ jobs:
       - name: 🌐 Build Dutch Book
         run: |
           echo "🏗️ Building Dutch MyST site..."
-          myst build --site -o _build/nl --ci
-          test -f _build/nl/index.html || (echo "❌ Dutch build failed" && exit 1)
+          myst build --site --ci
+          test -d _build/site || (echo "❌ Dutch build failed" && exit 1)
+          mkdir -p _build/nl
+          cp -r _build/site/* _build/nl/
 
       # ---------- ORGANIZE OUTPUT ----------
       - name: 🧩 Organize build outputs
