@@ -52,7 +52,8 @@ jobs:
 
       - name: 🌐 Build English Book
         run: |
-          myst build content/en --path-output _build/en
+          echo "🏗️ Building English MyST site..."
+          myst build --site -o _build/en --ci
           test -f _build/en/index.html || (echo "❌ English build failed" && exit 1)
 
       # ---------- DUTCH BUILD ----------
@@ -66,7 +67,8 @@ jobs:
 
       - name: 🌐 Build Dutch Book
         run: |
-          myst build content/nl --path-output _build/nl
+          echo "🏗️ Building Dutch MyST site..."
+          myst build --site -o _build/nl --ci
           test -f _build/nl/index.html || (echo "❌ Dutch build failed" && exit 1)
 
       # ---------- ORGANIZE OUTPUT ----------
@@ -100,20 +102,3 @@ jobs:
               echo '<meta http-equiv="refresh" content="0; url=en/">' > index.html
               ;;
           esac
-          cd ..
-
-      # ---------- DEPLOY ----------
-      - name: 📤 Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-
-      - name: 🚀 Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
-
-      - name: 📝 Summary
-        run: |
-          echo "## 🚀 Deployment Summary" >> $GITHUB_STEP_SUMMARY
-          echo "- English → [${{ steps.deployment.outputs.page_url }}en/]" >> $GITHUB_STEP_SUMMARY
-          echo "- Dutch   → [${{ steps.deployment.outputs.page_url }}nl/]" >> $GITHUB_STEP_SUMMARY
