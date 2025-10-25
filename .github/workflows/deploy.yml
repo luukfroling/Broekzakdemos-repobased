@@ -51,11 +51,12 @@ jobs:
           ' myst.yml
 
       - name: 🌐 Build English Book
+        env:
+          BASE_URL: /${{ github.event.repository.name }}/en/
         run: |
           echo "🏗️ Building English MyST site..."
-          rm -rf _build/html
-          myst build --html --ci
-          test -d _build/html || (echo "❌ English build failed" && exit 1)
+          myst build --html --ci --baseurl "$BASE_URL"
+          test -f _build/html/index.html || (echo "❌ English build failed" && exit 1)
           mkdir -p _build/en
           cp -r _build/html/* _build/en/
 
@@ -69,11 +70,12 @@ jobs:
           ' myst.yml
 
       - name: 🌐 Build Dutch Book
+        env:
+          BASE_URL: /${{ github.event.repository.name }}/nl/
         run: |
           echo "🏗️ Building Dutch MyST site..."
-          rm -rf _build/html
-          myst build --html --ci
-          test -d _build/html || (echo "❌ Dutch build failed" && exit 1)
+          myst build --html --ci --baseurl "$BASE_URL"
+          test -f _build/html/index.html || (echo "❌ Dutch build failed" && exit 1)
           mkdir -p _build/nl
           cp -r _build/html/* _build/nl/
 
@@ -85,6 +87,7 @@ jobs:
           touch site/.nojekyll
           echo "✅ Build complete: English → site/en, Dutch → site/nl"
           ls -R site
+
 
       # ---------- ROOT BEHAVIOR ----------
       - name: 🧭 Root behavior (redirect/copy/move)
