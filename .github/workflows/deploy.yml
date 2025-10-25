@@ -56,6 +56,7 @@ jobs:
         run: |
           echo "🏗️ Building English MyST site..."
           echo "Using BASE_URL=$BASE_URL"
+          rm -rf _build/html
           myst build --html --ci
           test -f _build/html/index.html || (echo "❌ English build failed" && exit 1)
           mkdir -p _build/en
@@ -76,6 +77,7 @@ jobs:
         run: |
           echo "🏗️ Building Dutch MyST site..."
           echo "Using BASE_URL=$BASE_URL"
+          rm -rf _build/html
           myst build --html --ci
           test -f _build/html/index.html || (echo "❌ Dutch build failed" && exit 1)
           mkdir -p _build/nl
