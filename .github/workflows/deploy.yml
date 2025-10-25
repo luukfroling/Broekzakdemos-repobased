@@ -41,7 +41,7 @@ jobs:
       - name: 🗂️ Prepare build folders
         run: mkdir -p _build/en _build/nl site/en site/nl
 
-       # ---------- ENGLISH BUILD ----------
+      # ---------- ENGLISH BUILD ----------
       - name: 🔧 Configure MyST for English
         run: |
           echo "Configuring myst.yml for English build..."
@@ -53,6 +53,7 @@ jobs:
       - name: 🌐 Build English Book
         run: |
           echo "🏗️ Building English MyST site..."
+          rm -rf _build/site
           myst build --site --ci
           test -d _build/site || (echo "❌ English build failed" && exit 1)
           mkdir -p _build/en
@@ -70,6 +71,7 @@ jobs:
       - name: 🌐 Build Dutch Book
         run: |
           echo "🏗️ Building Dutch MyST site..."
+          rm -rf _build/site
           myst build --site --ci
           test -d _build/site || (echo "❌ Dutch build failed" && exit 1)
           mkdir -p _build/nl
@@ -82,6 +84,7 @@ jobs:
           cp -r _build/nl/* site/nl/
           touch site/.nojekyll
           echo "✅ Build complete: English → site/en, Dutch → site/nl"
+          ls -R site
 
       # ---------- ROOT BEHAVIOR ----------
       - name: 🧭 Root behavior (redirect/copy/move)
@@ -106,6 +109,7 @@ jobs:
               echo '<meta http-equiv="refresh" content="0; url=en/">' > index.html
               ;;
           esac
+          cd ..
 
       # ---------- DEPLOY TO GITHUB PAGES ----------
       - name: 📤 Upload Pages artifact
@@ -125,10 +129,8 @@ jobs:
           echo "### 📘 Languages Built" >> $GITHUB_STEP_SUMMARY
           echo "| Language | Folder | URL |" >> $GITHUB_STEP_SUMMARY
           echo "|-----------|---------|-----|" >> $GITHUB_STEP_SUMMARY
-          echo "| 🇬🇧 English | \`/en/\` | [${{ steps.deployment.outputs.page_url }}en/]( ${{
-            steps.deployment.outputs.page_url }}en/ ) |" >> $GITHUB_STEP_SUMMARY
-          echo "| 🇳🇱 Dutch   | \`/nl/\` | [${{ steps.deployment.outputs.page_url }}nl/]( ${{
-            steps.deployment.outputs.page_url }}nl/ ) |" >> $GITHUB_STEP_SUMMARY
+          echo "| 🇬🇧 English | \`/en/\` | [${{ steps.deployment.outputs.page_url }}en/](${{ steps.deployment.outputs.page_url }}en/) |" >> $GITHUB_STEP_SUMMARY
+          echo "| 🇳🇱 Dutch   | \`/nl/\` | [${{ steps.deployment.outputs.page_url }}nl/](${{ steps.deployment.outputs.page_url }}nl/) |" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "### ⚙️ Deployment Details" >> $GITHUB_STEP_SUMMARY
           echo "- Repository: **${{ github.repository }}**" >> $GITHUB_STEP_SUMMARY
@@ -138,6 +140,4 @@ jobs:
           echo "### 🚀 Live Site Root" >> $GITHUB_STEP_SUMMARY
           echo "- 🌐 [${{ steps.deployment.outputs.page_url }}](${{ steps.deployment.outputs.page_url }})" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "✅ **Deployment complete.** The following language versions are available:" >> $GITHUB_STEP_SUMMARY
-          echo "- English → [${{ steps.deployment.outputs.page_url }}en/]" >> $GITHUB_STEP_SUMMARY
-          echo "- Dutch → [${{ steps.deployment.outputs.page_url }}nl/]" >> $GITHUB_STEP_SUMMARY
+          echo "✅ **Deployment complete.**" >> $GITHUB_STEP_SUMMARY
