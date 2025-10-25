@@ -53,11 +53,11 @@ jobs:
       - name: 🌐 Build English Book
         run: |
           echo "🏗️ Building English MyST site..."
-          rm -rf _build/site
-          myst build --site --ci
-          test -d _build/site || (echo "❌ English build failed" && exit 1)
+          rm -rf _build/html
+          myst build --html --ci
+          test -d _build/html || (echo "❌ English build failed" && exit 1)
           mkdir -p _build/en
-          cp -r _build/site/* _build/en/
+          cp -r _build/html/* _build/en/
 
       # ---------- DUTCH BUILD ----------
       - name: 🔧 Configure MyST for Dutch
@@ -71,11 +71,11 @@ jobs:
       - name: 🌐 Build Dutch Book
         run: |
           echo "🏗️ Building Dutch MyST site..."
-          rm -rf _build/site
-          myst build --site --ci
-          test -d _build/site || (echo "❌ Dutch build failed" && exit 1)
+          rm -rf _build/html
+          myst build --html --ci
+          test -d _build/html || (echo "❌ Dutch build failed" && exit 1)
           mkdir -p _build/nl
-          cp -r _build/site/* _build/nl/
+          cp -r _build/html/* _build/nl/
 
       # ---------- ORGANIZE OUTPUT ----------
       - name: 🧩 Organize build outputs
